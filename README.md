@@ -39,7 +39,7 @@ For each account:
 
 ```json
 {
-  "account": "0x.....",
+  "address": "0x.....",
   "date": "2020-10-27T18:29:35Z",
   "reason": "stolen data"
 },

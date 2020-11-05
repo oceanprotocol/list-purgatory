@@ -6,7 +6,7 @@ export interface AssetData {
   }
 
   export interface AccountData {
-    did: string
+    address: string
     date: string
     reason: string
   }
