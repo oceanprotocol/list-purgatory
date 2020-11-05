@@ -1,9 +1,21 @@
-import listAssets from './list-assets.json'
+import listAssetsJson from './list-assets.json'
 import { AssetData } from './types'
 
-import listAccounts from './list-accounts.json'
+import listAccountsJson from './list-accounts.json'
 import { AccountData } from './types'
 
+const listAssets: AssetData[] = listAssetsJson.map((asset) => {
+  return { did: asset.did, reason: asset.did, date: asset.date } as AssetData
+})
+
+const listAccounts: AccountData[] = listAccountsJson.map((account) => {
+  return {
+    address: account.address,
+    reason: account.did,
+    date: account.date
+  } as AccountData
+})
+
 export default listAssets
-export { listAssets, AssetData }
+export { listAssets }
 export { listAccounts, AccountData }
