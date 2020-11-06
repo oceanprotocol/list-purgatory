@@ -1,0 +1,1 @@
+This directory holds DMCA notices for October 2020. This file simply exists as a placeholder for the directory.

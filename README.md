@@ -8,7 +8,7 @@
 
 ---
 
-- [🦑 How to report an asset or an account](#-how-to-report-an-asset-or-an-account)
+- [🦑 Policies](#-policies)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
@@ -16,9 +16,9 @@
 
 ---
 
-## 🦑 How to report an asset or an account
+## 🦑 Policies
 
-_outline process_
+**[Here](policies/policies.md)** are the policies & proceses around reporting an asset or account, and more.
 
 ## 🤿 List Schema
 
