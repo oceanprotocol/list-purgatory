@@ -16,4 +16,4 @@ const listAccounts: AccountData[] = listAccountsJson.map((account) => {
   } as AccountData
 })
 
-export { listAssets, listAccounts }
+export { listAssets, listAccounts, AssetData, AccountData }
