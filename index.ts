@@ -11,7 +11,7 @@ const listAssets: AssetData[] = listAssetsJson.map((asset) => {
 const listAccounts: AccountData[] = listAccountsJson.map((account) => {
   return {
     address: account.address,
-    reason: account.did,
+    reason: account.reason,
     date: account.date
   } as AccountData
 })
