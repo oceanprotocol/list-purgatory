@@ -4,6 +4,7 @@ node_js: node
 script:
   # will run `npm ci` automatically here
   - npm run lint
+  - npm run build
 
 notifications:
   email: false
