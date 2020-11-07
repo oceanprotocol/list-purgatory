@@ -18,7 +18,7 @@
 
 ## 🦑 Policies
 
-**[Here](policies/policies.md)** are the policies & proceses around reporting an asset or account, and more.
+**[Here](policies/README.md)** are the policies & proceses around reporting an asset or account, and more.
 
 ## 🤿 List Schema
 
