@@ -40,7 +40,7 @@ It can happen in one of these ways:
 If an asset leaves purgatory, it either (a) reverts back to default state in Ocean Market, or (b) access to the asset is disabled.
 
 Access to the asset will be disabled (removed from Ocean Market) if all of the following conditions are fulfilled:
-* (Only needed if in a pool) >95% of the non-publisher liquidity has been removed, or <100 OCEAN of non-publisher liquidity remains, or >30 days have elapsed since the asset entered purgatory
+* (Only needed if in a pool) >95% of the non-publisher liquidity has been removed, or <100 OCEAN of non-publisher liquidity remains, or >30 days have elapsed since the asset entered purgatory, or OPF subjectively disables it due to sensitive data or otherwise
 * The notice has not been retracted
 
 The asset can be reverted back to default state if all of the following conditions are fulfilled:
