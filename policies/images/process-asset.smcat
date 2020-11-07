@@ -1,0 +1,20 @@
+initial,
+"               Default                         " [color="#008800" active] : <Visible>
+        -Buy/Sell
+        -Stake/Unstake,
+"               Purgatory                         " [color="orange"] : <Visible>
+        -Unstake (non-publisher only)
+        . ,
+"               Disabled                             " [color="red"] : <Not Visible>
+        .
+        . ;
+
+
+initial  => "               Default                         " : " Publish asset";
+
+"               Default                         " => "               Purgatory                         " : " Got Notice  ";
+
+"               Purgatory                         " => "               Disabled                             " : "  Time ";
+"               Purgatory                         " => "               Disabled                             " : "  Stake removed ";
+
+"               Purgatory                         " => "               Default                         " : "   Retracted ";
