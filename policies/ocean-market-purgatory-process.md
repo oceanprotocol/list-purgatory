@@ -12,13 +12,15 @@ Purgatory can be for a data asset, or an actor.
 
 * **Purgatory for an actor** is a state in which an actor (Ethereum address) is tagged as "in purgatory" in Ocean Market. Being in purgatory has implications into how the actor profile is displayed in Ocean Market, and what actions the actor is permitted to be perform in Ocean Market. Once in purgatory, the actor may stay there, or leave purgatory if certain conditions are fulfilled.
 
+![](images/process-actor.svg)
 
 ### How Does A Data Asset Enter Purgatory?
 
 It can happen in one of these ways:
-* OPF receives a DMCA takedown notice
+* OPF receives a DMCA takedown notice (report of copyright violation)
 * OPF receives a report of Trademark Policy Violation
 * OPF receives a sensitive data takedown request
+* OPF flags an asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves the right for subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?
 
