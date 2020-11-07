@@ -49,13 +49,8 @@ The asset can be reverted back to default state if all of the following conditio
 
 Here are ways that notice may be retracted:
 * The reporter submits a retraction in writing to OPF; or
-* The publisher submits a counter-proposal by email to OPF within two weeks; then the reporter submits a retraction by email to OPF within two weeks
-* The publisher submits a counter-proposal to the reporter within two weeks (and cc's OPF); then the reporter does not submit a retraction in writing to OPF within two weeks
-
-**Publisher May Send A Counter Notice.** We encourage users who have a data asset in purgatory to consult with a lawyer about their options. If a user believes that their content was disabled as a result of a mistake or misidentification, they may send OPF a [counter notice](guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#d-transparency) to our [public repository](https://github.com/oceanprotocol/dmca) and pass the notice back to the copyright owner by sending them the link.
-
-**Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on Ocean Market. In other words, you might get sued. If the copyright owner does not give Ocean Market notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, Ocean Market will reenable the disabled content.
-
+* If it's a DMCA notice: the publisher submits a counter-proposal by email to OPF within two weeks; then the reporter submits a retraction by email to OPF within two weeks
+* If it's a DMCA notice: The publisher submits a counter-proposal to the reporter within two weeks (and cc's OPF); then the reporter does not submit a retraction in writing to OPF within two weeks
 
 ### How Does An Actor Enter Purgatory?
 
@@ -68,6 +63,12 @@ It can happen in one of these ways:
 It can happen in one of these ways:
 * All assets published by the actor are on longer in {Purgatory or Disabled}; and the actor submits a request in writing to OPF, then OPF decides at its discretion whether to remove purgatory status
 
+
+### DMCA Details: Counter-Notices & Legal Actions
+
+**Publisher May Send A Counter Notice.** We encourage users who have a data asset in purgatory to consult with a lawyer about their options. If a user believes that their content was disabled as a result of a mistake or misidentification, they may send OPF a [counter notice](guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#d-transparency) to our [public repository](https://github.com/oceanprotocol/dmca) and pass the notice back to the copyright owner by sending them the link.
+
+**Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on Ocean Market. In other words, you might get sued. If the copyright owner does not give Ocean Market notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, Ocean Market will reenable the disabled content.
 
 ### Data Asset Scenario Extremes
 
@@ -89,5 +90,5 @@ Scenario: bad publisher, good reporter.
 
 ----
 
-OPF reserves the right to change this policy on an ad-hoc basis, always according to core principles of fairness and transparency.
+OPF reserves the right to change this policy on an ad-hoc basis, according to principles of fairness and transparency.
 
