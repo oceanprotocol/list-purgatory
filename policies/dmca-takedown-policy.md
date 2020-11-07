@@ -57,6 +57,7 @@ If you are ready to submit a notice or a counter notice:
 - [How to Submit a DMCA Notice](guide-to-submitting-a-dmca-takedown-notice.md)
 - [How to Submit a DMCA Counter Notice](guide-to-submitting-a-dmca-counter-notice.md)
 
+
 ### Learn More and Speak Up
 
 If you poke around the Internet, it is not too hard to find commentary and criticism about the copyright system in general and the DMCA in particular. While OPF acknowledges and appreciates the important role that the DMCA has played in promoting innovation online, we believe that the copyright laws could probably use a patch or two—if not a whole new release. In software, we are constantly improving and updating our code. Think about how much technology has changed since 1998 when the DMCA was written. Doesn't it just make sense to update these laws that apply to software?

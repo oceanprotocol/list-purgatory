@@ -2,11 +2,23 @@
 
 [Ocean Market](https://market.oceanprotocol.com) is a decentralized data marketplace operated by [Ocean Protocol Foundation](https://www.oceanprotocol.com) (OPF).
 
+## Responding to a DMCA Notice
+
+If you are publisher of a data asset that's gone into the Purgatory Process ("purgatory") due to DMCA, you have two options:
+
+  - Or, do nothing. This is the advisable option if you were violating IP rights.
+  
+  - Formally dispute the action by [submitting a counter notice](guide-to-submitting-a-dmca-counter-notice.md). Maybe the person sending the takedown notice does not hold the copyright or did not realize that you have a license or made some other mistake in their takedown notice. If you believe your content on Ocean Market was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by [submitting a counter notice](guide-to-submitting-a-dmca-counter-notice.md). If you do, we will wait up to 14 days and then re-enable your content unless the copyright owner initiates a legal action before then.
+
+## About this Guide
+
 This guide describes the information that OPF needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how OPF processes DMCA takedown requests, please review our [DMCA Takedown Policy](/articles/dmca-takedown-policy).
 
 If you believe your content on Ocean Market was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice. If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action against you before then. Our counter-notice form, set forth below, is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
+
+
 
 ### Before You Start
 

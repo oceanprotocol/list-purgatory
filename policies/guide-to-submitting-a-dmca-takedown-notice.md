@@ -59,6 +59,10 @@ The fastest way to get a response is to [email us](mailto:dmca@oceanprotocol.com
 
 You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
+## On Re-Submitting a DMCA Notice
+
+Re-posting the exact same content that was the subject of a takedown notice without following the proper process ([outlined below](#responding-to-a-dmca-notice)) is a violation of our DMCA Policy and Ocean Market's [Terms of Service](https://github.com/oceanprotocol/market/blob/main/content/pages/terms.md). If you commit or post content to this repository that violates our Terms of Service, we will delete that content and may suspend access in other ways as well.
+
 ----
 
 OPF reserves the right to change this policy on an ad-hoc basis, always according to core principles of fairness and transparency.

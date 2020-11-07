@@ -14,7 +14,7 @@ initial,
 
 initial  => "               Default          " : " Connect wallet";
 
-"               Default          " => "          Purgatory          " : "  Any actor asset enters purgatory ";
+"               Default          " => "          Purgatory          " : "  Any actor asset enters purgatory, .. ";
 
 "          Purgatory          " => "     Disabled     " : "Time passed AND";
 "          Purgatory          " => "     Disabled     " : "Enough stake removed";
