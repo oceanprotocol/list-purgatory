@@ -42,7 +42,7 @@ All asset lists follow this schema.
 }
 ```
 
-All account (actor) lists follow this schema.
+All account lists follow this schema.
 
 ```json
 {
