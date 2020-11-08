@@ -4,11 +4,14 @@
    <img width="300" src="" /><br />
 </h1>
 
-> Ocean Protocol's Purgatory lists
+> Ocean Protocol's Negative-Signal lists
+
+These are lists which track assets and accounts as `Purgatory` and `Disabled`, with consequences in the Ocean Market UI. 
 
 ---
 
 - [🦑 Policies](#-policies)
+- [List Files](#-list-files)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
@@ -18,11 +21,19 @@
 
 ## 🦑 Policies
 
-**[Here](policies/README.md)** are the policies & proceses around reporting an asset or account, and more.
+**[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory and Disabled States, for example by the reporting of an IP violation or sensitive data. 
+
+## List Files
+
+There are four lists, each with its own json file:
+- list-assets-purgatory.json - assets in Purgatory state
+- list-assets-disabled.json - assets in Disabled
+- list-accounts-purgatory.json - accounts in Purgatory
+- list-accounts-disabled.json - accounts in Disabled
 
 ## 🤿 List Schema
 
-For each asset:
+All asset lists follow this schema.
 
 ```json
 {
@@ -35,7 +46,7 @@ For each asset:
 }
 ```
 
-For each account:
+There are two account (actor) lists: Purgatory, and Disabled. All asset lists follow this schema. For each account:
 
 ```json
 {
@@ -55,26 +66,23 @@ For each account:
 npm i @oceanprotocol/list-purgatory
 ```
 
-This list is published as a npm module and the [`market`](https://github.com/oceanprotocol/market) and [`react`](https://github.com/oceanprotocol/react) use it as a dependency to enhance the UI for those data partners.
+These lists are published as an npm module and the [`market`](https://github.com/oceanprotocol/market) and [`react`](https://github.com/oceanprotocol/react) use it as a dependency to enhance the UI for those data partners.
 
 After every change, a new version of the list needs to be released.
 
-You can also directly fetch the list from the `main` branch:
+You can also directly fetch the lists from the `main` branch, for example:
 
 ```text
-https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-account.json
-```
-```text
-https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-account.json
+https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-assets-purgatory.json
 ```
 
 JavaScript usage:
 
 ```js
-import listAssets from '@oceanprotocol/list-assets'
+import listAssets from '@oceanprotocol/list-assets-purgatory'
 
 // old-school
-const listAssets = require('@oceanprotocol/list-assets')
+const listAssets = require('@oceanprotocol/list-assets-purgatory')
 ```
 
 TypeScript usage:
