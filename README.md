@@ -1,12 +1,8 @@
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-<h1 align="center" title="purgatory">
-   <img width="300" src="" /><br />
-</h1>
+> Ocean Market Negative-Label Lists
 
-> Ocean Protocol's Negative-Signal lists
-
-These are lists which track assets and accounts as `Purgatory` and `Disabled`, with consequences in the Ocean Market UI. 
+The lists here track assets and accounts as `Purgatory` and `Disabled`, which has consequences in the Ocean Market UI. 
 
 ---
 
