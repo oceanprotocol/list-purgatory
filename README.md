@@ -21,7 +21,7 @@ The lists here track assets and accounts as `Purgatory` and `Disabled`, which ha
 
 ## 🐬 List Files
 
-There are four lists, each with its own json file:
+There is one json file for each list:
 - list-assets-purgatory.json - assets in Purgatory state
 - list-assets-disabled.json - assets in Disabled
 - list-accounts-purgatory.json - accounts in Purgatory
