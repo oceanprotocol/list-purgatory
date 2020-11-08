@@ -42,7 +42,7 @@ All asset lists follow this schema.
 }
 ```
 
-There are two account (actor) lists: Purgatory, and Disabled. All asset lists follow this schema. For each account:
+All actor lists follow this schema.
 
 ```json
 {
