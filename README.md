@@ -11,7 +11,7 @@ These are lists which track assets and accounts as `Purgatory` and `Disabled`, w
 ---
 
 - [🦑 Policies](#-policies)
-- [List Files](#-list-files)
+- [🐬 List Files](#-list-files)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
@@ -23,7 +23,7 @@ These are lists which track assets and accounts as `Purgatory` and `Disabled`, w
 
 **[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory and Disabled States, for example by the reporting of an IP violation or sensitive data. 
 
-## List Files
+## 🐬 List Files
 
 There are four lists, each with its own json file:
 - list-assets-purgatory.json - assets in Purgatory state
