@@ -1,13 +1,12 @@
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-> Ocean Market Negative-Label Lists
+# Ocean Market Purgatory
 
-The lists here track assets and accounts as `Purgatory` and `Disabled`, which has consequences in the Ocean Market UI. 
+The lists here track assets and accounts in `Purgatory`, which has consequences in the Ocean Market UI. 
 
 ---
 
 - [🦑 Policies](#-policies)
-- [🐬 List Files](#-list-files)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
 - [⬆️ Releases](#️-releases)
@@ -17,42 +16,30 @@ The lists here track assets and accounts as `Purgatory` and `Disabled`, which ha
 
 ## 🦑 Policies
 
-**[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory and Disabled States, for example by the reporting of an IP violation or sensitive data. 
+**[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory states, for example by the reporting of an IP violation or sensitive data. 
 
 ## 🐬 List Files
 
-There is one json file for each list:
-- list-assets-purgatory.json - assets in Purgatory state
-- list-assets-disabled.json - assets in Disabled
-- list-accounts-purgatory.json - accounts in Purgatory
-- list-accounts-disabled.json - accounts in Disabled
-
 ## 🤿 List Schema
 
-All asset lists follow this schema.
+The file [list-assets.json](list-assets.json) lists all assets in Purgatory. It follows this schema.
 
 ```json
 {
   "did": "did:op:0000",
   "date": "2020-10-27T18:29:35Z",
   "reason": "stolen data"
-},
-{
-   ...
-}
+}, ...
 ```
 
-All account lists follow this schema.
+The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema.
 
 ```json
 {
   "address": "0x.....",
   "date": "2020-10-27T18:29:35Z",
   "reason": "stolen data"
-},
-{
-   ...
-}
+}, ...
 ```
 
 
@@ -69,7 +56,7 @@ After every change, a new version of the list needs to be released.
 You can also directly fetch the lists from the `main` branch, for example:
 
 ```text
-https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-assets-purgatory.json
+https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-assets.json
 ```
 
 JavaScript usage:
