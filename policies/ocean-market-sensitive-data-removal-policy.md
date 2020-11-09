@@ -28,7 +28,7 @@ For the purposes of this document, “sensitive data” refers to content that (
 
 **Send In The Correct Request.** We offer this sensitive data removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing sensitive removal requests. We will be able to help you more quickly if you send in your sensitive data removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only sensitive data or also involves other legal matters, please consult legal counsel.
 
-**Processing Time.** While we do process sensitive data removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
+**Processing Time.** While we do process sensitive data removal requests as quickly as possible, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
 
 **Be excellent to others.** Good advice for life. And, good advice for the whole process here:)
 
@@ -60,7 +60,7 @@ These guidelines are designed to make the processing of requests to remove sensi
 
 ### How to Submit Your Request
 
-You can submit your request to remove sensitive data via our [DMCA email](mailto:dmca@oceanprotocol.com). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
+You can submit your request to remove sensitive data via by email to [dmca@oceanprotocol.com](mailto:dmca@oceanprotocol.com). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
 
 ### Disputes
 

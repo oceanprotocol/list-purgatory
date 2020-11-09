@@ -19,7 +19,7 @@ When OPF receives reports of trademark policy violations from holders of federal
 
 ### How Do I Report a Trademark Policy Violation?
 
-Holders of registered trademarks can report possible trademark policy violations to Ocean Market by [email](mailto:trademark@oceanprotocol.com). Please submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
+Holders of registered trademarks can report possible trademark policy violations to Ocean Market by email to [trademark@oceanprotocol.com](mailto:trademark@oceanprotocol.com). Please submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
 ### What Information is Required When Reporting Trademark Policy Violations?
 

@@ -16,8 +16,6 @@ As with all legal matters, it is always best to consult with a professional abou
 
 ***Send In The Correct Request.*** We can only accept DMCA takedown notices for works that are protected by copyright, and that identify a specific copyrightable work. If you have a complaint about trademark abuse, please see our [trademark policy](ocean-market-trademark-policy.md). If you wish to remove sensitive data such as passwords, please see our [policy on sensitive data](github-sensitive-data-removal-policy.md). 
 
-**Be excellent to others.** Good advice for life. And, good advice for the whole process here:)
-
 ***No Bots.*** You should have a trained professional evaluate the facts of every takedown notice you send. If you are outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints are often invalid and processing them results in needlessly taking down projects!
 
 ***Matters of Copyright Are Hard.*** It can be very difficult to determine whether or not a particular work is protected by copyright. For example, facts (including data) are generally not copyrightable. Words and short phrases are generally not copyrightable. URLs and domain names are generally not copyrightable. Since you can only use the DMCA process to target content that is protected by copyright, you should speak with a lawyer if you have questions about whether or not your content is protectable.
@@ -29,6 +27,8 @@ As with all legal matters, it is always best to consult with a professional abou
 ***OPF Isn't The Judge.***
 OPF exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
+***Be excellent to others.*** Good advice for life. And, good advice for the whole process here:)
+
 ### Your Complaint Must ...
 
 1. **Include the following statement: "I have read and understand OPF's Guide to Filing a DMCA Notice."** We won't refuse to process an otherwise complete complaint if you don't include this statement. But we'll know that you haven't read these guidelines and may ask you to go back and do so.
@@ -37,17 +37,15 @@ OPF exercises little discretion in the process other than determining whether th
 
 3. **Identify the material that you allege is infringing the copyrighted work listed in item #2, above.** It is important to be as specific as possible in your identification. This identification needs to be reasonably sufficient to permit OPF to locate the material. At a minimum, this means that you should include the URL to the material allegedly infringing your copyright. If you allege that less than a whole data asset infringes, identify the specific file(s) that you allege infringe. If you allege that all of the content at a data asset URL infringes, please be explicit about that as well.
 
-4. **Explain what the affected user would need to do in order to remedy the infringement.** Again, specificity is important. When we pass your complaint along to the user, this will tell them what they need to do in order to avoid having the rest of their content disabled. Does the user just need to add a statement of attribution? Do they need to delete certain lines within their code, or entire files? Of course, we understand that in some cases, all of a user's content may be alleged to infringe and there's nothing they could do short of deleting it all. If that's the case, please make that clear as well.
+4. **Provide your contact information.** Include your email address, name, telephone number and physical address.
 
-5. **Provide your contact information.** Include your email address, name, telephone number and physical address.
+5. **Provide contact information, if you know it, for the alleged infringer.** Usually this will be satisfied by providing the OPF username associated with the allegedly infringing content. But there may be cases where you have additional knowledge about the alleged infringer. If so, please share that information with us.
 
-6. **Provide contact information, if you know it, for the alleged infringer.** Usually this will be satisfied by providing the OPF username associated with the allegedly infringing content. But there may be cases where you have additional knowledge about the alleged infringer. If so, please share that information with us.
+6. **Include the following statement: "I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration."**
 
-7. **Include the following statement: "I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration."**
+7. **Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."**
 
-8. **Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."**
-
-9. **Include your physical or electronic signature.**
+8. **Include your physical or electronic signature.**
 
 ### Complaints about Anti-Circumvention Technology
 
@@ -61,7 +59,7 @@ You may include an attachment if you like, but please also include a plain-text 
 
 ## On Re-Submitting a DMCA Notice
 
-Re-posting the exact same content that was the subject of a takedown notice without following the proper process ([outlined below](#responding-to-a-dmca-notice)) is a violation of our DMCA Policy and Ocean Market's [Terms of Service](https://github.com/oceanprotocol/market/blob/main/content/pages/terms.md). If you commit or post content to this repository that violates our Terms of Service, we will delete that content and may suspend access in other ways as well.
+Re-posting the exact same content that was the subject of a takedown notice without following the proper process is a violation of our DMCA Policy and Ocean Market's [Terms of Service](https://github.com/oceanprotocol/market/blob/main/content/pages/terms.md). If you commit or post content to this repository that violates our Terms of Service, we will delete that content and may suspend access in other ways as well.
 
 ----
 
