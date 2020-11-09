@@ -37,14 +37,9 @@ It can happen in one of these ways:
 
 ### How Does A Data Asset Leave Purgatory?
 
-If an asset leaves purgatory, it either (a) reverts back to default state in Ocean Market, or (b) access to the asset is disabled.
+An asset can either stay in purgatory indefinitely, or revert back to Default. 
 
-Access to the asset will be disabled (removed from Ocean Market) if all of the following conditions are fulfilled:
-* (Only needed if in a pool) >95% of the non-publisher liquidity has been removed, or <100 OCEAN of non-publisher liquidity remains, or >30 days have elapsed since the asset entered purgatory, or OPF subjectively disables it due to sensitive data or otherwise
-* The notice has not been retracted
-
-The asset can be reverted back to default state if all of the following conditions are fulfilled:
-* (Only needed if in a pool) > 95% of the non-publisher liquidity has been removed, or <100 OCEAN of non-publisher liquidity remains, or >30 days have elapsed since the asset entered purgatory
+The asset can be reverted back to Default if all of the following conditions are fulfilled:
 * The notice is retracted
 
 Here are ways that notice may be retracted:
@@ -56,13 +51,12 @@ Here are ways that notice may be retracted:
 
 It can happen in one of these ways:
 * An asset that the actor has published has been put into purgatory
-* On an asset that the actor has published where the actor still has >10% of the holdings, and then withdraws the majority of their stake in a short time interval, without warning to the community. Colloquially, the actor has done a "rug pull" to the detriment of the community. OPF determines the right to make subjective judgements on this.
+* On an asset that the actor has published where the actor still has >10% of the holdings, and then withdraws the majority of their stake in a short time interval. Colloquially, the actor has done a "rug pull" to the detriment of the community. OPF determines the right to make subjective judgements on this.
 
 ### How Does An Actor Leave Purgatory?
 
 It can happen in one of these ways:
-* All assets published by the actor are on longer in {Purgatory or Disabled}; and the actor submits a request in writing to OPF, then OPF decides at its discretion whether to remove purgatory status
-
+* All assets published by the actor are on longer in Purgatory; and the actor submits a request in writing to OPF, then OPF decides at its discretion whether to remove purgatory status
 
 ### DMCA Details: Counter-Notices & Legal Actions
 
