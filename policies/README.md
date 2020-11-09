@@ -60,9 +60,9 @@ It can happen in one of these ways:
 
 ### DMCA Details: Counter-Notices & Legal Actions
 
-**Publisher May Send A Counter Notice.** We encourage users who have a data asset in purgatory to consult with a lawyer about their options. If a user believes that their content was disabled as a result of a mistake or misidentification, they may send OPF a [counter notice](guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#d-transparency) to our [public repository](https://github.com/oceanprotocol/dmca) and pass the notice back to the copyright owner by sending them the link.
+**Publisher May Send A Counter Notice.** We encourage users who have a data asset in Purgatory to consult with a lawyer about their options. If a user believes that their content was put into Purgatory as a result of a mistake or misidentification, they may send OPF a [counter notice](guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#d-transparency) to our [public repository](https://github.com/oceanprotocol/dmca) and pass the notice back to the copyright owner by sending them the link.
 
-**Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on Ocean Market. In other words, you might get sued. If the copyright owner does not give Ocean Market notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, Ocean Market will reenable the disabled content.
+**Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content in Purgatory after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on Ocean Market. In other words, you might get sued. If the copyright owner does not give Ocean Market notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, Ocean Market will move the content from Purgatory to Default.
 
 ### Data Asset Scenario Extremes
 
@@ -71,7 +71,7 @@ Scenario: good publisher, scam reporter.
 2. Reporter reports it as bad (in bad faith)
 3. Publisher submits a counter-proposal
 4. Reporter doesn't retract
-5. OPF doesn't know if asset is good or bad. Item stays in purgatory. At 30 day mark or when enough liquidity is removed, access is disabled.
+5. OPF doesn't know if asset is good or bad. Item stays in Purgatory. 
 6. Publisher gives OPF more information to make it clear that asset is good, and access gets re-enabled. Or, they take scam reporter to court.
 
 Scenario: bad publisher, good reporter.
@@ -79,7 +79,7 @@ Scenario: bad publisher, good reporter.
 2. Reporter reports it as bad (in good faith)
 3. Publisher submits a counter-proposal
 4. Reporter doesn't retract
-5. OPF doesn't know if asset is good or bad. Item stays in purgatory. At 30 day mark or when enough liquidity is removed, access is disabled.
+5. OPF doesn't know if asset is good or bad. Item stays in Purgatory. 
 6. Publisher won't take reporter to court, because they know they'll lose.
 
 ----
