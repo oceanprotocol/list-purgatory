@@ -5,7 +5,7 @@ initial,
         -Can buy/sell
         -Can stake/unstake,
 "          Purgatory          " [color="orange"] : <Has Purgatory Flag>
-        .
+        - Can't publish
         .
         .
         . ;

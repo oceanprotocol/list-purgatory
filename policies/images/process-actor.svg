@@ -40,7 +40,7 @@
 <polygon fill="transparent" stroke="transparent" stroke-width="2" points="554.957,-126 424.957,-126 424.957,0 554.957,0 554.957,-126"/>
 <text text-anchor="start" x="430.6038" y="-109.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Purgatory &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <text text-anchor="start" x="430.957" y="-89.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">&lt;Has Purgatory Flag&gt;</text>
-<text text-anchor="start" x="430.957" y="-69.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">.</text>
+<text text-anchor="start" x="430.957" y="-69.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">&#45; Can&#39;t publish</text>
 <text text-anchor="start" x="430.957" y="-49.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">.</text>
 <text text-anchor="start" x="430.957" y="-29.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">.</text>
 <text text-anchor="start" x="430.957" y="-9.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#000000">.</text>
