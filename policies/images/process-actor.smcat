@@ -1,13 +1,12 @@
 initial,
-"               Default          " [color="#008800" active] : <Visible>
+"               Default          " [color="#008800" active] : <No Flag>
         -Can publish
         -Can consume
         -Can buy/sell
         -Can stake/unstake,
-"          Purgatory          " [color="orange"] : <Visible with Flag>
+"          Purgatory          " [color="orange"] : <Has Purgatory Flag>
         .
-        . ,
-"     Disabled     " [color="red"] : <Not Visible>
+        .
         .
         . ;
 
@@ -16,7 +15,4 @@ initial  => "               Default          " : " Connect wallet";
 
 "               Default          " => "          Purgatory          " : "  Any actor asset enters purgatory, .. ";
 
-"          Purgatory          " => "     Disabled     " : "Time passed AND";
-"          Purgatory          " => "     Disabled     " : "Enough stake removed";
-
-"          Purgatory          " => "               Default          " : "All assets left {purgatory or disabled}  ";
+"          Purgatory          " => "               Default          " : "All assets left purgatory  ";

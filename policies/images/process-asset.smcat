@@ -1,23 +1,18 @@
 initial,
-"               Default               " [color="#008800" active] : <Visible>
+"               Default               " [color="#008800" active] : <No Flag>
+        -Can discover via browse/search/filter
         -Can be bought/sold
 	-Can be consumed
         -Can be staked/unstaked,
-"       Purgatory       " [color="orange"] : <Visible with Flag>
+"       Purgatory       " [color="orange"] : <Has Purgatory Flag>
+        -Not discoverable
+	-Access only directly from url
         -Non-publishers can unstake
-        .
-        . ,
-"     Disabled     " [color="red"] : <Not Visible>
-        .
-        .
         . ;
 
 
 initial  => "               Default               " : " Asset created";
 
 "               Default               " => "       Purgatory       " : "  Asset got a notice or flagged  ";
-
-"       Purgatory       " => "     Disabled     " : "  Time passed AND";
-"       Purgatory       " => "     Disabled     " : "  Enough stake removed     ";
 
 "       Purgatory       " => "               Default               " : "  Retracted  ";
