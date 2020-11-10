@@ -33,7 +33,7 @@ It can happen in one of these ways:
 * OPF receives a report of [DMCA Takedown Policy](dmca-takedown-policy.md) (Copyright violation)
 * OPF receives a report of [Trademark Policy](ocean-market-trademark-policy.md) Violation
 * OPF receives a removal request for [Sensitive Data](ocean-market-sensitive-data-removal-policy.md)
-* OPF flags an asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
+* OPF proactively flags an asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?
 
