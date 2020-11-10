@@ -10,8 +10,8 @@ This set of documents describes the policies and processes for Ocean Market arou
 * [DMCA Takedown Policy](dmca-takedown-policy.md) (Copyright Violations)
   * [Guide to Submitting a DMCA Takedown Notice](guide-to-submitting-a-dmca-takedown-notice.md)
   * [Guide to Submitting a DMCA Counter Notice](guide-to-submitting-a-dmca-counter-notice.md)
-* [Sensitive Data Removal Policy](ocean-market-sensitive-data-removal-policy.md)
 * [Trademark Policy](ocean-market-trademark-policy.md)
+* [Sensitive Data Removal Policy](ocean-market-sensitive-data-removal-policy.md)
 
 ## Ocean Market Purgatory Process
 
