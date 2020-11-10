@@ -30,10 +30,14 @@ Purgatory can be for a data asset or an actor.
 ### How Does A Data Asset Enter Purgatory?
 
 It can happen in one of these ways:
-* OPF receives a report of [DMCA Takedown Policy](dmca-takedown-policy.md) (Copyright violation)
-* OPF receives a report of [Trademark Policy](ocean-market-trademark-policy.md) Violation
-* OPF receives a removal request for [Sensitive Data](ocean-market-sensitive-data-removal-policy.md)
-* OPF proactively flags an asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
+* OPF receives a removal request for [Sensitive Data](ocean-market-sensitive-data-removal-policy.md).
+* OPF receives a report of intellectual property (IP) violation, including but not limited to:
+  * Trademark Violation: [Trademark policy](ocean-market-trademark-policy.md).
+  * Copyright IP rules of USA: [DMCA Policy](dmca-takedown-policy.md).
+  * General IP rules of [Singapore](https://www.ipos.gov.sg/understanding-innovation-ip).
+  * General IP rules of [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm).
+* OPF receives a request from the Singapore government [Info-Comm Media Development Authority](https://www.imda.gov.sg/) (IMDA) or any other regulatory agency in Singapore.
+* OPF proactively flags an asset likely of IP violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?
 
