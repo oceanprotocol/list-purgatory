@@ -31,9 +31,10 @@ Purgatory can be for a data asset or an actor.
 
 It can happen in one of these ways:
 * OPF receives a DMCA takedown notice (report of copyright violation)
-* OPF receives a report of any other type of intellectual property violation (See [Singapore](https://www.ipos.gov.sg/understanding-innovation-ip) or [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm)).
+* OPF receives a report of any other type of intellectual property violation, including [trademarks](https://github.com/oceanprotocol/list-purgatory/blob/41fd88594ae168c1d0e5c1b52fb28aca4db04053/policies/ocean-market-trademark-policy.md) (See [Singapore](https://www.ipos.gov.sg/understanding-innovation-ip) or [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm)).
+* OPF receives a [sensitive data](https://github.com/oceanprotocol/list-purgatory/blob/41fd88594ae168c1d0e5c1b52fb28aca4db04053/policies/ocean-market-sensitive-data-removal-policy.md) takedown request
 * OPF proactively flags a data asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves all rights to act without restriction.
-* OPF receives a request from the Singapore [Info-Comm Media Development Authority](https://www.imda.gov.sg/) or any other regulatory body in the government of Singapore.
+* OPF receives a request from the Singapore government [Info-Comm Media Development Authority](https://www.imda.gov.sg/) or any other regulatory agency in Singapore.
 
 ### How Does A Data Asset Leave Purgatory?
 
@@ -56,8 +57,7 @@ It can happen in any of the following ways:
 ### How Does An Actor Leave Purgatory?
 
 It can happen in one of these ways:
-* Assets published by the actor are on longer in Purgatory; 
-* The actor submits a request in writing to OPF, who then decides at its discretion whether to revoke purgatory status
+* Assets published by the actor are on longer in Purgatory; the actor submits a request in writing to OPF, who then decides at its discretion whether to revoke purgatory status
 
 ### DMCA Details: Counter-Notices & Legal Actions
 
