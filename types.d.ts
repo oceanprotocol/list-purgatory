@@ -1,10 +1,10 @@
-export interface AssetData {
+export interface AssetPurgatoryData {
   did: string
   date: string
   reason: string
 }
 
-export interface AccountData {
+export interface AccountPurgatoryData {
   address: string
   date: string
   reason: string
