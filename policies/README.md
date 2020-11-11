@@ -37,7 +37,8 @@ It can happen in one of these ways:
   * General IP rules of [Singapore](https://www.ipos.gov.sg/understanding-innovation-ip).
   * General IP rules of [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm).
 * OPF receives a request from the Singapore government [Info-Comm Media Development Authority](https://www.imda.gov.sg/) (IMDA) or any other regulatory agency in Singapore.
-* OPF proactively flags an asset likely of IP violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
+* OPF receives a report of impersonation (e.g. posting an asset under the guise of a different identity)
+* OPF proactively flags an asset likely of IP violation, sensitive data, impersonation, or otherwise. OPF reserves the right to subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?
 
