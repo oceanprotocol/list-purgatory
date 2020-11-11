@@ -22,8 +22,6 @@ The lists here track assets and accounts in `Purgatory`, which has consequences 
 
 The file [list-assets.json](list-assets.json) lists all assets in Purgatory. It follows this schema.
 
-The `reason` field can be one of these values: `IP Infringement`, `Impersonation`, `Sensitive Data`, `Government Order`, and potentially more.
-
 ```json
 {
   "did": "did:op:0000",
@@ -31,7 +29,7 @@ The `reason` field can be one of these values: `IP Infringement`, `Impersonation
 }, ...
 ```
 
-The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema. The `reason` field is like for assets.
+The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema. 
 
 ```json
 {
@@ -40,6 +38,7 @@ The file [list-accounts.json](list-accounts.json) lists all accounts in Purgator
 }, ...
 ```
 
+For both assets and accounts, the `reason` field can be one of these values: `IP Infringement`, `Impersonation`, `Sensitive Data`, `Government Order`, and potentially more.
 
 ## 🏄‍♀️ List Usage
 
