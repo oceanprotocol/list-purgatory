@@ -18,26 +18,24 @@ The lists here track assets and accounts in `Purgatory`, which has consequences 
 
 **[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory states, for example by the reporting of an IP violation or sensitive data. 
 
-## 🐬 List Files
-
 ## 🤿 List Schema
 
 The file [list-assets.json](list-assets.json) lists all assets in Purgatory. It follows this schema.
 
+The `reason` field can be one of these values: `IP Infringement`, `Impersonation`, `Sensitive Data`, `Government Order`, and potentially more.
+
 ```json
 {
   "did": "did:op:0000",
-  "date": "2020-10-27T18:29:35Z",
   "reason": "stolen data"
 }, ...
 ```
 
-The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema.
+The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema. The `reason` field is like for assets.
 
 ```json
 {
   "address": "0x.....",
-  "date": "2020-10-27T18:29:35Z",
   "reason": "stolen data"
 }, ...
 ```
