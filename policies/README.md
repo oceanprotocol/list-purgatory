@@ -10,16 +10,16 @@ This set of documents describes the policies and processes for Ocean Market arou
 * [DMCA Takedown Policy](dmca-takedown-policy.md) (Copyright Violations)
   * [Guide to Submitting a DMCA Takedown Notice](guide-to-submitting-a-dmca-takedown-notice.md)
   * [Guide to Submitting a DMCA Counter Notice](guide-to-submitting-a-dmca-counter-notice.md)
-* [Sensitive Data Removal Policy](ocean-market-sensitive-data-removal-policy.md)
 * [Trademark Policy](ocean-market-trademark-policy.md)
+* [Sensitive Data Removal Policy](ocean-market-sensitive-data-removal-policy.md)
 
 ## Ocean Market Purgatory Process
 
 ### What is the Ocean Market Purgatory Process?
 
-Purgatory can be for a data asset, or an actor.
+Purgatory can be for a data asset or an actor.
 
-* **Purgatory for a data asset** is state in which a published data asset is tagged as "in purgatory" in Ocean Market. Being in purgatory has implications into how the asset is displayed in Ocean Market, and what actions are permitted to be performed on the asset. Once in purgatory, the asset (actor) may stay there, or leave purgatory if certain conditions are fulfilled.
+* **Purgatory for a data asset** is state in which a published data asset is tagged as "in purgatory" in Ocean Market. Being in purgatory has implications into how the asset is displayed in Ocean Market, and what actions are permitted to be performed on the asset. Once in purgatory, the asset (actor) may stay there or leave purgatory if certain conditions are fulfilled.
 
 ![](images/process-asset.svg)
 
@@ -30,14 +30,18 @@ Purgatory can be for a data asset, or an actor.
 ### How Does A Data Asset Enter Purgatory?
 
 It can happen in one of these ways:
-* OPF receives a DMCA takedown notice (report of copyright violation)
-* OPF receives a report of Trademark Policy Violation
-* OPF receives a sensitive data takedown request
-* OPF flags an asset likely of copyright violation, trademark violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
+* OPF receives a removal request for [Sensitive Data](ocean-market-sensitive-data-removal-policy.md).
+* OPF receives a report of intellectual property (IP) violation, including but not limited to:
+  * Trademark Violation: [Trademark policy](ocean-market-trademark-policy.md).
+  * Copyright IP rules of USA: [DMCA Policy](dmca-takedown-policy.md).
+  * General IP rules of [Singapore](https://www.ipos.gov.sg/understanding-innovation-ip).
+  * General IP rules of [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm).
+* OPF receives a request from the Singapore government [Info-Comm Media Development Authority](https://www.imda.gov.sg/) (IMDA) or any other regulatory agency in Singapore.
+* OPF proactively flags an asset likely of IP violation, sensitive data, or otherwise. OPF reserves the right to subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?
 
-An asset can either stay in purgatory indefinitely, or revert back to Default. 
+An asset can either stay in purgatory indefinitely or revert back to Default. 
 
 The asset can be reverted back to Default if all of the following conditions are fulfilled:
 * The notice is retracted
@@ -49,14 +53,14 @@ Here are ways that notice may be retracted:
 
 ### How Does An Actor Enter Purgatory?
 
-It can happen in one of these ways:
+It can happen in one of the following ways:
 * An asset that the actor has published has been put into purgatory
-* On an asset that the actor has published where the actor still has >10% of the holdings, and then withdraws the majority of their stake in a short time interval. Colloquially, the actor has done a "rug pull" to the detriment of the community. OPF determines the right to make subjective judgements on this.
+* On an asset that the actor has published where the actor still has >10% of the holdings, and then withdraws the majority of their stake in a short time interval. Colloquially, the actor has done a "rug pull" to the detriment of the community. OPF reserves the right to make subjective judgements on this without restriction.
 
 ### How Does An Actor Leave Purgatory?
 
 It can happen in one of these ways:
-* All assets published by the actor are on longer in Purgatory; and the actor submits a request in writing to OPF, then OPF decides at its discretion whether to remove purgatory status
+* Assets published by the actor are on longer in Purgatory; the actor submits a request in writing to OPF, who then decides at its discretion whether to revoke purgatory status
 
 ### DMCA Details: Counter-Notices & Legal Actions
 
@@ -72,7 +76,7 @@ Scenario: good publisher, scam reporter.
 3. Publisher submits a counter-proposal
 4. Reporter doesn't retract
 5. OPF doesn't know if asset is good or bad. Item stays in Purgatory. 
-6. Publisher gives OPF more information to make it clear that asset is good, and access gets re-enabled. Or, they take scam reporter to court.
+6. Publisher gives OPF more information to make it clear that asset is good. Purgatory status is revoked or the publisher takes legal action against the scam reporter.
 
 Scenario: bad publisher, good reporter.
 1. Bad publisher publishes stolen asset
