@@ -56,7 +56,6 @@ Here are ways that notice may be retracted:
 
 It can happen in one of the following ways:
 * An asset that the actor has published has been put into purgatory
-* On an asset that the actor has published where the actor still has >10% of the holdings, and then withdraws the majority of their stake in a short time interval. Colloquially, the actor has done a "rug pull" to the detriment of the community. OPF reserves the right to make subjective judgements on this without restriction.
 
 ### How Does An Actor Leave Purgatory?
 
