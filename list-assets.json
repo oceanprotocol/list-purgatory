@@ -1,6 +1,942 @@
 [
-  {
-    "did": "did:op:0000",
-    "reason": "stolen data"
-  }
+    {
+        "did": "did:op:d1419e62Df99F404D2aD81e23d6185aCe9197C06",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E4C89BdE59BBf13c73271b7b951063e523A960FA",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:0de092c26270198bE1b57A6E73ebd903e086817d",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:07826f49Fd1b3318Ef3b9123114207680a035cb0",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:A2CaFa40085935fC9345bD650C1331ccC1290f30",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:6427B21Dfb619468e8e1CeA8cE047B818602B15a",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:9E0634FC502D80910Ce5A17AEAF4a9248fc7F977",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:1D21e86D78077D39a40116745DdD29D58EC61883",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:C917156da34eCcC93e54813436ad48074C1D40E1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:028e0B27a39FF92Fd30b4b8c310EA745f309cCF3",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8c3ac3796940f41dA507979FA76bB3E878261376",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E1c051397Ef1cfE2e4989712E300D6348c8c7096",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9f5be0264537180E41C72D4F9469E377F0334715",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:4c51fd12ff754B46C948a9E177ecb5A52077Aeb6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:927b74f8bA9C602602aBF17D2de9f3C70f2ed4Ea",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:caBb1BD7918123BCfbacB04495a73d35387908dB",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8F59525E2492Ae98BA0116Cf06a2afdeCaf7A426",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:250Cec4C2A68E9a19Bb97BBa8bd04aE0DC6f2e5d",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:73aE4250a5185Ecc966cfCB46F447023398b0AE8",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:929527e0cD12AE44a2b2CbdB45043D79896EC0f9",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:747504C9Df9F643379860850e0e8B8b3d8515640",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:94d64355E5F5Eb81574D45484E624C375eB9e162",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:aA17f51B63667F467092FaC288ceF6806C76555D",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:2eb492e4b0Ed96d761f94614d245a6EDBc95458B",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:7497A0Bb077fEf066B292e2c6cec80F3a5d631e7",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:4d0C761d57f6C08b683b94084081A8196BDCc8d9",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:B7396dCD88686b0376F43eb1AB38667573A0B8a9",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:7Ef599900E79125e973Ac2E628f3B7F9aD4Ae82D",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8Ea6b9b9211dC6DBb71c49c4836336A03fc10962",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:74d64FC0fe4D8136c4632C3407d4AE3a373749f8",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:f72e083857E4C9110437fe452038B435E4B5437D",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:4C50C4d91CE329985Ce22E669b733B8d686a53ce",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:d6070FF42bA8DDF8B0C6794727D0ED1e17Ad5CB2",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:31a7e59318Ec3D04A7a5bb2a98733F161EC61AC6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:dfdC25cA415dBfc3dF9Ae5465811DF3FAF6F075C",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:5884D4A3CF5D53a10f95887B5d3678E2b9AB2Acb",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:0588200F0fbd3560491c8F75C159e21950482BB0",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:BA4ef99fE170d0adDa2E2487A6cb3E9DE0F60450",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:38E70f23FE53659506116a43F54d8352D3c0c37C",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:402159a43dbe35A81F57a88c2A352522F72b1E9d",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E0A7816eadd023FA5BE3384b046a56039CD2B4Dd",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:EDF6b232F895f25B6197D1d04e475Cef820b189D",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:90cbD8D22b20BAbAae6DCD500253432C2b63Fb33",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:7822e8b639a88BBfdD927F25c266582EA32423fA",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:3dCF229E6c8e9d2CC2377C81C6095dF55740aA4A",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:df2f40f5d1002A2aFd7032ad3dc00a54133bFd79",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:78565B0C8555Cb413e1F30A39d4CE8FBD29fa311",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:A9547c1933B3F7116FA86F49c3CA0924AA45476e",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:beB652A6cdc6Cb3F237Ff6D7d63D536889e0000a",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:38664A0bd133F71c57B976d40E4e62C86D77a2a8",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:49F68424218Ec6A581a33e24C7A09f9BA3572894",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:14599800f0e0081d395956AB343Eb9648de246AF",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:953DD3e620f205c3acf77f683a0A17140425e016",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:03b7Aed0c1892D55740c6895c93a291e9d97D73c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:Ab793c5355E1ce9A58597207e9ff992a1b360702",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:7E27011547f3E44E5Aee822c0DB40Be1AAFC4410",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:740Ab356917Ecd7B85c4C866198f414E433C205c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:202b6AFB056E167528f7F54e2bA016a827a3D050",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:ea87a082895e1882855C943058A63dc11D7d2bD5",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:405e1AB56C7aF9AE5E0A0Efe43BF781Ae8F34659",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:624d7F99eFF196917119353aac638492fe1dE263",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9ca9472e0D11b19dfCFFd26127B5Baa7B14349ea",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E6B1d1DfE405891b5aAba4844c8099def0C9bCD1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:0eAd8544BDC7B6119A57d659b1Ae0dB743cc0461",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:b96743d027e68DB0Bd93EeC84354e65085109F88",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:b61a86a84BEa09B5eBc0Ad592f650cA68300CafC",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:B45aC240dBae03E3A61d9B5918D633a1AB3f3C07",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:3145a3a9e22c607Bf10bFbe81E9f5230B7b88c22",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:19b1CE5E97678604A3Aca7aeDe5588Fcba335f20",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:0f5A4C51Dd71C7FB8D5D61e5B56C996681e4302F",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:98AB7953a458e180aF238798D308701382F3919F",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:889ef0AcdF490e52eff8899EDe39b90108C165A3",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:75d839B89964937F17B9D5f50b57319bc97D2F2F",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:B93C88A9c76714B8FF26b33de2B7DFE8074D0252",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:6fC9bC74019bB1ea107B83a67589a16868068C3b",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:6De36AA9AcfAD3BC91c8Ae88C81d02D8774523F3",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:78e825FcA418f8a1d566e1CF2fB11b6369b01CB2",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:3E749F4bF605ED5108E948D0f9c8d7A572f72C95",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:f06a846A96CEBe670bB8C26C845cE72116dc908B",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:3f7fD00faBa00604C918127450f464e22d3051b5",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:5098c37684c95576Ec7B65931eEF52DbF97e8Dc5",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:481Ae7f9481Fc5ADB431bBb03090ead73Cf692fd",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:683051456d76F89C4a0EDFE73aF1D6eEFA9eb605",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2eF82Af2E429A686269D6Bd1173Db6133F26AF55",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:F04a7699e7e76360d023439B80be3D592E55D7B5",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:3940Ab101A7139F108597498A9c412E2A6921DA1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E04d9107818fAF6233F2AC83078417049D5E826B",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9B6514A5a543855651d9E19FE4ddb9E9f508F0e7",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:26e234C40c99722Ef69682b8CA391c85D8E003b4",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:aBf5d190E2f4403b22b4Df406Bb93Cfd1684B40A",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:B8f161Eff2d59C5B95F176400640779249B7A066",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:dA713a7BCBc46d178Cc4e336B0ca4A441dE0EFd4",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:f2dBeee9273Cbe42788985eb24b0360fE4e2Dbb3",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:868B8deD3c35808341A348A47065b022a8523902",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:6164e0EBd71999021Af917F1B6e6Dd83d1a06e4f",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:0c5e88AAD9cDEaFD61e1Ad94B11f5D4823e3305B",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:bc2E4d5e0dD25157C860282BC55B9E4367fBB5f8",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:B421Fa07D2692AEAf0D6d219a97c37DC050e6095",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:c87ad767555eAf4aD933156b6A08Bf4Cb89C1616",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:13b82B94bc8b4fc1EDB4fe4D0B03bdf81A778B01",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:D10f99c2edC43be9006b19399f62F4f1e683fD2E",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:08F87Aa198Db1556a7060b8Fe39610299C8b91Db",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:E520BF153C85a3C5f37de47e65620307E36a53DD",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:deC1d258C918b6f0C4306a03A56Dc0E0A51975c5",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:C3Ad55f6A19B68E1bd675689581ACCB0353Bf81C",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:196C10816cde1834aca53A89c9b0bC88Fad79f54",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:9a454E7bE4763EAFc7f6B06766516cb70d1420e1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:30665a01658ffFfe5024e4751c54Ed7BcCda591A",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:72d748cE3eE998667E1f0289a5B1Df25Ad79B12E",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:E5e23d51eF0ea0BcaE1a5f943f48468171b2de98",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:CF1AD9a151E9266e182D6e6023a2b2DBB381d67f",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:6d029e1a2F1A12c07B214E777A5d919070A8d985",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:C684cfeD00460B60A6eE99C7Ce0b21636dda981b",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8A5a66eF4423d9a011B4C821D330eD73a97FAE3e",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:85715D04ac0A595268326fBd3206FC3e60fbF9F6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:Bc757bB8277D6713e4E0A140de472FFf7359A96d",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:fbdE2d74FA618EeDA2724d04cf0E6257a94f461a",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:93183030b18b2f0e2A3869a0dD594324e0EA523A",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:0f5B47E28eA6d53FBf94eB106fD2A3004ce2D911",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:52A04a596365A5BdBA49276aE2681C13D60a5Cc2",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:4E0DC86B10ED93862C28693D3202ce76e0381d1b",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:02Cdc9010adfE59C43e701b8550bE57A437b2477",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2492025aee6e3933D80192F0b92fd9B25659F8e6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:750524e573F1De89822226F1708Bb2496652b58C",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:aD0a30BfD35ccF05dB8558EeB566B3Da171B2608",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:477f47B3399de3920ef6d126FAe6BB1C1A0c3A61",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:0a683Ca714bBDF02242226f14113e0045Fd9fe30",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:23Cf7b17Ca8CDdee123B18f21b336DC53C795036",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8374d66AB0eC06CeB9E5999285a12DF98dA64875",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:7EDf9091453b7cf45C488BF3b89e1DeE9E214816",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2A1bE410439eb7866A8c0557416Aee8C99Eef84D",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:eed81C1A7902ddac9F2daF0EeFC6Fc38104dE69c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:BC3EEc9B178C9416baDf4740aCE603ff154F7b56",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:72b83db03917315474984c087B5D9568D9e2137a",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:92b5eCb7f7687775f74F490aF360aB5A7FC791B4",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:454301695e854135620F19cA0CEfeC4f5F7F38Fb",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E2B32A940DbB97183cDC9E118880d2524934A291",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:a7BdECca519Dc6cbA755CF644f5Cf401513B3500",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:730F4a1F9b542C757911922843A3900c579C8640",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:fDCF8254d8Ed7EF51d774E0d9B157C6bFf692e3A",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:ecd0bCFEb134cE6f3027804f576DE742D39EdB3A",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:2745EB5492Fbd9d4b1BFe18d436b1B32EA55Ec4C",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:034493e63f23FCfe879C70dC76F61f6cD5fF0b29",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:e06043a6721B3481E6b6063EC220b99Aa96df79a",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:CB51489b07Be77042b77C44a036d10d38F42Ab13",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:628f5710dA5587041F57eeC80c2D6200BaDc4342",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:fB0cc105916c52CD12efe4B1597272d56150E5e1",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:38Eaf167B2700f6F8c08641Ed7F36990C0C5f1D5",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:E5Ff289979a09Ae1541F829AcAe4934Bf9e31AA5",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:512B43141D302bc8dfaa8634BD68406d01D941DC",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9c815a49F72f26A444AB7E9B5F367D65815560EB",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:4789f98b4eaAcaa0175338916Da102654523D2bC",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:730Ce3d215e4801dcAbD26D3F3a0C51E6d532343",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:21DB8D1B53a784C39653214933088A614225d51E",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:3f3f019949576af9F882827586e9Af266c641FE1",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:508f5b3FeE3F36f777361Fc5787520D43fb99E9D",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:970745b662a799DCE691A386ABb7cd07c26a7528",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:83f790088387051b6045D2e57fE8CDE004DA2694",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2AD860fc75E0f92737cb225311c9B37106736864",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:6F711a35C53Cf3b731f84fcc2CB48ae559266C9D",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:976ac0dC86c2C2c7f8cEF04D5D024490d1D3E67c",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:7025e43d8d667b4577e9990b7059c82690D2eD59",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:3c55E1160D3457f78f7BB777949F3745d7275F1d",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E2F01a1fC775ffeFD369d78e7b581fdB2500Ce2C",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:e19D643EBd3B979495C4014561684ea6DaBAce2C",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:7b3c4707B416c5eb366E9D19f0bb668ADf46fB97",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:6417B696Dcd2257069168aF143EB79Bd2Ce1eD4d",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:ca68c5e7a565aDE806b081Ad2326A54c390B522f",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:3AeD2D5F089b215CE1a8E7F535240AcaaB200271",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:79338bd59eef16eF9dAB31f774aE3271852eEB08",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:19820fc643EB3b3b0DE3Ce402991C59E16b500f1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:581F2d15D128F8FD1Cc1eF230399d26de217DCcD",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:2D87C19D742Be9D1CbbBbdbc7E1f3D565DA4994D",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:d2ed5b3c3AEDe8B92a72F86ECf687f8A25902abe",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:5389Fb3f227c70aa8d292aFf54987f315afBC6bf",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:1F34eF2d979a83EA38539FA8293e248Df0FbbF46",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E6301836d885FC65AfBFB643162fc6050781F95E",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:a76ec417283ae93324b12c9FF9e5597D6642C368",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:003Af2CdcD9B0BFB56Db4166aBEa7c860F0cdFdC",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:142548Df21EeD816924A9e3B998910B0E6938Fc6",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:413693731Db2dB439622d690B04402F9ad0eBeAa",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:c4f0f027C3CAA4FBB7084529321f8247258b4254",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:74AF44Dd12130f778B3eC8fAa2968e1478C99076",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:55079Ff6A0719f7A8DD3fC40356610b751d3270f",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:0cd2d2E62baE0272a1cd7452d2b47BD85c2d22D9",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:3Fc62C835b07a765CDe9a23E377e5615Ea895D92",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:1ffC23BFEDf5dDeE7cfAd4E3Ec88e543bc4a268D",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:Be5F6ad278a1dFe078805A7F55bc76E77a227966",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2f6bC59F81D81d97E44ab2a1CD8B919f542c1af8",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:eF8D5D99A1F73B7d4A73a85808a6faCEE8FF215a",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:37B44Bb728BA306eeF64C5eA2F176743A9078662",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:Ba8Bfd02327C8a826F57294D8B38C5fc7C43755D",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:5709c6bc8162A0Bdb33dCD4A83a3F4539160ED6B",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:28FDA553d07c6a208DB44f73a3c1ad805eBb18c6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:2bF0A33b15e244710C38c5De6D146faa844EA372",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:076FA82AB4b495ECf86107e525f9813853C721F5",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:56E0c8E9FfF2AE0C618500abAef1cDB8EdA5DCc7",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:9E290c573456266f5ddA89f6Ee1236FDA7264a05",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:f5dC3A446DcaF776b40DC7Ce7b92c3EA8ff4ACbF",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:308415eD1CA9d30FA0464993A851927f9c1fC601",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:E5cbd6A024DAcd71200eA588d8f3305c6ba20A3b",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:816507e87db641035D9278Fd0B964666fe286d7b",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:25EC5901a41D8fe2a05D3F9CcB94019679921378",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:3DB62dc8ec8cCEb6678E20cAB1605E08039391c6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:16dbC53b98b58744FE77251e7fE5DA3EF75605EB",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:D8696385C59BE62F1B4f957E9D3f7158055555b7",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:16eE0beF3D4268F28C1D0871174329d2A2E0038e",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:bcDc7D4efD3491CAb2a8Ac0850657A717c9B1200",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:c7a248457A7cB2ea443229C014ed89F89514ea78",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:e5Ba263026b503f92084ABa279aDc50F99E94D6C",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:4bCc13285ee86f1eB10Ae8A5B60bB429C2106a5C",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:2dD17B1f003802767216cc0B39e4456A7Cd827bF",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:12663a76Cbd1737a76C5618d7F1e40D0BE62426D",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:F621863f882e8C4662eC4ad316FEEcb1808Fc2E9",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:2b8866DEB993e8aCa05698422679a1e6Bae8676C",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:0F26f44BC3Ec2482866AfA2CCEEaD2fB019bec7b",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:1FA87Ac58b4e19Cfa717696952833b54eeDdc178",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:dEe8B3a678494957591AB58A34fbD2dF944060E8",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:7B1BD31e39c2C05A8D7C97B70977161379854AA6",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:7d260d1Cc0e49e8dD4f007A7d0F0519D81846Ec0",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:99Ca449BE6a4a479aa3986Fd6a78447e34D4Db81",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:CC8b0247a1Be6F1C515B06f7fB40775a4A0cB4C9",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:59BDC11F7cdE8FF747e85139F7085a786318Cdd6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:e85C8708714605D1556def6AfdA4CEdd83a466eF",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:aE89366E7cB54Bf3b165AD656CdB6D997792B56E",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:d37FE33BB0fCF9E508ef8DA26304D051FACDA9f5",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:7B72dc3D2d5ba299cd10B772e9355c8153029c36",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:Bfe357867D82c56F03E400F2177f7482FC044A17",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9fBeC608e1589F29A84130f47126875289a2f1e6",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:Bf8353235f25897aB18dC3ff0cD2Af6AC819c351",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:04875B2549e29b35B27D324B60f5Ad2c85b4BEa5",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:5927F57e97561a2B04c882BB3ba64a4f9244229c",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:Fc0A26A1c205fB0608ebDe4Da1AB968Cc80FfE3d",
+        "reason": "impersonation"
+    }
 ]
