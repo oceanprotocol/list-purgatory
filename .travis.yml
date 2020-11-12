@@ -1,18 +1,10 @@
-language: node_js
-node_js: node
+language: python
+python:
+  - "3.5"
 
-script:
-  # will run `npm ci` automatically here
-  - npm run lint
-  - npm run build
+script:  
+   - python -mjson.tool "list-accounts.json" > /dev/null
+   - python -mjson.tool "list-assets.json" > /dev/null
 
 notifications:
   email: false
-
-deploy:
-  - provider: npm
-    email: 'devops@oceanprotocol.com'
-    api_key: ${NPM_TOKEN}
-    skip_cleanup: true
-    on:
-      tags: true
