@@ -1,18 +1,6 @@
-language: node_js
-node_js: node
+language: python
+python:
+  - "2.7"
+  - "3.5"
 
-script:
-  # will run `npm ci` automatically here
-  - npm run lint
-  - npm run build
-
-notifications:
-  email: false
-
-deploy:
-  - provider: npm
-    email: 'devops@oceanprotocol.com'
-    api_key: ${NPM_TOKEN}
-    skip_cleanup: true
-    on:
-      tags: true
+script: python -mjson.tool "$somefile" > /dev/null
