@@ -4,7 +4,7 @@ python:
 
 script: 
  - python -mjson.tool "list-accounts.json" > /dev/null
- - python -mjson.tool "list-accounts.json" > /dev/null
+ - python -mjson.tool "list-assets.json" > /dev/null
 
  notifications:
   email: false
