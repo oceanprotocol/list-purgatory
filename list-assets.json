@@ -947,12 +947,16 @@
         "did": "did:op:AEE232Fbf07cB6A517A8E9D1477A6979Fc358696",
         "reason": "violation"
     },
-        {
+    {
         "did": "did:op:487D30fB735b80d661BC5F79274FeB7168C1a8B5",
         "reason": "violation"
     },
-        {
+    {
         "did": "did:op:4b09eDFA42F0DfEe57832314D42fDA768e040a29",
         "reason": "ip infringement"
-    }    
+    },
+    {
+         "did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
+         "reason": "violation"
+    }
 ]
