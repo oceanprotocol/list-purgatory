@@ -4,6 +4,10 @@
         "reason": "test account"
     },
     {
+        "address": "0x02daDB04Db2945F975f3a7001f9Ecd0612370FbE",
+        "reason": "test account"
+    },
+    {
         "address": "0xf95f224A2426262C5443beC9626a4d556b61f5b4",
         "reason": "violation"
     },
