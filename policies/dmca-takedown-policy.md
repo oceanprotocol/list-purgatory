@@ -37,7 +37,7 @@ Here are the basic steps in the process.
 
 2. **Copyright Owner Sends A Notice.** After conducting an investigation, a copyright owner prepares and sends a takedown notice to OPF. Assuming the takedown notice is sufficiently detailed according to the statutory requirements (as explained in the [how-to guide](guide-to-submitting-a-dmca-takedown-notice.md), we will [post the notice](#d-transparency) to our [public repository](https://github.com/oceanprotocol/dmca) and pass the link along to the affected user.
 
-3. **OPF Places the Item into Ocean Market Purgatory Process.** This affects how the asset is displayed, and restricts actions on it in Ocean Market. [Details are here](ocean-market-purgatory-process.md). The Process includes paths to exit the purgatory process.
+3. **OPF Places the Item into Ocean Market Purgatory Process.** This affects how the asset is displayed, and restricts actions on it in Ocean Market. [Details are here](https://github.com/oceanprotocol/list-purgatory/blob/main/policies/README.md). The Process includes paths to exit the purgatory process.
 
 
 
@@ -71,7 +71,7 @@ We don't presume to have all the answers. But if you are curious, here are a few
 - [Opportunities for Copyright Reform](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
 - [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
-OPF doesn't necessarily endorse any of the viewpoints in those articles. We provide the links to encourage you to learn more, form your own opinions, and then reach out to your elected representative(s) (e.g, in the [U.S. Congress](https://www.govtrack.us/congress/members) or [E.U. Parliament](https://www.europarl.europa.eu/meps/en/home)) to seek whatever changes you think should be made.
+OPF doesn't necessarily endorse any of the viewpoints in those articles. We provide the links to encourage you to learn more, form your own opinions, and then reach out to your elected representative(s) (in Singapore, in the [U.S. Congress](https://www.govtrack.us/congress/members) or [E.U. Parliament](https://www.europarl.europa.eu/meps/en/home)) to seek whatever changes you think should be made.
 
 ----
 
