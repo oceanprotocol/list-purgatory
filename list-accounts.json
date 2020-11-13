@@ -4,6 +4,10 @@
         "reason": "test account"
     },
     {
+        "address": "0x02daDB04Db2945F975f3a7001f9Ecd0612370FbE",
+        "reason": "test account"
+    },
+    {
         "address": "0xf95f224A2426262C5443beC9626a4d556b61f5b4",
         "reason": "violation"
     },
@@ -616,7 +620,15 @@
         "reason": "impersonation"
     },
     {
-        "address": "0xD27adc10D58aF27bcDBa85081aDC09A4379969A5",
+        "address": "0x61E0841d103D77325e7743d1ff7117efE7c2C9f6",
         "reason": "violation"
+    },
+    {
+        "address": "0xC267C9961Da230042697a49CFee944FE17F4c829",
+        "reason": "ip infringement"
+    },
+    {
+      "address": "0xD27adc10D58aF27bcDBa85081aDC09A4379969A5",
+      "reason": "violation"
     }
 ]
