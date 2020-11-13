@@ -938,5 +938,21 @@
     {
         "did": "did:op:Fc0A26A1c205fB0608ebDe4Da1AB968Cc80FfE3d",
         "reason": "impersonation"
-    }
+    },
+    {
+        "did": "did:op:b67D5aE92AE7E9ddd1D9654cF622C748f61B2a45",
+        "reason": "violation"
+    },
+        {
+        "did": "did:op:AEE232Fbf07cB6A517A8E9D1477A6979Fc358696",
+        "reason": "violation"
+    },
+        {
+        "did": "did:op:487D30fB735b80d661BC5F79274FeB7168C1a8B5",
+        "reason": "violation"
+    },
+        {
+        "did": "did:op:4b09eDFA42F0DfEe57832314D42fDA768e040a29",
+        "reason": "ip infringement"
+    }    
 ]
