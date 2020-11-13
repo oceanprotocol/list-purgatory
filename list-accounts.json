@@ -610,5 +610,13 @@
     {
         "address": "0xa3490Fa4f29547297756EE3a5d3C3B7c405fD871",
         "reason": "impersonation"
+    },
+        {
+        "address": "0x61E0841d103D77325e7743d1ff7117efE7c2C9f6",
+        "reason": "violation"
+    },
+        {
+        "address": "0xC267C9961Da230042697a49CFee944FE17F4c829",
+        "reason": "ip infringement"
     }
 ]
