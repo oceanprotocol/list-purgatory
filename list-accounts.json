@@ -614,5 +614,9 @@
     {
         "address": "0xa3490Fa4f29547297756EE3a5d3C3B7c405fD871",
         "reason": "impersonation"
+    },
+    {
+        "address": "0xD27adc10D58aF27bcDBa85081aDC09A4379969A5",
+        "reason": "violation"
     }
 ]

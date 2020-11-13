@@ -938,5 +938,9 @@
     {
         "did": "did:op:Fc0A26A1c205fB0608ebDe4Da1AB968Cc80FfE3d",
         "reason": "impersonation"
+    },
+    {
+        "did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
+        "reason": "violation"
     }
 ]
