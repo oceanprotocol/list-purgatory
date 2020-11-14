@@ -144,10 +144,6 @@
         "reason": "violation"
     },
     {
-        "did": "did:op:0588200F0fbd3560491c8F75C159e21950482BB0",
-        "reason": "sensitive data"
-    },
-    {
         "did": "did:op:BA4ef99fE170d0adDa2E2487A6cb3E9DE0F60450",
         "reason": "ip infringement"
     },
