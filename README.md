@@ -9,7 +9,6 @@ The lists here track assets and accounts in `Purgatory`, which has consequences 
 - [🦑 Policies](#-policies)
 - [🤿 List Schema](#-list-schema)
 - [🏄‍♀️ List Usage](#️-list-usage)
-- [⬆️ Releases](#️-releases)
 - [🏛 License](#-license)
 
 ---
@@ -42,56 +41,9 @@ For both assets and accounts, the `reason` field can be one of these values: `IP
 
 ## 🏄‍♀️ List Usage
 
-```bash
-npm i @oceanprotocol/list-purgatory
-```
+These lists go live once merged to `main`, and the tools using them will pick up the changes immediately.
 
-These lists are published as an npm module and the [`market`](https://github.com/oceanprotocol/market) and [`react`](https://github.com/oceanprotocol/react) use it as a dependency to enhance the UI for those data partners.
-
-After every change, a new version of the list needs to be released.
-
-You can also directly fetch the lists from the `main` branch, for example:
-
-```text
-https://raw.githubusercontent.com/oceanprotocol/list-datapartners/main/list-assets.json
-```
-
-JavaScript usage:
-
-```js
-import listAssets from '@oceanprotocol/list-assets-purgatory'
-
-// old-school
-const listAssets = require('@oceanprotocol/list-assets-purgatory')
-```
-
-TypeScript usage:
-
-```ts
-import listAssets from '@oceanprotocol/list-assets'
-import { AssetData } from '@oceanprotocol/list-assets/types'
-```
-
-## ⬆️ Releases
-
-Releases are managed semi-automatically. They are always manually triggered from a developer's machine with release scripts.
-
-From a clean `main` branch you can run the release task bumping the version accordingly based on semantic versioning:
-
-```bash
-npm run release
-```
-
-The task does the following:
-
-- bumps the project version in `package.json`, `package-lock.json`
-- auto-generates and updates the CHANGELOG.md file from commit messages
-- creates a Git tag
-- commits and pushes everything
-- creates a GitHub release with commit messages as description
-- Git tag push will trigger Travis to do a npm release
-
-For the GitHub releases steps a GitHub personal access token, exported as `GITHUB_TOKEN` is required. [Setup](https://github.com/release-it/release-it#github-releases)
+The lists are exposed by [`market-purgatory`](https://github.com/oceanprotocol/market-purgatory) as an HTTP API endpoint, fetched on run time by [`aquarius`](https://github.com/oceanprotocol/aquarius) and the [`market`](https://github.com/oceanprotocol/market). In the market, alerts are shown for data sets and accounts in purgatory, and actions are blocked as described in the [policies](https://github.com/oceanprotocol/list-purgatory/tree/main/policies).
 
 ## 🏛 License
 
