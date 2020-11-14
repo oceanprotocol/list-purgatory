@@ -22,7 +22,7 @@ As with all legal matters, it is always best to consult with a professional abou
 
 ***You May Receive a Counter Notice.*** Any user affected by your takedown notice may decide to submit a [counter notice](guide-to-submitting-a-dmca-counter-notice.md). If they do, we will re-enable their content within 10-14 days unless you notify us that you have initiated a legal action seeking to restrain the user from engaging in infringing activity relating to the content on Ocean Market.
 
-***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](dmca-takedown-policy.md), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/oceanprotocol/dmca>.
+***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](dmca-takedown-policy.md), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/oceanprotocol/list-purgatory>.
 
 ***OPF Isn't The Judge.***
 OPF exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
