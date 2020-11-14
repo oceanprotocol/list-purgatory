@@ -84,10 +84,6 @@
         "reason": "violation"
     },
     {
-        "address": "0x01e66950353400E93AEe7F041C0303103E2ef5Ab",
-        "reason": "sensitive data"
-    },
-    {
         "address": "0x5E16684c907283Af6A578EBE011D07D95048dE99",
         "reason": "ip infringement"
     },
