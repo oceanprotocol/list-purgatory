@@ -958,5 +958,65 @@
     {
          "did": "did:op:f18a471c5553D9E5516c9Fb40910c26B7131068A",
          "reason": "impersonation"
-    }
+    },
+    {
+        "did": "did:op:0c924Af5C316aa5B21Ac88ef451EA218caBE33C3",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8c2b2eB05E9069FFE1331DA17BD97371f7b0fE01",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:8051aa230923dA0e4a6574f341bdbd2f27c5979C",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:83e4a617A6FC35335F51E230DB09e4A8365EdE39",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:Ad91dC625B730538C77D916Be288377f96b004a9",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:B67113DCc35b2812A3d70a02A146a5c4C655297c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:5Cf06d79cbDe234aEf57b848CF69bE58b0028846",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:5EfAd131a4B856D76C0AE70AFE2225D92E6F3BC9",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:3720591f7CA9Fb4A476c99fd663dFBa4D901aAB8",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:ed7B0D9f723fe7adF35CEda4a594D8653e1F370A",
+        "reason": "impersonation"
+    },
+    {
+        "did": "did:op:3aA75eCb387294D3F6420b19e8B47793b62b67E1",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:18A9099c2E6d74fA1Bc095aD75bec4a57B98cf0b",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:02088F1E1D088a8D1D5D888c34b2fD3073d950C1",
+        "reason": "sensitive data"
+    },
+    {
+        "did": "did:op:9162a9D17d9991b1b08747bAF1bdAdaf0d18E668",
+        "reason": "violation"
+    } 
 ]

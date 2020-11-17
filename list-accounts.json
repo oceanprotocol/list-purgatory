@@ -626,5 +626,57 @@
     {
       "address": "0xD27adc10D58aF27bcDBa85081aDC09A4379969A5",
       "reason": "violation"
+    },
+    {
+        "address": "0x56b20252dD85A64b987D10099aC78bF324Fdac53",
+        "reason": "violation"
+    },
+    {
+        "address": "0xd6bc6c3097b8A257e3330144B5d5d87f8477F2DD",
+        "reason": "violation"
+    },
+    {
+        "address": "0xD27adc10D58aF27bcDBa85081aDC09A4379969A5",
+        "reason": "violation"
+    },
+    {
+        "address": "0xa4C308bD32a596045588E2Bc310Ff2d505e97Bd8",
+        "reason": "ip infringement"
+    },
+    {
+        "address": "0x7E10F5C54C7534072cd2F1a4E9170300e7BD0B2f",
+        "reason": "ip infringement"
+    },
+    {
+        "address": "0x94F780f6646BadcC9F9E1aA57740bd5fd1417d94",
+        "reason": "violation"
+    },
+    {
+        "address": "0x8eBd3FBe5398bE2C92264A66fe7E9c939d8183F8",
+        "reason": "violation"
+    },
+    {
+        "address": "0x46f915FE32dAAFe0e33Ac0d372e4e8cCA9723a23",
+        "reason": "ip infringement"
+    },
+    {
+        "address": "0x5d9e1b7aa206252857628b1ee4A944032A80c44E",
+        "reason": "sensitive data"
+    },
+    {
+        "address": "0x359a76dB7aFDAd46f0e2C6699eC768c1064C86Ca",
+        "reason": "violation"
+    },
+    {
+        "address": "0x511Ced3dC7162Fe4c4FCe1De839c79BefAC6cd4A",
+        "reason": "impersonation"
+    },
+    {
+        "address": "0xb56de2A5829448FCa29adD9a22E0408E7362A764",
+        "reason": "bad actor"
+    },
+    {
+        "address": "0x4341c7E0974D8C4B7412B4541897cE78317E9788",
+        "reason": "violation"
     }
 ]
