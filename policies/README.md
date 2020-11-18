@@ -48,9 +48,9 @@ The asset can be reverted back to Default if all of the following conditions are
 * The notice is retracted
 
 Here are ways that notice may be retracted:
-* The reporter submits a retraction in writing to OPF; or
-* If it's a DMCA notice: the publisher submits a counter-proposal by email to OPF within two weeks; then the reporter submits a retraction by email to OPF within two weeks
-* If it's a DMCA notice: The publisher submits a counter-proposal to the reporter within two weeks (and cc's OPF); then the reporter does not submit a retraction in writing to OPF within two weeks
+* The reporter submits a retraction in writing to OPF (dmca@oceanprotocol.com); or
+* If it's a DMCA notice: the publisher submits a counter-proposal by email to OPF (dmca@oceanprotocol.com) within two weeks; then the reporter submits a retraction by email to OPF within two weeks
+* If it's a DMCA notice: The publisher submits a counter-proposal to the reporter within two weeks (and cc's OPF at email dmca@oceanprotocol.com); then the reporter does not submit a retraction in writing to OPF within two weeks
 
 ### How Does An Actor Enter Purgatory?
 
