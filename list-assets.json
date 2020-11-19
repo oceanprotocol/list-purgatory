@@ -1000,10 +1000,6 @@
         "reason": "violation"
     },
     {
-        "did": "did:op:ed7B0D9f723fe7adF35CEda4a594D8653e1F370A",
-        "reason": "impersonation"
-    },
-    {
         "did": "did:op:3aA75eCb387294D3F6420b19e8B47793b62b67E1",
         "reason": "sensitive data"
     },
