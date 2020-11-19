@@ -668,10 +668,6 @@
         "reason": "violation"
     },
     {
-        "address": "0x511Ced3dC7162Fe4c4FCe1De839c79BefAC6cd4A",
-        "reason": "impersonation"
-    },
-    {
         "address": "0xb56de2A5829448FCa29adD9a22E0408E7362A764",
         "reason": "bad actor"
     },
