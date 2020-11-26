@@ -1018,5 +1018,9 @@
     {
         "did": "did:op:Cd70A23649833C53B5a8b10F79D4d51AC2Cf78e1",
         "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
+        "reason": "violation"
     }
 ]
