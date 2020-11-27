@@ -678,5 +678,9 @@
     {
         "address": "0xe32caCaa4b8fcDA425eaf80C3a1464A877B42C63",
         "reason": "violation"
-    }    
+    },
+    {
+        "address": "0xd51096feB90de6Dc60e318Bf27fD9432051EBfcd",
+        "reason": "violation"
+    }
 ]
