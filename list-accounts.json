@@ -683,4 +683,8 @@
         "address": "0xd51096feB90de6Dc60e318Bf27fD9432051EBfcd",
         "reason": "violation"
     }
+    {
+        "address": "0x2D3fb3096F020029A49A45c88253A4CD0BC2503F",
+        "reason": "bad actor and ip violation"
+    }
 ]
