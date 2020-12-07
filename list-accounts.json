@@ -682,5 +682,13 @@
     {
         "address": "0xd51096feB90de6Dc60e318Bf27fD9432051EBfcd",
         "reason": "violation"
+    },
+    {
+        "address": "0x2D3fb3096F020029A49A45c88253A4CD0BC2503F",
+        "reason": "violation"
+    },
+    {
+        "address": "0xC748a093404a8d72603E4743C34dC1ca70c19986",
+        "reason": "violation"
     }
 ]
