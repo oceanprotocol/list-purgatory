@@ -1033,18 +1033,18 @@
     },
     {
         "did": "did:op:49D7611B341A0245e4d8F786Eeb7889d55dfaB89",
-        "reason": "bad actor"
+        "reason": "rug pull"
     },
     {
         "did": "did:op:D4DD7F5A182dDAA45D0ae2976FF7b71C69aE0536",
-        "reason": "bad actor"
+        "reason": "rug pull"
     },
     {
         "did": "did:op:819120c563d37388d8ef7167847ee878Ac701512",
-        "reason": "bad actor"
+        "reason": "rug pull"
     },
     {
         "did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
-        "reason": "bad actor"
+        "reason": "rug pull"
     }        
 ]
