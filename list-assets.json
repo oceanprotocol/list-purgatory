@@ -1025,7 +1025,11 @@
     },
     {
         "did": "did:op:3CeA3612EA153a6b8Ce269E6a93E797EE73214F1",
-        "reason": "bad actor and ip infrigement"
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:546a5E08B8a3d00aC8AFC6A3aaf86500b0410c87",
+        "reason": "violation"
     },
     {
         "did": "did:op:49D7611B341A0245e4d8F786Eeb7889d55dfaB89",
@@ -1042,5 +1046,5 @@
     {
         "did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
         "reason": "bad actor"
-    }
+    }        
 ]
