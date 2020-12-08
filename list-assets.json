@@ -1022,5 +1022,13 @@
     {
         "did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
         "reason": "violation"
+    },
+    {
+        "did": "did:op:3CeA3612EA153a6b8Ce269E6a93E797EE73214F1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:546a5E08B8a3d00aC8AFC6A3aaf86500b0410c87",
+        "reason": "violation"
     }
 ]
