@@ -1049,6 +1049,6 @@
     },
     {
         "did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
-        "reason": "data from a hack"
+        "reason": "violation"
     }
 ]
