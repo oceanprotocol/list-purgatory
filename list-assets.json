@@ -1050,5 +1050,9 @@
     {
         "did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
         "reason": "violation"
+    },
+    {
+        "did": "did:op:9bc4Cb2FBbFE520953701Dcc6F6653Ac735a562c",
+        "reason": "violation"
     }
 ]
