@@ -1046,5 +1046,9 @@
     {
         "did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
         "reason": "rug pull"
-    }        
+    },
+    {
+        "did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
+        "reason": "violation"
+    }
 ]
