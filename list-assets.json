@@ -1022,5 +1022,9 @@
     {
         "did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
         "reason": "violation"
+    },
+    {
+        "did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
+        "reason": "IP Infringement"
     }
 ]
