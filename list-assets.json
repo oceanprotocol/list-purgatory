@@ -1054,5 +1054,9 @@
     {
         "did": "did:op:9bc4Cb2FBbFE520953701Dcc6F6653Ac735a562c",
         "reason": "violation"
+    },
+    {
+        "did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
+        "reason": "ip Infringement"
     }
 ]
