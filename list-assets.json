@@ -1062,5 +1062,13 @@
     {
         "did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
         "reason": "ip Infringement"
+    },
+    {
+        "did": "did:op:0f5B491ff05f5720F2cF7E5eD8ad73Af779Caf4C",
+        "reason": "rugpull"
+    },
+    {
+        "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
+        "reason": "rugpull"
     }
 ]
