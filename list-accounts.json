@@ -694,5 +694,9 @@
     {
         "address": "0x359a76dB7aFDAd46f0e2C6699eC768c1064C86Ca",
         "reason": "bad actor"
+    },
+    {
+        "address": "0x801e12B93A570930cB68aC29F3450BC5AFD78350",
+        "reason": "bad actor"
     }
 ]
