@@ -1070,5 +1070,9 @@
     {
         "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
         "reason": "rugpull"
+    },
+    {
+        "did": "did:op:FcB258F7084d2E075270C0D4B1E79a3113E11837",
+        "reason": "temporarily remove STRDOL-44 from listings until liquidity display bug is fixed in Aquarius. Details: https://github.com/oceanprotocol/aquarius/issues/419#issuecomment-816758567"
     }
 ]
