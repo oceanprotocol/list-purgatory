@@ -1,5 +1,9 @@
 [
     {
+        "did": "did:op:11F7cDc1392d78Cb4420b57AB7eE1c31DFeD7266",
+        "reason": "polygon deprecated algo"
+    },
+    {
         "did": "did:op:7467c34cABd19C2d49F1B6402DB19309231e2dDc",
         "reason": "polygon test dataset"
     },
