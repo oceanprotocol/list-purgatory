@@ -2,6 +2,7 @@
     {
         "did": "did:op:a5Fb5Db2ED68996b8B1Dd9BcAc0D95752DA8b9A6",
         "reason": "violation"
+    },
     {
         "did": "did:op:11F7cDc1392d78Cb4420b57AB7eE1c31DFeD7266",
         "reason": "polygon deprecated algo"
