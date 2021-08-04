@@ -38,6 +38,7 @@ It can happen in one of these ways:
   * General IP rules of [EU](https://europa.eu/youreurope/business/running-business/intellectual-property/index_en.htm).
 * OPF receives a request from the Singapore government [Info-Comm Media Development Authority](https://www.imda.gov.sg/) (IMDA) or any other regulatory agency in Singapore.
 * OPF receives a report of impersonation (e.g. posting an asset under the guise of a different identity)
+* OPF receives a report where a publisher has republished the same dataset/service in a different chain (e.g. Polygon), yet that dataset/service still has sizeable vested interest (e.g. pool with > 1000 OCEAN liquidity) in the chain where it was first published (e.g. Ethereum mainnet). 
 * OPF proactively flags an asset likely of IP violation, sensitive data, impersonation, or otherwise. OPF reserves the right to subjective judgements.
 
 ### How Does A Data Asset Leave Purgatory?

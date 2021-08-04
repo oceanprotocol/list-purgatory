@@ -1,5 +1,21 @@
 [
     {
+        "did": "did:op:2357C32D8C68514D4186D0e193836156a133F0f3",
+        "reason": "polygon test dataset"
+    },
+    {
+        "did": "did:op:a5Fb5Db2ED68996b8B1Dd9BcAc0D95752DA8b9A6",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:11F7cDc1392d78Cb4420b57AB7eE1c31DFeD7266",
+        "reason": "polygon deprecated algo"
+    },
+    {
+        "did": "did:op:7467c34cABd19C2d49F1B6402DB19309231e2dDc",
+        "reason": "polygon test dataset"
+    },
+    {
         "did": "did:op:d1419e62Df99F404D2aD81e23d6185aCe9197C06",
         "reason": "violation"
     },
@@ -1014,5 +1030,57 @@
     {
         "did": "did:op:9162a9D17d9991b1b08747bAF1bdAdaf0d18E668",
         "reason": "violation"
-    } 
+    },
+    {
+        "did": "did:op:Cd70A23649833C53B5a8b10F79D4d51AC2Cf78e1",
+        "reason": "ip infringement"
+    },
+    {
+        "did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:3CeA3612EA153a6b8Ce269E6a93E797EE73214F1",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:546a5E08B8a3d00aC8AFC6A3aaf86500b0410c87",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:49D7611B341A0245e4d8F786Eeb7889d55dfaB89",
+        "reason": "rug pull"
+    },
+    {
+        "did": "did:op:D4DD7F5A182dDAA45D0ae2976FF7b71C69aE0536",
+        "reason": "rug pull"
+    },
+    {
+        "did": "did:op:819120c563d37388d8ef7167847ee878Ac701512",
+        "reason": "rug pull"
+    },
+    {
+        "did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
+        "reason": "rug pull"
+    },
+    {
+        "did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:9bc4Cb2FBbFE520953701Dcc6F6653Ac735a562c",
+        "reason": "violation"
+    },
+    {
+        "did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
+        "reason": "ip Infringement"
+    },
+    {
+        "did": "did:op:0f5B491ff05f5720F2cF7E5eD8ad73Af779Caf4C",
+        "reason": "rugpull"
+    },
+    {
+        "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
+        "reason": "rugpull"
+    }
 ]
