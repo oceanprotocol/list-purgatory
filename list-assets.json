@@ -15,6 +15,10 @@
         "did": "did:op:0e36Caa04EbefC1B2A77620F41e6c343a1d9d660",
         "reason": "Retired by publisher"
     },
+    {    
+        "did": "did:op:5cFB87E1c1B9d4be2d70Fb3da7266e9337b5c0Db",
+        "reason": "polygon test dataset"
+    },
     {
         "did": "did:op:2357C32D8C68514D4186D0e193836156a133F0f3",
         "reason": "polygon test dataset"
