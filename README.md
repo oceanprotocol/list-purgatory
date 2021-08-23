@@ -37,8 +37,6 @@ The file [list-accounts.json](list-accounts.json) lists all accounts in Purgator
 }, ...
 ```
 
-**Note:** All addresses submitted to `list-accounts.json` have to be checksummed according to EIP55. You can manually checksum an address on e.g. [this website](https://ethsum.netlify.app/).
-
 For both assets and accounts, the `reason` field can be one of these values: `IP Infringement`, `Impersonation`, `Sensitive Data`, `Government Order`, and potentially more.
 
 ## 🏄‍♀️ List Usage
