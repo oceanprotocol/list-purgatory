@@ -694,5 +694,9 @@
     {
         "address": "0x359a76dB7aFDAd46f0e2C6699eC768c1064C86Ca",
         "reason": "bad actor"
+    },
+    {
+        "address": "0x8eb114965D19BD75c6Ac9F7EB576f01B25Ae43fE",
+        "reason": "end of life"
     }
 ]
