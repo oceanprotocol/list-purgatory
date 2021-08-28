@@ -129,7 +129,7 @@ For both assets and accounts, the `reason` field can be one of these values: `IP
 
 These lists go live once merged to `main`, and the tools using them will pick up the changes immediately.
 
-The lists are exposed by [`Self Description Lifecycle Management`](https://github.com/deltaDAO/self-description-lifecycle-management) as an HTTP API endpoint, fetched on run time by [`aquarius`](https://github.com/deltaDAO/aquarius) and the [`Minimal Viable Gaia-X Portal Demonstrator`](https://github.com/deltaDAO/GAIA-X-Portal). In the Portal, alerts are shown for data sets and accounts in purgatory, and actions are blocked as described in the [policies](https://github.com/deltaDAO/self-description-lifecycle-management/tree/main/policies).
+The lists are exposed by [`Self Description Lifecycle Management`](https://github.com/deltaDAO/self-description-lifecycle-management) as an HTTP API endpoint, fetched on run time by [`aquarius`](https://github.com/deltaDAO/aquarius) and the [`Minimal Viable Gaia-X Portal Demonstrator`](https://github.com/deltaDAO/GAIA-X-Portal). 
 
 ## License
 
