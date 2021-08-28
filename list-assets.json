@@ -1105,6 +1105,10 @@
     },
     {
         "did": "did:op:78526B805A79cf7206c402594BB1ECC50c3d1196",
-        "reason": "test of list"
+        "reason": "end of life"
+    },
+    {
+        "did": "did:op:e8caB03fDe92d4D08D3d6D4F118829Dfb0a2F83D",
+        "reason": "end of life"
     }
 ]
