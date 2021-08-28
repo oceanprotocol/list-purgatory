@@ -27,7 +27,7 @@ transitions follow upon them:
 - Revoked (by the original issuer or a trusted party, e.g., because it contained wrong or fraudulent
 information)
 
-The Catalogues provide access to the raw Self-Descriptions that are currently loaded including the lifecycle
+The Catalogues provide access to the raw Self-Descriptions that are currently loaded, including the lifecycle
 metadata. This allows Consumers to verify the Self-Descriptions and the cryptographic proofs contained in
 them in a self-service manner.
 
@@ -37,7 +37,7 @@ to a Catalogue and in an “active” lifecycle state.
 Gaia-X Self-Descriptions express characteristics of Assets, Service Offerings and Participants that are
 linked to their respective Identifiers. Providers are responsible for the creation of Self-Descriptions of their
 Assets or Resources. In addition to self-declared Claims made by Participants about themselves or about
-the Service Offering provided by them, a Self-Description may comprise Credentials issued and signed by
+the Service Offering provided by them, a Self-Description may comprise credentials issued and signed by
 trusted parties. Such Credentials include Claims about the Provider or Asset/Resource, which have been
 asserted by the issuer.
 
@@ -57,14 +57,14 @@ An Identity is composed of a unique Identifier and an attribute or set of attrib
 entity (Participant/Asset) within a given context. The lifetime of an Identifier is permanent. It may be used
 as a reference to an entity well beyond the lifetime of the entity it identifies or of any naming authority
 involved in the assignment of its name. Reuse of an Identifier for a different entity is forbidden. Attributes
-will be derived from existing identities as shown in the IAM Framework. 
+will be derived from existing identities, as shown in the IAM Framework. 
 
 Gaia-X itself enables fine-grained access control-based attribute evaluation. Attributes will be derived from
 the metadata, Self-Descriptions and runtime contexts (e.g., user Identity and associated properties).
 
 Gaia-X will not implement central access control mechanisms for Assets or Resources. The responsibility
-stays with the Provider. However, Gaia-X will provide a standardized query API which enables the Provider
-and Consumer to query and verify the Identity and Self-Description of the respective other party.
+stays with the Provider. However, Gaia-X will provide a standardized query API that enables the Provider
+and Consumer to query and verify the Identity and Self-Description of the respective other parties.
 
 
 
@@ -82,24 +82,24 @@ For the purpose of querying, the most recent versions of all Self-Descriptions w
 
 To organize the indexing, versioning, etc. of Self-Descriptions, the Federated Catalogue maintains Administrative Metadata about each Self-Description, including in what state of the life cycle according to ADR-003 it is. These metadata are not included inside the Self-Descriptions and are not required to be expressed in terms of the Self-Description Schema.
 
-A registered Self-Description can be deleted by an authorized Participant, usually the one who created it or a Participant that is explicitly authorized to do so. In addition, dedicated Catalogue administrators have the permission to delete corrupted or outdated Self-Descriptions. Furthermore, they are allowed to delete any Self-Description that puts the proper functionality of the Catalogue at risk, for instance by their size.
+A registered Self-Description can be deleted by an authorized Participant, usually the one who created it or a Participant that is explicitly authorized to do so. In addition, dedicated Catalogue administrators have the permission to delete corrupted or outdated Self-Descriptions. Furthermore, they are allowed to delete any Self-Description that puts the proper functionality of the Catalogue at risk, for instance, by their size.
 
-A Deletion event results in the Self-Description in question not being listed anymore in the regular search queries. The Catalogue may however still store a local copy for legal issues or to provide backup capabilities.
+A Deletion event results in the Self-Description in question not being listed anymore in the regular search queries. The Catalogue may, however still store a local copy for legal issues or to provide backup capabilities.
 
 This requires a central lifecycle management repository next to the federated catalogue that allows to filter self descriptions and their associated participants and/or service offerings.
 
 ## Services revocation
-The importance of the Compliance through Automation will grow over time, covering more and more Gaia-X principles such as interoperability, portability, security. However automation will not be able to cover all aspects of the Self-Declaration and the governance model must include a mechanism to demotivate malicious actors to pollute the Catalogues.
+The importance of Compliance through Automation will grow over time, covering more and more Gaia-X principles such as interoperability, portability, security. However, automation will not be able to cover all aspects of the Self-Declaration, and the governance model must include a mechanism to demotivate malicious actors to pollute the Catalogues.
 
 - Level 1: Any Self-Description with an attribute to be automatically found non-conformant will be declared non-conformant on the Gaia-X Registry and the associated DID's public keys will be revoked until the conformance is gain. 
 
 - Level 2: Any self-declared attributes of a Gaia-X conformant Self-Description found to be incorrect after an audit of a conformant Gaia-X CAB, will lead to the revocation of all DID's public keys associated with that Self-Description. 
-- The activation of that revocation will be submitted for approval to the Gaia-X Board of Directors with the opportunity for the Participant to state its views within a period of 15 days. To minimize subjective decisions and promote transparency, the votes and vote's results will visible and stored on the Gaia-X Registry.
+- The activation of that revocation will be submitted for approval to the Gaia-X Board of Directors with the opportunity for the Participant to state its views within a period of 15 days. To minimize subjective decisions and promote transparency, the votes and vote results will be visible and stored on the Gaia-X Registry.
 For example, a non-conformant self-declared attribute in the Service Offering, will lead to the revocation of the Service Offering's Provider keys and all the Service Offerings from the same Provider.
 
 - Level 3: Any Provider found to be convicted by the Court of Justice of the European Union - CJEU - or a European's Member State court of justice on Data Breach will lead to the revocation of all Provider's key and Provider's Services Offering.
 
- For this reason a distributed ledger or governance repositories will be established that can be accessed by all participants to ensure that the life-cycle management across communities is synchronized. This is the function of the current life-cycle management.
+ For this reason, a distributed ledger or governance repositories will be established that can be accessed by all participants to ensure that the lifecycle management across communities is synchronized. This is the function of the current life-cycle management.
 
 
 
