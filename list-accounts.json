@@ -698,5 +698,17 @@
     {
         "address": "0x8eb114965D19BD75c6Ac9F7EB576f01B25Ae43fE",
         "reason": "end of life"
+    },
+    {
+        "address": "0x9c26685b6E8e2997d9aAf3f1a642f1b1b3dB9580",
+        "reason": "end of life"
+    },
+    {
+        "address": "0x68C24FA5b2319C81b34f248d1f928601D2E5246B",
+        "reason": "end of life"
+    },
+    {
+        "address": "0xBdA81dEDe84F3AF0507aAb41903E357A8f9A173B",
+        "reason": "end of life"
     }
 ]
