@@ -1110,5 +1110,9 @@
     {
         "did": "did:op:e8caB03fDe92d4D08D3d6D4F118829Dfb0a2F83D",
         "reason": "end of life"
+    },
+    {
+        "did": "did:op:aFcBec05b57413D4e823F800eBc563eECbaCb3fB",
+        "reason": "end of life"
     }
 ]
