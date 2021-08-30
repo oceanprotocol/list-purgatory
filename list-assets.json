@@ -1166,7 +1166,7 @@
     {
         "did": "did:op:4b045477A198A020065C497B08C5105372cD4f49",
         "reason": "end of life"
-     },
+    },
     {
         "did": "did:op:D69823ae9Ba4449527a7D34a1dD25449E7346e36",
         "reason": "end of life"
@@ -1203,7 +1203,6 @@
         "did": "did:op:D027B10b13CA0bdb00f24b6B2e938F930e71cfE7",
         "reason": "end of life"
     },
-
     {
         "did": "did:op:8711516C24a30E74F371c9A98A3822E5C87bfad9",
         "reason": "end of life"
@@ -1255,7 +1254,7 @@
     {
         "did": "did:op:3ACD478A45aabc9cF02ec2E8f18cfa0331551632",
         "reason": "end of life"
-     },
+    },
     {
         "did": "did:op:d136CD02A1579A2cf61AFF24a41fF21301cB7c3C",
         "reason": "end of life"
