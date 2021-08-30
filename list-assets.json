@@ -1274,5 +1274,13 @@
     {
         "did": "did:op:caA8E943868a508e55899767c9525B4937c4b95B",
         "reason": "end of life"
+    },
+    {
+        "did": "did:op:b59FD379363e731AFA1B07c6d701ED6cb22F329a",
+        "reason": "end of life"
+    },
+    {
+        "did": "did:op:02d50aBC3C7655A9b00e9378De1d7D66d5061BCC",
+        "reason": "corrput datatoken"
     }
 ]
