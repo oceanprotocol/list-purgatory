@@ -1302,5 +1302,9 @@
     {
         "did": "did:op:82743028E819Bb69C6EbbE7b24d356c1034ffAbB",
         "reason": "end of life"
+    },
+    {
+        "did": "did:op:1888bf2A923184860C6554de1C0d9Cce275dBcCC",
+        "reason": "end of life"
     }
 ]
