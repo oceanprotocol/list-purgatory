@@ -714,5 +714,9 @@
     {
         "address": "0x3c0F6a52c84A79eBC52C56Ff8C029a30F929C344",
         "reason": "end of life"
+    },
+    {
+        "address": "0x21F4920054575b3D776fA6C36dAAD66a5333dC4d",
+        "reason": "end of life"
     }
 ]
