@@ -1431,5 +1431,9 @@
     {
         "did": "did:op:083CcCf3a9a7055F14595a67FD1471a15A6cA82B",
         "reason": "end of life"
+    },
+    {
+        "did": "did:op:5A8e9FD6e4a5C217f3D994A1b9a1B25A11Ff207E",
+        "reason": "end of life"
     }
 ]
