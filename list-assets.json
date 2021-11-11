@@ -1180,6 +1180,106 @@
         "reason": "rugpull"
     },
     {
+        "did": "did:op:1874035A95c4ab1e4EaC0d9AaA6159251BCB5FBc",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:9418C4Fe64C87E872A5a9EF89d63F43214394161",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:27457c26E60331EE83C5B75CFd97F962032C9E01",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:8A05F74031B09FA5a4ce4030409a37851d73B2d6",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:227baDa3B4FF5B51dE9293b837F895DCf94c8f0d",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:77f4482B8Fe848936f75da745D32Da388C2Bf2E7",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:b14E4b55B3E557F959115DB81c3Ab33ED011EE15",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:413019e02aE2fB27240F61Db0d9BeAb7e336f56a",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:5a1d6c7e756eBdD2f625DA1c90Ff8f0E45C14d24",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:55722120850E0C175550C5C04Be0abC4bE49AC5f",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:F2C46568a243084c40ff65eda1809DFc1A256B44",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:4F4f61191e17600d2792077e175370dd159fd2bc",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:A177e0eF204d469E1E84AD0ac7F0E7761B99582c",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:c122BDb47906365E6291Cf34768c0379b7cd4CB0",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:4808a10109EF90822c382E0db157364f33F2F8e0",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:c18317f5b7Bc17F8cA521e6582405988AF497b0A",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:Ce054C6734714f2dB0474489817F122a4cAf22b3",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:72F23E647CA29b1C17B0Ea7CCB284b6177d9e195",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:f4b0492a33FeabaD37179560f1EAb4AB3bAEF6B7",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:7F4e5501FD7a231567C2C1b73747715af485e739",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:361Bd7eD6899a015271f3BE468fb82a3584C3EdD",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:98a01d19f4D3D929F11b860C691D9EE678ACdfeB",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:903DBb6AB9Ac4074d269245bD8d3Fd0Def359128",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:F8A37C56b486A3e64A8C18B14fcDe708f9A3574e",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:18b55c1D6d838592d32E90692b8C179480a387Ec",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
         "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
         "reason": "rugpull"
     }
