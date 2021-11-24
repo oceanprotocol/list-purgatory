@@ -2,20 +2,21 @@
 
 # Ocean Market Purgatory
 
-The lists here track assets and accounts in `Purgatory`, which has consequences in the Ocean Market UI. 
+The lists here track assets and accounts in `Purgatory`, which has consequences in the Ocean Market UI.
 
 ---
 
-- [🦑 Policies](#-policies)
-- [🤿 List Schema](#-list-schema)
-- [🏄‍♀️ List Usage](#️-list-usage)
-- [🏛 License](#-license)
+- [Ocean Market Purgatory](#ocean-market-purgatory)
+  - [🦑 Policies](#-policies)
+  - [🤿 List Schema](#-list-schema)
+  - [🏄‍♀️ List Usage](#️-list-usage)
+  - [🏛 License](#-license)
 
 ---
 
 ## 🦑 Policies
 
-**[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory states, for example by the reporting of an IP violation or sensitive data. 
+**[Here](policies/README.md)** are the policies & processes by which assets & accounts move to Purgatory states, for example by the reporting of an IP violation or sensitive data.
 
 ## 🤿 List Schema
 
@@ -28,7 +29,7 @@ The file [list-assets.json](list-assets.json) lists all assets in Purgatory. It 
 }, ...
 ```
 
-The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema. 
+The file [list-accounts.json](list-accounts.json) lists all accounts in Purgatory. It follows this schema.
 
 ```json
 {
@@ -36,6 +37,8 @@ The file [list-accounts.json](list-accounts.json) lists all accounts in Purgator
   "reason": "stolen data"
 }, ...
 ```
+
+**Note:** All addresses submitted to `list-accounts.json` have to be checksummed according to EIP55. You can manually checksum an address on e.g. [this website](https://ethsum.netlify.app/).
 
 For both assets and accounts, the `reason` field can be one of these values: `IP Infringement`, `Impersonation`, `Sensitive Data`, `Government Order`, and potentially more.
 
