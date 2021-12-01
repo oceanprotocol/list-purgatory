@@ -1,4 +1,6 @@
-# Self Description Lifecycle Management
+[![banner](https://github.com/deltaDAO/files/raw/main/github_banner.png)](https://portal.minimal-gaia-x.eu)
+
+<h1 align="center">Self Description Lifecycle Management</h1>
 
 - [Self Description Lifecycle](#-lifecycle)
 - [List Schema](#-list-schema)
