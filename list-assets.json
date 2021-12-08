@@ -16,6 +16,86 @@
         "reason": "polygon test dataset"
     },
     {
+        "did": "did:op:EaC0C2dCc3994E0Be0C34f6EC2DEBbae9fc77Ee8",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:d6f2cE6AEb574A94Ceabe6a8320E6A7fa6AD3A36",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:0579F7BAeEe8992c4CB137f5d4c172DF2d3c41a2",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:6ef1ccD8423f2C1D87532Ef69C156f710eCC4f6e",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:e983DeF34605E2fBE0398964249281A80C9c0f37",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:5b74331abfC0330757f7A0756dc6312C2BFAe48a",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:87842E8e08d4D840e94253c68Ccc74Ccf94C7E8B",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:748d9b7930eeB5998479186083BF7F78a2F71591",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:EF2Af73bad40412657E0591b39173AE53cdF2196",
+        "reason": "eth test dataset or failed transaction"
+    },
+     {
+        "did": "did:op:7Ef73910ABda3f3253114c115593bec12c5B041a",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:756f57a8E9Ef6bf21B2c1bB890D3855133077065",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:44014dc48D4880B01B5F741cB8952E09feEF031F",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:E3FC5e93C9299f4d1285237935f668122EB39Ae7",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:ecDAEBD3f4DAF8395c87aed12a11A0B9D27F77bC",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:7E04260F9De51bBFc27fEeF107Adb2bA438B5372",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:88D310226c223bd2D23De012a2773B408636b30a",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:1182935Adc34683321bce7978aA0d169F0a87A1c",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:61f572e046BD57F25c153A9091993C957E1d9a1e",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:05B42FEb49F27fC10d76AA290D39e0f251F23Ae6",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:dCD9EADcb06477DC12057Dce7615ce05D3D765b4",
+        "reason": "Retired by publisher"
+    },
+    {
         "did": "did:op:312d24dE83610e351A1977EbA8851CeA8D020e1B",
         "reason": "Retired by publisher"
     },
@@ -38,6 +118,82 @@
     {
         "did": "did:op:2357C32D8C68514D4186D0e193836156a133F0f3",
         "reason": "polygon test dataset"
+    },
+    {
+        "did": "did:op:1348D1016D119d6c5967d4D49d5bc2ba96864f8d",
+        "reason": "polygon test dataset"
+    },
+    {
+        "did": "did:op:5acBD3D6E6f47505992Ecaec620BF6022AB149e7",
+        "reason": "polygon test dataset"
+    },
+    {
+        "did": "did:op:a37ba77661F04c9bd8F9A61387971aBEEd8E9066",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:d604468b78D26cE28E826f089B73f80B6958AeDf",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:7DDE3aa7B1A29EB8b4c6D7b37f4B5A3e0cCAD3d4",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:fF827c7c713c756a78891A6d1924bB4BC35693da",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:1337E73Ef8Ec1cd92d2C67B272D14223a43ffF46",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:9eF4FDf66178e03400B49e341C8D6dA6A8783ECf",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:71E1A3E14BA3a6DEF15057387e5133caCAB262Cb",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:0588200F0fbd3560491c8F75C159e21950482BB0",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:2253349Ea6C11245Dc822EC59A73e42d8BBa1017",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:f21B214280647753ea4d59A69f0537e99BB95A83",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:064d657938856D103C566fbE44eF90eE4F2109cb",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:13C29DdD98A94A9F97d65450AcD827Abe4D0B394",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:10b1CfF754bE22181a5bE5c2825F1bBC56473DFE",
+        "reason": "eth test dataset"
+    },
+    {
+        "did": "did:op:B7A3BeE84446cC27ac7cc0f36598E0aF58360ce8",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:fFD6Ca132886EA6d8a52e94401e2DeBe7360B214",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:561459e3BF769f5e1B5Dc901C782EC43924A07dD",
+        "reason": "Retired by publisher"
+    },
+    {
+        "did": "did:op:eF152D1C4F9171E45ceDaf3f06BFB01831246CcE",
+        "reason": "Retired by publisher"
     },
     {
         "did": "did:op:a5Fb5Db2ED68996b8B1Dd9BcAc0D95752DA8b9A6",
@@ -1114,6 +1270,106 @@
     {
         "did": "did:op:0f5B491ff05f5720F2cF7E5eD8ad73Af779Caf4C",
         "reason": "rugpull"
+    },
+    {
+        "did": "did:op:1874035A95c4ab1e4EaC0d9AaA6159251BCB5FBc",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:9418C4Fe64C87E872A5a9EF89d63F43214394161",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:27457c26E60331EE83C5B75CFd97F962032C9E01",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:8A05F74031B09FA5a4ce4030409a37851d73B2d6",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:227baDa3B4FF5B51dE9293b837F895DCf94c8f0d",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:77f4482B8Fe848936f75da745D32Da388C2Bf2E7",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:b14E4b55B3E557F959115DB81c3Ab33ED011EE15",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:413019e02aE2fB27240F61Db0d9BeAb7e336f56a",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:5a1d6c7e756eBdD2f625DA1c90Ff8f0E45C14d24",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:55722120850E0C175550C5C04Be0abC4bE49AC5f",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:F2C46568a243084c40ff65eda1809DFc1A256B44",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:4F4f61191e17600d2792077e175370dd159fd2bc",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:A177e0eF204d469E1E84AD0ac7F0E7761B99582c",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:c122BDb47906365E6291Cf34768c0379b7cd4CB0",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:4808a10109EF90822c382E0db157364f33F2F8e0",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:c18317f5b7Bc17F8cA521e6582405988AF497b0A",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:Ce054C6734714f2dB0474489817F122a4cAf22b3",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:72F23E647CA29b1C17B0Ea7CCB284b6177d9e195",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:f4b0492a33FeabaD37179560f1EAb4AB3bAEF6B7",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:7F4e5501FD7a231567C2C1b73747715af485e739",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:361Bd7eD6899a015271f3BE468fb82a3584C3EdD",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:98a01d19f4D3D929F11b860C691D9EE678ACdfeB",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:903DBb6AB9Ac4074d269245bD8d3Fd0Def359128",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:F8A37C56b486A3e64A8C18B14fcDe708f9A3574e",
+        "reason": "eth test dataset or failed transaction"
+    },
+    {
+        "did": "did:op:18b55c1D6d838592d32E90692b8C179480a387Ec",
+        "reason": "eth test dataset or failed transaction"
     },
     {
         "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
