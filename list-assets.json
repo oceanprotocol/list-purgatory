@@ -1495,5 +1495,9 @@
     {
         "did": "did:op:49CBFF682D960bf20F5249478f81bCeF77DeF50A",
         "reason": "end of life"
+    },
+    {
+        "did": "did:op:D8492509E4c98a7575a29341937aCAA7d201fd44",
+        "reason": "end of life"
     }
 ]
