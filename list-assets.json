@@ -1,4 +1,16 @@
 [
+     {
+        "did": "did:op:a79a3D762E3b13646FEfFa410b35a7605C5c353f",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:85E0aF3A67426b398198E2DaeA40b474Fa99E94C",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:779a6B855b7fBEBAf9e406F3580F9B59a2dEE17d",
+        "reason": "Retired by publisher"
+    },
     {
         "did": "did:op:719D5E03d94C945232609536DcD4f2D63A355A12",
         "reason": "Retired by publisher"
