@@ -1,5 +1,13 @@
 [
      {
+        "did": "did:op:C985Bc6b978444e64aa60C496691897Bf9a88B07",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:45Be15f116b4F19719D01d4F114390FC3ed3e956",
+        "reason": "Retired by publisher"
+    },
+     {
         "did": "did:op:a79a3D762E3b13646FEfFa410b35a7605C5c353f",
         "reason": "Retired by publisher"
     },
