@@ -1,5 +1,33 @@
 [
      {
+        "did": "did:op:8DdA0150b681f39EC993cdE92F14F631Cc877169",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:f380882C04e5605E1a516c32F884c4C5850d96f8",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:3Fde7A92C75DbF7e332ce6A92D73E9513EF13Cb7",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:86377a8E979407794dC91741D8B8a0195738074C",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:5FA51A5d5a64cEF26011024743D5aefd9514bA83",
+        "reason": "Retired by publisher"
+    },
+     {
         "did": "did:op:C985Bc6b978444e64aa60C496691897Bf9a88B07",
         "reason": "Retired by publisher"
     },
