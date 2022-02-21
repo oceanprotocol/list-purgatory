@@ -1374,5 +1374,33 @@
     {
         "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
         "reason": "rugpull"
+    },
+    {
+        "did": "did:op:c6F418dD714fAd11dcE5ff9935E2820691F02cA8",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:2c365D79543eF1530b24a904543d5075684DAd4d",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:67bD132BC5971DfB522086A7744db02c53507B05",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:be5cF6a4fFA76ffFC22b02844894B172C9592463",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:8eBb2D1e90ce1B26D8261Ae41010F2936e52Edf3",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:DDf67735FABdCF20248b3ad5Ee2338cCcFb2f8FF",
+        "reason": "bad actor"
+    },
+    {
+        "did": "did:op:7B974e4fC9F96ae62CAfE21685c4d91f3Ce7928A",
+        "reason": "bad actor"
     }
 ]
