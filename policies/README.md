@@ -57,6 +57,7 @@ Here are ways that notice may be retracted:
 
 It can happen in one of the following ways:
 * An asset that the actor has published has been put into purgatory
+* The actor rug pulls. Specifically: for an asset that the actor has published, the actor removed most/all liquidity from the pool despite non-negligible liquidity from other actors. (Ocean V3 only)
 
 ### How Does An Actor Leave Purgatory?
 
