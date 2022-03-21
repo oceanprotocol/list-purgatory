@@ -692,7 +692,28 @@
         "reason": "violation"
     },
     {
+        "address": "166b5680B6Cd2a659ec7aB1863B07CEa6E087f40",
+        "reason": "duplicate"
+    },
+    {
+        "address": "8C8Ee72C8834725877877Eb142a7A784FD1667da",
+        "reason": "duplicate"
+    },
+    {
+        "address": "024FFBEB9BE15425191b5203dBc17C2532424221",
+        "reason": "duplicate"
+    },
+    {
+        "address": "b9799Bc0fc4bdF46f08ADA16565aF3C3542F63b7",
+        "reason": "duplicate"
+    },
+    {
+        "address": "2BE4114151F8FB255F3e43e960316D491F942e95",
+        "reason": "duplicate"
+    },
+    {
         "address": "0x359a76dB7aFDAd46f0e2C6699eC768c1064C86Ca",
         "reason": "bad actor"
+        
     }
 ]
