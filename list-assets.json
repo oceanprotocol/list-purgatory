@@ -1,5 +1,81 @@
 [
      {
+        "did": "did:op:f9C0F5961E4C02a055b81Db83eceC144a225F43a",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:0687A3b5167C5ea9e080F79Fd741a68a3ADb7c53",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:58256085531d54DAbF03a6B7d06e3BEA1DC99d1F",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:47c8D506240616C80De5e64F5F4fdf487e169b50",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:7b198D920fB31c0a9866bED95614d041fF9939C4",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:148ad098D59Ea23bd9AEE7DF96c05F29c7A56250",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:04fc0db26516679Fccc45179308E4Dcc4Ad457Cc",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:81381F6Bea08d95AebB76C4c032892085c858665",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:dB3A38ec19b27aa256595c7bB6c92c258B1Cf83C",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:019C4323CC0D0C28CafC7D82Fb93c9868045B552",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:5a0ade7B884DFE3CC20Cc45F20Eb28CfF6d7FFAa",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:801679fa3C8D00Bc564DdA39d0255454F30b755b",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:80F0508B8461ECB16200D7308cA4Fb94B4436570",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:211Ed042F6C75c387c42f2BF17dD53e0673dc139",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:E5F9b0ff02700604840a6F2bdF22D82FD39D17b7",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:13a16a58114e87B85409c513dC92741425Ad9432",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:ce18f7d3582E516E4D317bD4EA27754Ac59A0f28",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:BF314910F524480CcD1ccaFC34Df467a7384ca05",
+        "reason": "Retired by publisher"
+    },
+     {
+        "did": "did:op:a740f26d146f70e13038dd94189c3bE701A3dD45",
+        "reason": "Retired by publisher"
+    },
+     {
         "did": "did:op:7B95101d78EA363B88B3c953e5Efd81013A1Efa2",
         "reason": "Retired by publisher"
     },
