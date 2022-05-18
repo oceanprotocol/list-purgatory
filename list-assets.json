@@ -1,5 +1,9 @@
 [
      {
+        "did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
+        "reason": "Retired by publisher"
+    },
+     {
         "did": "did:op:A6Cc3a5d20f24b87Db04A02029543cbb78ad0D70",
         "reason": "Retired by publisher"
     },
