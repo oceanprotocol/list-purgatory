@@ -2452,5 +2452,9 @@
     {
          "did": "did:op:847e445f3893386cBca3eD4869cBE2Bfc38e770d",
          "reason": "end of life"
+    },
+    {
+         "did": "did:op:70553fa528d8633D85107EF3552a3C6913D03ef3",
+         "reason": "end of life"
     }
 ]
