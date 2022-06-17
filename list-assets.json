@@ -1,6 +1,74 @@
 [
      
      {
+        "did": "did:op:25FD56dF0c1D28568755530dfE3FFB92c33ECa95",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:CE555aCd06B41431462ACBAAdc8a2739283216dB",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:b46BfB4E8d43BD550b025C5cF7fe6c137c5597f3",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:A4d1a2166A4b6CEB13DdD765B54c79B0BAc65464",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:3901D367d28dD3EE19516fC949f758f3c88E09D3",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:c8DaCF24FC182dbfBeC98f9F8782Ca5e0267E04b",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:Ca19c1642C4d31Fe0dA0B74fB126c139006228e7",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:c1cb58E0D780aBbDbA053Ab3Dc0A7254640106E2",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:919a877360fa603B152a4A57298ab7D7d6F25b2b",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:1AD0fAb6BaA371FC4dC61C0A4e83658f84674281",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:852083Ff1830CbcD789c8f1a9C990C96cC802E9E",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:153Ab17038106E6d58605a4f90Fa118A4A916A3E",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:CC3aC20634f141C868c899f4006B903f22A1cbbe",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:02a24163Bf744a38818347ECC7711559Faf2549b",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:c80d11135d8240f70D4D504FEDd838E9cd1d2288",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:3a35894A8a96B8Bf96085a1de756B94e7F2BC921",
+        "reason": "end of life"
+    },
+     {
+        "did": "did:op:7EAD132835260ed8fA6e04963A36a5bF533c1701",
+        "reason": "end of life"
+    },
+     {
         "did": "did:op:3072145E0fDb31d1Aee26d985CA8873c1eB68088",
         "reason": "end of life"
     },
