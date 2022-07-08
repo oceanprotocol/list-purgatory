@@ -1,5 +1,13 @@
 [
     {
+        "did": "did:op:d304cd36c780ae25c9732ca03c1209fe3655e3663fcd79ce05dc6e54984ebb53",
+        "reason": "asset copied from Kaggle"
+    },
+    {
+        "did": "did:op:a9c8877d84c730a56961a2ca059c179162b24d8c0d9491e08f808c75d7688e73",
+        "reason": "asset copied from Kaggle"
+    },
+    {
         "did": "did:op:cb825e0eb6d78e10088f37a97f964dcea146db955cc7b6b43ee570681a8bc178",
         "reason": "databounty test/old asset"
     },   
