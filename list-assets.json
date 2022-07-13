@@ -1,5 +1,41 @@
 [
     {
+        "did": "did:op:ea95be00f66ee3f68f113841d0f52773aa2c818d2f372adef7a005ce2c030d09",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:22f183e4fc119d611cab25fd2155b192bccbceebc58d17c1f4f7829a4743da4f",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:4ed1b46a14a70dc9c8eba36233709a9a013e111f56ccb9b9d0bb123f3675db4c",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:ba2fbef4ba98b94fa1b5d7de7adc5e4f1c67d25963b56b95f787e1642213f7c1",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:0bd34a640306d8536922a55dc097979d27b0ba5557334b2f9b49c9e4fd5ac493",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:d1e57fb0c05d4d9dde647a6e1a1151af851593717717271e51b2e5471744072a",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:c144ba36e62eb2a5ad7384a8366fa1b4ecbea94244b7fc7337e85992838411b7",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:721eb76a89fe8394dec4142cfc1a6bc322090a01612a7311825b50f545003039",
+        "reason": "deprecated databounty asset"
+    },
+    {
+        "did": "did:op:250fecc62aca7b0bfbd7f21e5b353e20287741236889c15beb849f3f5dcbbe34",
+        "reason": "deprecated databounty asset"
+    },
+    {
         "did": "did:op:d304cd36c780ae25c9732ca03c1209fe3655e3663fcd79ce05dc6e54984ebb53",
         "reason": "asset copied from Kaggle"
     },
