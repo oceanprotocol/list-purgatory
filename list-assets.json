@@ -1,5 +1,17 @@
 [
     {
+        "did": "did:op:31603a0f7f15e4355ce67fccd047772c45dd1571fc5870f21121c4cec06f19d1",
+        "reason": "Rinkeby: Long name test asset"
+    },
+    {
+        "did": "did:op:7f99150b8d608b0f0d54af386013ea59ac3b7d7b1476aa475f335749a47a8406",
+        "reason": "Rinkeby: Download test asset"
+    },
+    {
+        "did": "did:op:8199225510cd2e5dc509c05ee1e2f7bd2e80a2e72e7ff37dc93d1391bd5feb2f",
+        "reason": "Rinkeby: Download test asset"
+    },
+    {
         "did": "did:op:ea95be00f66ee3f68f113841d0f52773aa2c818d2f372adef7a005ce2c030d09",
         "reason": "deprecated databounty asset"
     },
