@@ -1,5 +1,13 @@
 [
     {
+        "did": "did:op:e1452788dd9b4703dd865b9c78928bd60237799d8b06dfaaad5ffb7f84f75ac3",
+        "reason": "Rinkeby: Sample data test asset"
+    },
+    {
+        "did": "did:op:e1452788dd9b4703dd865b9c78928bd60237799d8b06dfaaad5ffb7f84f75ac3",
+        "reason": "Rinkeby: Long name test asset"
+    },
+    {
         "did": "did:op:31603a0f7f15e4355ce67fccd047772c45dd1571fc5870f21121c4cec06f19d1",
         "reason": "Rinkeby: Long name test asset"
     },
