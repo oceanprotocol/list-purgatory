@@ -1,2690 +1,2690 @@
 [
-    {
-        "did": "did:op:530E9e31d9e3450Ee7E6EBdc5b0db0A291F1A23a",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3a1033a6ceF9cBC264d2b7Aa92b16018C06d0837",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:FFC165c8051557aF32d7E49fa9B1fE6bAA13ecbc",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:97d26945e902FD3994EE89C0BA5e666f2D1092B5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:55d1E8e57e4f9fFeD402efE8b3618b63E9C402d5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:d1A530342CeE548F00D62115F5663bdF19a9D34F",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:9176b705bEbF0744AC55Eb2c09143ce2577e4fe4",
-        "reason": "end of life"
-    },{
-        "did": "did:op:76c5aCA52EcFBD6D5D687BF750999F55aC43E3Cd",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op::7bAE5b0aD5cFF05CB068BAd4b73A1EdC8eCc8a8e",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:0be7f8f406510b805Bf7676C4Db2381462F6A301",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:aeFa9160b90292654424a8f077fd0daCd4957f4E",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:fE9556B1A91CEEcaB2882FF6B9A017602D62237e",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:60Ed0C56FAB54AF2bD7AA78a94cb2cED42e5fbf3",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:95FE3F2f559d6cE3239d44aff90210B535b808CC",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c2B21d907d5dCa4fA93f7Dbdd89cbD83674D6958",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:258bd6914a80d65B89f37D384dD16A65E20f30Bf",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:48A5525dB3Dc2528490fC82C3De61c39E2178669",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:5e123b5D0aC80D3C60B46e74BdDa7635A8e755EE",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:258bd6914a80d65B89f37D384dD16A65E20f30Bf",
-        "reason": "end of life"
-    },
-    {
-      "did": "did:op:1DF14A2bAeC992cE44906CC55edd6C1fA9aFC31d",
-      "reason": "end of life"
-    },
-    {
-        "did": "did:op:48A5525dB3Dc2528490fC82C3De61c39E2178669",
-        "reason": "end of life"
-    },
-    {
-        "did" :"did:op:9176b705bEbF0744AC55Eb2c09143ce2577e4fe4",
-        "reason": "end of life"
-    },
-    {
-        "did" :"did:op:76c5aCA52EcFBD6D5D687BF750999F55aC43E3Cd",
-        "reason": "end of life"
-    },
-    {
-        "did" :"did:op:7bAE5b0aD5cFF05CB068BAd4b73A1EdC8eCc8a8e",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7a07a2AC0FCAFA08bceb3E94FC6aE439D9bDD117",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:98B6D9686Edfe2014046f334670ca881D569A67b",
-        "reason": "end of life"
-    }, 
-    {
-        "did": "did:op:26A7650F56094Fe45ED811D61db78c344d252e3a",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7E42e64E90ca98871bC79E91F5d79AbCeDBBceE6",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:fcB61fDF22E1885547A60Fd6dA82B6b133589790",
-        "reason": "end of life"
-    }, 
-    {
-        "did": "did:op:25FD56dF0c1D28568755530dfE3FFB92c33ECa95",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:CE555aCd06B41431462ACBAAdc8a2739283216dB",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:b46BfB4E8d43BD550b025C5cF7fe6c137c5597f3",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:A4d1a2166A4b6CEB13DdD765B54c79B0BAc65464",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:3901D367d28dD3EE19516fC949f758f3c88E09D3",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:c8DaCF24FC182dbfBeC98f9F8782Ca5e0267E04b",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:Ca19c1642C4d31Fe0dA0B74fB126c139006228e7",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:c1cb58E0D780aBbDbA053Ab3Dc0A7254640106E2",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:919a877360fa603B152a4A57298ab7D7d6F25b2b",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:1AD0fAb6BaA371FC4dC61C0A4e83658f84674281",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:852083Ff1830CbcD789c8f1a9C990C96cC802E9E",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:153Ab17038106E6d58605a4f90Fa118A4A916A3E",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:CC3aC20634f141C868c899f4006B903f22A1cbbe",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:02a24163Bf744a38818347ECC7711559Faf2549b",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:c80d11135d8240f70D4D504FEDd838E9cd1d2288",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:3a35894A8a96B8Bf96085a1de756B94e7F2BC921",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:7EAD132835260ed8fA6e04963A36a5bF533c1701",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:3072145E0fDb31d1Aee26d985CA8873c1eB68088",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:a5b26D016069AB4133A08CF26dfD853D0F1321Ed",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:b562a807b0db22bE0AD4FD53b35c460e17128F13",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:d0bBC407c5Aa10d7Fd729A4bc00a9DC43535Cfe0",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:038812b3D1035EF2362F09fFd645De32A59bba1A",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:8C7048210c7c60B06DcD159fC03F0405D27D9577",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:f367d35489c80cD3B6865612AfF905432bFa0514",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:49c414a9992a08E8e7F75d3a5Ea927933a3e0626",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:3390301Ec486158eE6c904E7FFc5B75DD919C3e7",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:9454Ba83159B6c83d87851d8C590D46948aD00d0",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:41069Ce31d4D6607d76B42Bd93A2F266Dea39254",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:16dB1AdD342578c0C873CCe349144E36Da020835",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:4465FEa99D0A7d24E7BAf1683bCA7862Da6789a2",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:ea8d0FB06b3A55e8Fa69CD5ce31117f545BAd77a",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:a7083098C1314FE32758bBA74F2F188E57c93Cce",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:8D69cbB4535a5E63C1cA38099c251e91dC7841d4",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:a05fCc072622342d8c9B8a240774c58E1Ba5B7C0",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:417b071096881FbBe10aD51e168114fD8F674723",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:0bb4c43e64cA72b22500a045b9f69D0eBCaa90A4",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:7fcAd620648548136574D2a058AAe130333601Ad",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:Fc5A1B5855af0d6541230C882E6f326046D69Eb9",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:29f811cA44cC6575F118e5C7cb2e7F059e1bc6D1",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:68a93eE74C90D0112c8186621dCc6b46DA444d0b",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:1b727c9B2a9774e55b8DB336efd4a34f9d0b6B47",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:b506d63e7662C8B42684CD7214969cc3F974d7Ec",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:2D2b6D48C241AafBadE40D0c4346dcc1580cC5cc",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:194cb9E92b6B6A767242953e4A5c2492255884dc",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:a94fc3e5BC6A94D6f168712A544019cC944EC2F1",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:b7bE6886Ce59f7e8E35B7a1838951738F97f6169",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:06F3DA10Fd02B21bD8D8e5010760390ec2190734",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:014Df0FfBd209151A6AB96949C38BC160908Ae3F",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:6b7C11f3f5d305f256cA49bb9950671f13aE5675",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:7D5bD3442Ee1A3e957AdfbA3a812a44DFAFcDB53",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7BCBE76aa94Da76B0Fce015650fA04E8CE8B03A5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:d89a448E086030cb76114D1f596557d67eee63f7",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:98A1BDF9B7B3E144599aE8B81bB666803E4708Bc",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:4d7Dc897360307B25E8247716FbE8839df566d79",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:1cE98FC019067844Bd726629F36e0F504a058A28",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7C18967d415fD6B0887A005FF4958baf910dca0C",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:58C69bD1f45fB2A22FbDD066E39b862a6fb79320",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:4A20a6feCb81406D9515E8D426287C257f5CAA74",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:883C9Fd11A30fCFdb0B7193c92366F7161786532",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3891820d298c73F8f40DF0BCB3b300DfEA18B1b7",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:25d101E6926f7134554f2B9bd08101b31f5b5716",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:079e263377Ef905997c6Dc92e9B51E90502a4846",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:Ac43B787B46513Db12124153FF5D618D9C035dfb",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:72adBd427Dc8f557f809C298110cc2dc2bAc50bE",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:33a0aE86a342732c56e28bcd7Ae836bCA13eEF10",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:afAbAcf885F130b8f8Cc2C7B335F31204371C405",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:B0291CA43821Be46Ca58894a06581DC4aF3e3539",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:36149A9366342e8DBB2564F1aB2178D7231aD76B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c3E6F93241EdB5B480280A1Ebe16efa22dd7606A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:C547B6962DD3f14c2224C2b079B34450790B8d8E",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:5CE4b40633B664435FCB5fACb7A85F10c60dCF83",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:ae1520250DE427cb525f09D08988513ae9Bb08A9",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c822E9088AC69628d27a8c1F9dd823F6A15dA458",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:f4f245Bff681cDbF3F995bFe8B65b7742F1CdFba",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3864820742afED9A6fAB8314152a21c0b84e2828",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:74b4213109c8F87a015DA02a15F04452e5c8c0B1",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:59b2b35250BF8E25C5cfE8a12Ff8db536A34eA02",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:bB604eD5557c1B680B51a4f0E892Bbc0A0760234",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:20ccbB7a8391172208079e5e26496880Ba28Ac8e",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:36149A9366342e8DBB2564F1aB2178D7231aD76B",
-        "reason": "end of life"
-    },
-     {
-        "did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:A6Cc3a5d20f24b87Db04A02029543cbb78ad0D70",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:3dF7447032d4458C1B104a9c3c9f62a63263aD82",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:c1563f2bacC7cA56eE1d4Efc9D372AAf94f8D00F",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:F23ecf8619B3d1EA133A3d5Fa976F44769D317A2",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:0d00C7Ad5ae3e14ddcA833C50B278a0c1DA7043d",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:53FD6298ee664E2E49500c192856E5Cc52FA39Ff",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:Eeffb315E2224d11DBE25c5D2E4eEE1d9Ae4DF26",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7E6476D188c710B80DbefCe64f1C73f4d6a54379",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:a40925DCcE4B516e3f06d3E401A45f8599ef8559",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:cEF1d7eEBCd4F3e2d775bE34c2BFc6aD72535519",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:B4513D1cCB4C820554682E32C4A0bE142a1FbaD0",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:60f8CC6c5835117F2eC1945b5A3059C1225ACFB2",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:6004b03a622D7781B3a592DCF43E4556E9e91b21",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:D9dAe51dE519D06a01331f562cAd0bb93Cb03C0D",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:27ECD0FE2cEEb9399f87530328770004e795dED3",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:E494627202F7A9B7C09faC31578E7Bb46af61397",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:aB10Eb71D5E67dCE5eBFB374b9df8b63276F9c59",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7d6889714d44cdaec7A332c815fd787B8cEE069B",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:5B572C95800ebFf06bC2EbF3d429a78688e8C153",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:f9C0F5961E4C02a055b81Db83eceC144a225F43a",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:0687A3b5167C5ea9e080F79Fd741a68a3ADb7c53",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:58256085531d54DAbF03a6B7d06e3BEA1DC99d1F",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:47c8D506240616C80De5e64F5F4fdf487e169b50",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7b198D920fB31c0a9866bED95614d041fF9939C4",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:148ad098D59Ea23bd9AEE7DF96c05F29c7A56250",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:04fc0db26516679Fccc45179308E4Dcc4Ad457Cc",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:81381F6Bea08d95AebB76C4c032892085c858665",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:dB3A38ec19b27aa256595c7bB6c92c258B1Cf83C",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:019C4323CC0D0C28CafC7D82Fb93c9868045B552",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:5a0ade7B884DFE3CC20Cc45F20Eb28CfF6d7FFAa",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:801679fa3C8D00Bc564DdA39d0255454F30b755b",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:80F0508B8461ECB16200D7308cA4Fb94B4436570",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:211Ed042F6C75c387c42f2BF17dD53e0673dc139",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:E5F9b0ff02700604840a6F2bdF22D82FD39D17b7",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:13a16a58114e87B85409c513dC92741425Ad9432",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:ce18f7d3582E516E4D317bD4EA27754Ac59A0f28",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:BF314910F524480CcD1ccaFC34Df467a7384ca05",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:a740f26d146f70e13038dd94189c3bE701A3dD45",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7B95101d78EA363B88B3c953e5Efd81013A1Efa2",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8e4B4287e1FC0e9911819833F96478fb37b10617",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:bb7e9372279C0D319de4af78cDdFBc55E248f4c5",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:ed82D463CBB8bD065F5A138eFC7b1Fb220bd5ab5",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8d2a3e1ccFA6bF1255c04b3d1C57cfCfe3b9fAdD",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:27a6630326Cc4C6217FFb1652c972C5d5c1d8637",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:6D76482a0F5244aaaF4B9a328344E7d5D5381614",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:352859D70A19c7EFa1cb1E46cC449B7158a8Ee4E",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:e8f4AC8Ab8D7E51B1406b80E5ee14f0818B51AE5",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:Dc445E158Ec62A571bd00E84D5173282880C0333",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:B99D144543eD9957594C20716b348Eaa22C22afE",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:C008CAA323B4584feb254A6117F608F64C369D06",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:81763b74D5fe9d07597a0D9a9ccd1A5Aa9CdD438",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:DdFcF191367e76CAc78cC77555C1Ae568249533F",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8409A21289D8b90199aAC4D17607980C54F98a8A",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:a4B96b461C6Ac0Bf56DAdC5639e29764cA6d57f8",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:b3C853c15b326CD67DC593f20D71ef08dC7dbCc3",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:b3C853c15b326CD67DC593f20D71ef08dC7dbCc3",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:0c1EddF307A93d958209B869C15cdE0E0cdD1Bf7",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:6D662E46091dAC47c3C0C7375D6cbC006CFDc88c",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7D026b5019cAF48dEc7334Ba2889853272bEEC8f",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:6A8a9Df739A1a2673C612A97f273A989D0A781a2",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:5457803e4632B4AAf7ffCfaD67e16319dE0B7099",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:F3581ecc80F0236b58bc9658e9aB7C60326e5973",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:2663A1b4154048A01CFCcfcb69d4b6d12a4a66fF",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:5Bb1D920934a72C2Fbf3eef286d4f60Ebb54C15A",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:55D7212b58a04D8D24a2B302D749ADEF83B4a7d3",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:dF461d69Af34B02b1Cfb3EDF4edAcb35Fdb753F5",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:71FcAb870C35ef93142D818359b42d77A93E3dEB",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:A80C3ea26281B26432Fe349088126A64559a11Cf",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8e7B640bA42Db5Afc5CB2FA3bAc72d46eDd3c976",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:2Dc6EC1c0b3A0C00Ac70F844D4bb049C0Ac7DAFd",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:b2d57617AadA142abBb1ABbC93d0E1EeeA23D340",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8eD35C7d93F6f7aBFDF61187d76b075c94E85116",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:54eF293A309Ad81419c023b1e94783339EC2885E",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:10e8452CfAc8d826dd4d79F6d89DD9E796804475",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:00C6709bd2D65b7202F6e46c704b9a798E57a4D6",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:358A9B6C546a22057B758ac9f89B9B9B364c2FD2",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:7B138f52758771027DF9602CADe7966Bb2Bb063f",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:11c49877195B29Cd325cB33B667b0e3Be05Fe528",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:fc08c8c62b2ef8f4ee594558aB7cD50904B8BF78",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:8DdA0150b681f39EC993cdE92F14F631Cc877169",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:f380882C04e5605E1a516c32F884c4C5850d96f8",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:3Fde7A92C75DbF7e332ce6A92D73E9513EF13Cb7",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:86377a8E979407794dC91741D8B8a0195738074C",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:5FA51A5d5a64cEF26011024743D5aefd9514bA83",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:C985Bc6b978444e64aa60C496691897Bf9a88B07",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:45Be15f116b4F19719D01d4F114390FC3ed3e956",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:a79a3D762E3b13646FEfFa410b35a7605C5c353f",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:85E0aF3A67426b398198E2DaeA40b474Fa99E94C",
-        "reason": "Retired by publisher"
-    },
-     {
-        "did": "did:op:779a6B855b7fBEBAf9e406F3580F9B59a2dEE17d",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:719D5E03d94C945232609536DcD4f2D63A355A12",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:746c606620e43F6cD9AE25C4A652afE8574E9Bea",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:746c606620e43F6cD9AE25C4A652afE8574E9Bea",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:24ee315eBBdc5Cde76cd84FD5F780AaCD57EA3ce",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:CFD995e75C1208747A00e401c40b344a92A4a5b7",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:8b8Cfbd16ba72A3485a2cdB93c0462b6602f5Ca2",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:5E92484A2DFC08f21E1117195709873c205F2464",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:2d50038A69beaC6CCcD53239C47a34817F3dfDc7",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:F6e0Fb1201ec14cfbd53a8A8b02aFc36D3242b6F",
-        "reason": "Retired by publisher"
-    }, 
-    {
-        "did": "did:op:67f36C91DFC6Dc413F9479D357b27e8CA2FfB5F3",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:3570Fb39c826E48DF5266e6C11d93349C03075c5",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:28343F7026B6c9E5EeABE0F2F79f00F9EEFF2A7A",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:E940AF4C46EB7FF7469a8dEB31daBAc565Ab837c",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:53A514ECd274ef082F2d7c71812456CE47Cf7Ac5",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:aAF42B345c6501a9Ff930d4928D1bA17df0b4511",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:4668e352F0f53AE0389fd7ec191A3FBCcE884784",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:F7bD9d70aE7646EaF5E295544535538D0b583839",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:401851fC40eE51dF593001F7F5CBA77F164c3DbB",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:Fb8245A8dF9496537CB77D8b2719C27f128800EB",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:EC0C46e218E4f63997aB7E12E78ec89c94602435",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:5E4CdD11f7e545D47ADdDA0D713bE3df6cbAd607",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:c57486849D95e2a6e3D57C0a6e77563430C14e26",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:621C5038daF1D083C7F3c2CB2deeED3402672C5f",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:cd3737badC492e2a243037c69733d0Af1Ec5B450",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:ae37bEc8b7560A3A1DbFA34f1222a3Aa326FC761",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:9834546b8Ffb8f0F62130604D52FBB84E5b7a50B",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:4848d5A1c918c0e1313233dd8Dee36a44fABfd44",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:C62A7654DdeBaCD0d92655f8fd9D75dF58a3f2bc",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:63299938d9736C23f0F75B7b723857661cebd872",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:bEFf804Bc386435A39420C98F6570CDc8f6D5adB",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:89FecEb7Df692D18171129Caf292F864F73D840A",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:21d825CEc2240E85bbA5B1DB2fbFB166c0D356F0",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:31ea2cdac4342afA8CD1c0205a38D5c066cd7Ab6",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:fE871307b3e58cDe4e45CC17183aE3b84a25A320",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:493C2473A18d8EA8459DAe8a1C1c46f1d7dD73A4",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:F82574997A07E53F309CEb9C43B4Cf4a4B1dF781",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:bc785B2d948E05d33030E922B95c53ED47331d4B",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:E52183Fa390008569C23EaADBc56BB0c802EEE1d",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:783571cdDfd339C3a8dF745c2BfDA65a32c4A2eb",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:Cdf2DaedAcAC8fe6deF8a7388b3dC1C5f3feC604",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:677E77e222d16009DaB3499C63B1BccB1dD653D8",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:579B1a64363956A01e031f44018129114956Bef1",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:bb2636e02d8938CAc8F7A8D3a2838829950220a6",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:10049fcFC7981c8770F3F91313B654BC59816535",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:A026954dB3A542950a9D8790a509D82b8184cB9E",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:7f7EFB01515D3B7B74C7476A81cEFF4eF3C8FDFb",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:1a3F479bb6DCf2a20bd147c0F13D998dA21D13f8",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:365d901ef20035B1Ce70286E51DE7352cD208729",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:20778a5C4a3Cb75D284C0fDbb4859cF48C2a5d29",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:550D0AfC68aa5cB71a412108D93d432B7fa64fE6",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:3d371b6af47ffcB10b357ddb0537505870af45e8",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:7567e891274AACeA01Ce95D99E96A8b71230f4D2",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:3C5cbD1be6C62F283e8C428362ca81246dc5A26b",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:EF851a5BB70636D3ea1E1AB4CD67bB0bEd2D576F",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:e15a5F615609106cDaA1c88aF0185d569d2E096f",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:dCD9EADcb06477DC12057Dce7615ce05D3D765b4",
-        "reason": "Retired by publisher"
-    },   
-    {
-        "did": "did:op:312d24dE83610e351A1977EbA8851CeA8D020e1B",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:7c0D0DC5bCACeDf8121047c34bFb0ABeB00d4b19",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:8b4045F37dB438F9761c615e9512c3Bf742e29cf",
-        "reason": "Retired by publisher"
-    },
-    {
-        "did": "did:op:0e36Caa04EbefC1B2A77620F41e6c343a1d9d660",
-        "reason": "Retired by publisher"
-    },
-    {    
-        "did": "did:op:5cFB87E1c1B9d4be2d70Fb3da7266e9337b5c0Db",
-        "reason": "polygon test dataset"
-    },
-    {
-        "did": "did:op:2357C32D8C68514D4186D0e193836156a133F0f3",
-        "reason": "polygon test dataset"
-    },
-    {
-        "did": "did:op:a5Fb5Db2ED68996b8B1Dd9BcAc0D95752DA8b9A6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:11F7cDc1392d78Cb4420b57AB7eE1c31DFeD7266",
-        "reason": "polygon deprecated algo"
-    },
-    {
-        "did": "did:op:7467c34cABd19C2d49F1B6402DB19309231e2dDc",
-        "reason": "polygon test dataset"
-    },
-    {
-        "did": "did:op:d1419e62Df99F404D2aD81e23d6185aCe9197C06",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E4C89BdE59BBf13c73271b7b951063e523A960FA",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:0de092c26270198bE1b57A6E73ebd903e086817d",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:07826f49Fd1b3318Ef3b9123114207680a035cb0",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:A2CaFa40085935fC9345bD650C1331ccC1290f30",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:6427B21Dfb619468e8e1CeA8cE047B818602B15a",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:9E0634FC502D80910Ce5A17AEAF4a9248fc7F977",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:1D21e86D78077D39a40116745DdD29D58EC61883",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:C917156da34eCcC93e54813436ad48074C1D40E1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:028e0B27a39FF92Fd30b4b8c310EA745f309cCF3",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8c3ac3796940f41dA507979FA76bB3E878261376",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E1c051397Ef1cfE2e4989712E300D6348c8c7096",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9f5be0264537180E41C72D4F9469E377F0334715",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:4c51fd12ff754B46C948a9E177ecb5A52077Aeb6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:927b74f8bA9C602602aBF17D2de9f3C70f2ed4Ea",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:caBb1BD7918123BCfbacB04495a73d35387908dB",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8F59525E2492Ae98BA0116Cf06a2afdeCaf7A426",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:250Cec4C2A68E9a19Bb97BBa8bd04aE0DC6f2e5d",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:73aE4250a5185Ecc966cfCB46F447023398b0AE8",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:929527e0cD12AE44a2b2CbdB45043D79896EC0f9",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:747504C9Df9F643379860850e0e8B8b3d8515640",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:94d64355E5F5Eb81574D45484E624C375eB9e162",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:aA17f51B63667F467092FaC288ceF6806C76555D",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:2eb492e4b0Ed96d761f94614d245a6EDBc95458B",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:7497A0Bb077fEf066B292e2c6cec80F3a5d631e7",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:4d0C761d57f6C08b683b94084081A8196BDCc8d9",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:B7396dCD88686b0376F43eb1AB38667573A0B8a9",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:7Ef599900E79125e973Ac2E628f3B7F9aD4Ae82D",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8Ea6b9b9211dC6DBb71c49c4836336A03fc10962",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:74d64FC0fe4D8136c4632C3407d4AE3a373749f8",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:f72e083857E4C9110437fe452038B435E4B5437D",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:4C50C4d91CE329985Ce22E669b733B8d686a53ce",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:d6070FF42bA8DDF8B0C6794727D0ED1e17Ad5CB2",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:31a7e59318Ec3D04A7a5bb2a98733F161EC61AC6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:dfdC25cA415dBfc3dF9Ae5465811DF3FAF6F075C",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:5884D4A3CF5D53a10f95887B5d3678E2b9AB2Acb",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:BA4ef99fE170d0adDa2E2487A6cb3E9DE0F60450",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:38E70f23FE53659506116a43F54d8352D3c0c37C",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:402159a43dbe35A81F57a88c2A352522F72b1E9d",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E0A7816eadd023FA5BE3384b046a56039CD2B4Dd",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:EDF6b232F895f25B6197D1d04e475Cef820b189D",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:90cbD8D22b20BAbAae6DCD500253432C2b63Fb33",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:7822e8b639a88BBfdD927F25c266582EA32423fA",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3dCF229E6c8e9d2CC2377C81C6095dF55740aA4A",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:df2f40f5d1002A2aFd7032ad3dc00a54133bFd79",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:78565B0C8555Cb413e1F30A39d4CE8FBD29fa311",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:A9547c1933B3F7116FA86F49c3CA0924AA45476e",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:beB652A6cdc6Cb3F237Ff6D7d63D536889e0000a",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:38664A0bd133F71c57B976d40E4e62C86D77a2a8",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:49F68424218Ec6A581a33e24C7A09f9BA3572894",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:14599800f0e0081d395956AB343Eb9648de246AF",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:953DD3e620f205c3acf77f683a0A17140425e016",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:03b7Aed0c1892D55740c6895c93a291e9d97D73c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:Ab793c5355E1ce9A58597207e9ff992a1b360702",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:7E27011547f3E44E5Aee822c0DB40Be1AAFC4410",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:740Ab356917Ecd7B85c4C866198f414E433C205c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:202b6AFB056E167528f7F54e2bA016a827a3D050",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:ea87a082895e1882855C943058A63dc11D7d2bD5",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:405e1AB56C7aF9AE5E0A0Efe43BF781Ae8F34659",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:624d7F99eFF196917119353aac638492fe1dE263",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9ca9472e0D11b19dfCFFd26127B5Baa7B14349ea",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E6B1d1DfE405891b5aAba4844c8099def0C9bCD1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:0eAd8544BDC7B6119A57d659b1Ae0dB743cc0461",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:b96743d027e68DB0Bd93EeC84354e65085109F88",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:b61a86a84BEa09B5eBc0Ad592f650cA68300CafC",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:B45aC240dBae03E3A61d9B5918D633a1AB3f3C07",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:3145a3a9e22c607Bf10bFbe81E9f5230B7b88c22",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:19b1CE5E97678604A3Aca7aeDe5588Fcba335f20",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:0f5A4C51Dd71C7FB8D5D61e5B56C996681e4302F",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:98AB7953a458e180aF238798D308701382F3919F",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:889ef0AcdF490e52eff8899EDe39b90108C165A3",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:75d839B89964937F17B9D5f50b57319bc97D2F2F",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:B93C88A9c76714B8FF26b33de2B7DFE8074D0252",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:6fC9bC74019bB1ea107B83a67589a16868068C3b",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:6De36AA9AcfAD3BC91c8Ae88C81d02D8774523F3",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:78e825FcA418f8a1d566e1CF2fB11b6369b01CB2",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:3E749F4bF605ED5108E948D0f9c8d7A572f72C95",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:f06a846A96CEBe670bB8C26C845cE72116dc908B",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3f7fD00faBa00604C918127450f464e22d3051b5",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:5098c37684c95576Ec7B65931eEF52DbF97e8Dc5",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:481Ae7f9481Fc5ADB431bBb03090ead73Cf692fd",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:683051456d76F89C4a0EDFE73aF1D6eEFA9eb605",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2eF82Af2E429A686269D6Bd1173Db6133F26AF55",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:F04a7699e7e76360d023439B80be3D592E55D7B5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3940Ab101A7139F108597498A9c412E2A6921DA1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E04d9107818fAF6233F2AC83078417049D5E826B",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9B6514A5a543855651d9E19FE4ddb9E9f508F0e7",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:26e234C40c99722Ef69682b8CA391c85D8E003b4",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:aBf5d190E2f4403b22b4Df406Bb93Cfd1684B40A",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:B8f161Eff2d59C5B95F176400640779249B7A066",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:dA713a7BCBc46d178Cc4e336B0ca4A441dE0EFd4",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:f2dBeee9273Cbe42788985eb24b0360fE4e2Dbb3",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:868B8deD3c35808341A348A47065b022a8523902",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:6164e0EBd71999021Af917F1B6e6Dd83d1a06e4f",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:0c5e88AAD9cDEaFD61e1Ad94B11f5D4823e3305B",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:bc2E4d5e0dD25157C860282BC55B9E4367fBB5f8",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:B421Fa07D2692AEAf0D6d219a97c37DC050e6095",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:c87ad767555eAf4aD933156b6A08Bf4Cb89C1616",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:13b82B94bc8b4fc1EDB4fe4D0B03bdf81A778B01",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:D10f99c2edC43be9006b19399f62F4f1e683fD2E",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:08F87Aa198Db1556a7060b8Fe39610299C8b91Db",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:E520BF153C85a3C5f37de47e65620307E36a53DD",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:deC1d258C918b6f0C4306a03A56Dc0E0A51975c5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:C3Ad55f6A19B68E1bd675689581ACCB0353Bf81C",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:196C10816cde1834aca53A89c9b0bC88Fad79f54",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:9a454E7bE4763EAFc7f6B06766516cb70d1420e1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:30665a01658ffFfe5024e4751c54Ed7BcCda591A",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:72d748cE3eE998667E1f0289a5B1Df25Ad79B12E",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:E5e23d51eF0ea0BcaE1a5f943f48468171b2de98",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:CF1AD9a151E9266e182D6e6023a2b2DBB381d67f",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:6d029e1a2F1A12c07B214E777A5d919070A8d985",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:C684cfeD00460B60A6eE99C7Ce0b21636dda981b",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8A5a66eF4423d9a011B4C821D330eD73a97FAE3e",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:85715D04ac0A595268326fBd3206FC3e60fbF9F6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:Bc757bB8277D6713e4E0A140de472FFf7359A96d",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:fbdE2d74FA618EeDA2724d04cf0E6257a94f461a",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:93183030b18b2f0e2A3869a0dD594324e0EA523A",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:0f5B47E28eA6d53FBf94eB106fD2A3004ce2D911",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:52A04a596365A5BdBA49276aE2681C13D60a5Cc2",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:4E0DC86B10ED93862C28693D3202ce76e0381d1b",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:02Cdc9010adfE59C43e701b8550bE57A437b2477",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2492025aee6e3933D80192F0b92fd9B25659F8e6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:750524e573F1De89822226F1708Bb2496652b58C",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:aD0a30BfD35ccF05dB8558EeB566B3Da171B2608",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:477f47B3399de3920ef6d126FAe6BB1C1A0c3A61",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:0a683Ca714bBDF02242226f14113e0045Fd9fe30",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:23Cf7b17Ca8CDdee123B18f21b336DC53C795036",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8374d66AB0eC06CeB9E5999285a12DF98dA64875",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:7EDf9091453b7cf45C488BF3b89e1DeE9E214816",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2A1bE410439eb7866A8c0557416Aee8C99Eef84D",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:eed81C1A7902ddac9F2daF0EeFC6Fc38104dE69c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:BC3EEc9B178C9416baDf4740aCE603ff154F7b56",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:72b83db03917315474984c087B5D9568D9e2137a",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:92b5eCb7f7687775f74F490aF360aB5A7FC791B4",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:454301695e854135620F19cA0CEfeC4f5F7F38Fb",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E2B32A940DbB97183cDC9E118880d2524934A291",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:a7BdECca519Dc6cbA755CF644f5Cf401513B3500",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:730F4a1F9b542C757911922843A3900c579C8640",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:fDCF8254d8Ed7EF51d774E0d9B157C6bFf692e3A",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:ecd0bCFEb134cE6f3027804f576DE742D39EdB3A",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:2745EB5492Fbd9d4b1BFe18d436b1B32EA55Ec4C",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:034493e63f23FCfe879C70dC76F61f6cD5fF0b29",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:e06043a6721B3481E6b6063EC220b99Aa96df79a",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:CB51489b07Be77042b77C44a036d10d38F42Ab13",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:628f5710dA5587041F57eeC80c2D6200BaDc4342",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:fB0cc105916c52CD12efe4B1597272d56150E5e1",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:38Eaf167B2700f6F8c08641Ed7F36990C0C5f1D5",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:E5Ff289979a09Ae1541F829AcAe4934Bf9e31AA5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:512B43141D302bc8dfaa8634BD68406d01D941DC",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9c815a49F72f26A444AB7E9B5F367D65815560EB",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:4789f98b4eaAcaa0175338916Da102654523D2bC",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:730Ce3d215e4801dcAbD26D3F3a0C51E6d532343",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:21DB8D1B53a784C39653214933088A614225d51E",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:3f3f019949576af9F882827586e9Af266c641FE1",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:508f5b3FeE3F36f777361Fc5787520D43fb99E9D",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:970745b662a799DCE691A386ABb7cd07c26a7528",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:83f790088387051b6045D2e57fE8CDE004DA2694",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2AD860fc75E0f92737cb225311c9B37106736864",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:6F711a35C53Cf3b731f84fcc2CB48ae559266C9D",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:976ac0dC86c2C2c7f8cEF04D5D024490d1D3E67c",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:7025e43d8d667b4577e9990b7059c82690D2eD59",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:3c55E1160D3457f78f7BB777949F3745d7275F1d",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E2F01a1fC775ffeFD369d78e7b581fdB2500Ce2C",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:e19D643EBd3B979495C4014561684ea6DaBAce2C",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:7b3c4707B416c5eb366E9D19f0bb668ADf46fB97",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:6417B696Dcd2257069168aF143EB79Bd2Ce1eD4d",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:ca68c5e7a565aDE806b081Ad2326A54c390B522f",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:3AeD2D5F089b215CE1a8E7F535240AcaaB200271",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:79338bd59eef16eF9dAB31f774aE3271852eEB08",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:19820fc643EB3b3b0DE3Ce402991C59E16b500f1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:581F2d15D128F8FD1Cc1eF230399d26de217DCcD",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:2D87C19D742Be9D1CbbBbdbc7E1f3D565DA4994D",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:d2ed5b3c3AEDe8B92a72F86ECf687f8A25902abe",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:5389Fb3f227c70aa8d292aFf54987f315afBC6bf",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:1F34eF2d979a83EA38539FA8293e248Df0FbbF46",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E6301836d885FC65AfBFB643162fc6050781F95E",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:a76ec417283ae93324b12c9FF9e5597D6642C368",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:003Af2CdcD9B0BFB56Db4166aBEa7c860F0cdFdC",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:142548Df21EeD816924A9e3B998910B0E6938Fc6",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:413693731Db2dB439622d690B04402F9ad0eBeAa",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:c4f0f027C3CAA4FBB7084529321f8247258b4254",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:74AF44Dd12130f778B3eC8fAa2968e1478C99076",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:55079Ff6A0719f7A8DD3fC40356610b751d3270f",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:0cd2d2E62baE0272a1cd7452d2b47BD85c2d22D9",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:3Fc62C835b07a765CDe9a23E377e5615Ea895D92",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:1ffC23BFEDf5dDeE7cfAd4E3Ec88e543bc4a268D",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:Be5F6ad278a1dFe078805A7F55bc76E77a227966",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2f6bC59F81D81d97E44ab2a1CD8B919f542c1af8",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:eF8D5D99A1F73B7d4A73a85808a6faCEE8FF215a",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:37B44Bb728BA306eeF64C5eA2F176743A9078662",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:Ba8Bfd02327C8a826F57294D8B38C5fc7C43755D",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:5709c6bc8162A0Bdb33dCD4A83a3F4539160ED6B",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:28FDA553d07c6a208DB44f73a3c1ad805eBb18c6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:2bF0A33b15e244710C38c5De6D146faa844EA372",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:076FA82AB4b495ECf86107e525f9813853C721F5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:56E0c8E9FfF2AE0C618500abAef1cDB8EdA5DCc7",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:9E290c573456266f5ddA89f6Ee1236FDA7264a05",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:f5dC3A446DcaF776b40DC7Ce7b92c3EA8ff4ACbF",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:308415eD1CA9d30FA0464993A851927f9c1fC601",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:E5cbd6A024DAcd71200eA588d8f3305c6ba20A3b",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:816507e87db641035D9278Fd0B964666fe286d7b",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:25EC5901a41D8fe2a05D3F9CcB94019679921378",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3DB62dc8ec8cCEb6678E20cAB1605E08039391c6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:16dbC53b98b58744FE77251e7fE5DA3EF75605EB",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:D8696385C59BE62F1B4f957E9D3f7158055555b7",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:16eE0beF3D4268F28C1D0871174329d2A2E0038e",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:bcDc7D4efD3491CAb2a8Ac0850657A717c9B1200",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:c7a248457A7cB2ea443229C014ed89F89514ea78",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:e5Ba263026b503f92084ABa279aDc50F99E94D6C",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:4bCc13285ee86f1eB10Ae8A5B60bB429C2106a5C",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:2dD17B1f003802767216cc0B39e4456A7Cd827bF",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:12663a76Cbd1737a76C5618d7F1e40D0BE62426D",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:F621863f882e8C4662eC4ad316FEEcb1808Fc2E9",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:2b8866DEB993e8aCa05698422679a1e6Bae8676C",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:0F26f44BC3Ec2482866AfA2CCEEaD2fB019bec7b",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:1FA87Ac58b4e19Cfa717696952833b54eeDdc178",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:dEe8B3a678494957591AB58A34fbD2dF944060E8",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:7B1BD31e39c2C05A8D7C97B70977161379854AA6",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:7d260d1Cc0e49e8dD4f007A7d0F0519D81846Ec0",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:99Ca449BE6a4a479aa3986Fd6a78447e34D4Db81",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:CC8b0247a1Be6F1C515B06f7fB40775a4A0cB4C9",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:59BDC11F7cdE8FF747e85139F7085a786318Cdd6",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:e85C8708714605D1556def6AfdA4CEdd83a466eF",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:aE89366E7cB54Bf3b165AD656CdB6D997792B56E",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:d37FE33BB0fCF9E508ef8DA26304D051FACDA9f5",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:7B72dc3D2d5ba299cd10B772e9355c8153029c36",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:Bfe357867D82c56F03E400F2177f7482FC044A17",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9fBeC608e1589F29A84130f47126875289a2f1e6",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:Bf8353235f25897aB18dC3ff0cD2Af6AC819c351",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:04875B2549e29b35B27D324B60f5Ad2c85b4BEa5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:5927F57e97561a2B04c882BB3ba64a4f9244229c",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:Fc0A26A1c205fB0608ebDe4Da1AB968Cc80FfE3d",
-        "reason": "impersonation"
-    },
-    {
-        "did": "did:op:b67D5aE92AE7E9ddd1D9654cF622C748f61B2a45",
-        "reason": "violation"
-    },
-        {
-        "did": "did:op:AEE232Fbf07cB6A517A8E9D1477A6979Fc358696",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:487D30fB735b80d661BC5F79274FeB7168C1a8B5",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:4b09eDFA42F0DfEe57832314D42fDA768e040a29",
-        "reason": "ip infringement"
-    },
-    {
-         "did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
-         "reason": "violation"
-    },
-    {
-         "did": "did:op:f18a471c5553D9E5516c9Fb40910c26B7131068A",
-         "reason": "impersonation"
-    },
-    {
-        "did": "did:op:0c924Af5C316aa5B21Ac88ef451EA218caBE33C3",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8c2b2eB05E9069FFE1331DA17BD97371f7b0fE01",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:8051aa230923dA0e4a6574f341bdbd2f27c5979C",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:83e4a617A6FC35335F51E230DB09e4A8365EdE39",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:Ad91dC625B730538C77D916Be288377f96b004a9",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:B67113DCc35b2812A3d70a02A146a5c4C655297c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:5Cf06d79cbDe234aEf57b848CF69bE58b0028846",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:5EfAd131a4B856D76C0AE70AFE2225D92E6F3BC9",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:3720591f7CA9Fb4A476c99fd663dFBa4D901aAB8",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3aA75eCb387294D3F6420b19e8B47793b62b67E1",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:18A9099c2E6d74fA1Bc095aD75bec4a57B98cf0b",
-        "reason": "bad actor"
-    },
-    {
-        "did": "did:op:02088F1E1D088a8D1D5D888c34b2fD3073d950C1",
-        "reason": "sensitive data"
-    },
-    {
-        "did": "did:op:9162a9D17d9991b1b08747bAF1bdAdaf0d18E668",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:Cd70A23649833C53B5a8b10F79D4d51AC2Cf78e1",
-        "reason": "ip infringement"
-    },
-    {
-        "did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:3CeA3612EA153a6b8Ce269E6a93E797EE73214F1",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:546a5E08B8a3d00aC8AFC6A3aaf86500b0410c87",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:49D7611B341A0245e4d8F786Eeb7889d55dfaB89",
-        "reason": "rug pull"
-    },
-    {
-        "did": "did:op:D4DD7F5A182dDAA45D0ae2976FF7b71C69aE0536",
-        "reason": "rug pull"
-    },
-    {
-        "did": "did:op:819120c563d37388d8ef7167847ee878Ac701512",
-        "reason": "rug pull"
-    },
-    {
-        "did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
-        "reason": "rug pull"
-    },
-    {
-        "did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:9bc4Cb2FBbFE520953701Dcc6F6653Ac735a562c",
-        "reason": "violation"
-    },
-    {
-        "did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
-        "reason": "ip Infringement"
-    },
-    {
-        "did": "did:op:0f5B491ff05f5720F2cF7E5eD8ad73Af779Caf4C",
-        "reason": "rugpull"
-    },
-    {
-        "did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
-        "reason": "rugpull"
-    },
-    {
-        "did": "did:op:78526B805A79cf7206c402594BB1ECC50c3d1196",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:e8caB03fDe92d4D08D3d6D4F118829Dfb0a2F83D",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:aFcBec05b57413D4e823F800eBc563eECbaCb3fB",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:579E1EEc9aC633e828C74Eb25EAabD9D30E7ce5B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:dE6fF7f6D8a9F7F29793f266aAF08134A9363b86",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:5807704CA90b976159a1cEA1aFd8B13F22e088E9",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:B527d8e282d54eF8054f14226aA3837073Fa61FA",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:DF1Ea7dB73636509B457a06C0477Cc8F5d63538B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:959665e60951316082C23804608c99Df693DD672",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:Dd64fD4Ff847A2FBEC2596E7A58fbB439654acB5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8f376e4522df96AE86ea39C9a40Ba920fe97CA8D",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:37E095Ef59E1D879c27EB80B4ABa29e97f070FDD",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8E892462C608f0710748aBD2F8044693f0B1314c",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:28De461A10DE545397092E6BE6FB19cE5aEDe972",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8F444B395eC22dc3bE18F150a28822FcF789bfA4",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:4b045477A198A020065C497B08C5105372cD4f49",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:D69823ae9Ba4449527a7D34a1dD25449E7346e36",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:049Cab7607ddB5fd85Ce6e16daE285cA2123E3Dc",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2fBBDb3c87eaC971D0569378A2e3B983350DdD0A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:210a0E4A9b2BF86A405ee99280259B2B5483239B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:00B74Dec82779042761EDc82e63e11c88Ab26D88",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:38d0dF05C5Cda79cBeBf687d4D289f8600dcfbE8",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:60112f8c6697d7dAea24a4cA2d9B431CfADCfEcB",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:4dB9347BF12e5165D448eCD4c277F05a8Ef17483",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:D027B10b13CA0bdb00f24b6B2e938F930e71cfE7",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8711516C24a30E74F371c9A98A3822E5C87bfad9",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:6fee1E7D852254199dc80565A9401B94D8f28A00",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:b2944FBB61668ce7a3f2236c58DF7fC9Ce871d92",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:0bE0a42C3Baf9b5760e323B1031a380B45eb0810",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:42d8628F8577251CcA7809516Ec834319D5D9399",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:9b73FeBcE638A22F4b8Ac58Aa65b53D1bBED55e8",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:53Da873a5745AA935344b9838b40661CA4B39dF6",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:252aD96d970CB9e38D5c3b7FB316dA183C7283bc",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:ab8dF0e49aC1e5A426E6C9b5D723eeCf67029B8D",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:19551861AFB17585AeF3d6bC2Cf190202F943Ec9",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:Ed692BCA2D714B06c5869cf90CA5d1c42AFd2406",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:4D0a9838195bCC1016c022C0fB2244ECd7287dBf",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3ACD478A45aabc9cF02ec2E8f18cfa0331551632",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:d136CD02A1579A2cf61AFF24a41fF21301cB7c3C",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:39283f754DB5e73707998704f7D8C012ec7AB674",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8bD6Bb6AcaAd0390CBe16A85cb9e1f01C6C80E18",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c0Da0F54767B2abADc4D48e35f7d0Ce4Dc56fb17",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:caA8E943868a508e55899767c9525B4937c4b95B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:b59FD379363e731AFA1B07c6d701ED6cb22F329a",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:02d50aBC3C7655A9b00e9378De1d7D66d5061BCC",
-        "reason": "corrput datatoken"
-    },
-    {
-        "did": "did:op:4cf88f8f54C5A415460A1BE51877998F0b184EF9",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:530526bd0e0d9913230C9c3b54f538b3e7cc6c08",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:6ceC95980E8949C2C1caceE9d5d329952799022B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:530526bd0e0d9913230C9c3b54f538b3e7cc6c08",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:82743028E819Bb69C6EbbE7b24d356c1034ffAbB",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:1888bf2A923184860C6554de1C0d9Cce275dBcCC",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:f382A70E01A3be406F33F27275F4cc41571D1B2d",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8C6c6b6C824d7f62BA0457371b6B01098c86D02A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:30eF1BC1ee9B97A05a70220a22301324f4f0eA00",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:527912ca6C1c031f8F347c50dFb6fe7FA7bcD287",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:780eBFC1Aee1bF6EBB94142471c3dC1406D5eF35",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7E63582dcDD1ddEbDd1CC6eC26d22C33017f455F",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:d9e187a6c7b795F155c7ef46DBDcfaCE1164D075",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:47456fe65742C8e3BeF39FCCe9349763B0359db2",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:1F0fA362A791241EE4FA09998ab9E50fcaDE4105",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:549158F01f8A95e75cf4D3B30FbbE785454cb04d",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:5462f8294bd74326841aF0C597d3662099a95570",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:E84Ab870A530c4Fe22A6a9Fa6C6aA5637eda7d93",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:A3C0280d108cFaaA194fCD1C4E8881bAb23473D3",
-        "reason": "end of life"
-
-    },
-    {
-        "did": "did:op:2a69A62fc38870C8Ec29a2eA7B717D00a9e6d363",
-        "reason": "end of life"
-
-    },
-    {
-        "did": "did:op:52328De360f21DEf26A1BED1028a4C01B7193801",
-        "reason": "end of life"
-
-    },
-    {
-        "did": "did:op:D5F8A998AF5cA69cB7D68a96021BEB341aE60D2d",
-        "reason": "end of life"
-
-    },
-    {
-        "did": "did:op:514e85aD393cDAB267107A0Ffc2291d89ecB2D69",
-        "reason": "end of life"
-
-    },
-    {
-        "did": "did:op:B4A86e6dccdc5E98BB929391c95Ee5fd97d882f5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:34e420D67EA30Bb7358AF98154481441f25158C1",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:08F19eF540b91d20C8b07F48558D89ed65697c60",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:FdF3A4943974E0125a92E5E1aA1DBdBa19356AF4",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:43a18aa7E0d7593C09e8C10bB06fe92f49bB0ed5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:1BF73d4EC222e8B757207e47157170C3298e62a1",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:6B12cfa1763565f8C9D2bA5dB939218A1cEBcF71",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:BF50b904a872c7c4403e14cc44CDe81522c4a852",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:833b44aE3554B04d416b7f194917FF39842CDE85",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7d0f3b4ae9944E1D40396FB9495EA652333a329B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7f884646F3247183e84764A6f12Fe455aDa2D2Ca",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:083CcCf3a9a7055F14595a67FD1471a15A6cA82B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:5A8e9FD6e4a5C217f3D994A1b9a1B25A11Ff207E",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:A0854fA16222810b5C063182642C1B24b332026B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:D3cEfB4eCfe9bB60A51A7Bb02b1cEE92d064F4fA",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c185aa9B479dC8a53936d8ca5cfdbE5444094DE5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:9e8a37f8c69dbd267262D081A0d4c6D85688A11A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3Cd7022bde756D7906Adcc64D4031947d8254ba4",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:3d530D8cf3315F065C6c4Ee73b0Fab97236Ffa8b",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:f8aa4bc71Db90f0236411950Db1D07FcB049F59F",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:c65AFfF4126721a1bf76361a825fFb3A460CdD0d",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:057BbA60d6ACFe8f01B9812b4F2faE0Da62FCEb0",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:698cb5ec12015a537ea6272BFb01A3c99c908b3c",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:A77d3A3215E904F5a8cE4e6E76C4394241917223",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:81077fa8f7bE96c0D505d80CE493b50389CD54F3",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:11250764A3BDf5f146f9E30fC4BaBF7B9c91675d",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:aA726dE2c22dA84B36eC36d4ab4AB26702aD9666",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:49CBFF682D960bf20F5249478f81bCeF77DeF50A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:D8492509E4c98a7575a29341937aCAA7d201fd44",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:92dF844b3db782741D4E15c01a35bd8411191EB2",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7f51d0980F06955954e309288349c0F187588F75",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2eAa9E73922434a75B7bAC5d9F18c3CDb8CDc59D",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:C58bd3674037EF1504303df822936847c0543565",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:b37656558b16038CdC694db940D7d60e2A913c1C",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:F0DfAc9822eF89034116D0330E83c621C636C939",
-        "reason": "end of life"
-    }    ,
-    {
-        "did": "did:op:5DDdCb43D2D4c79CE496741753446494E1A596a5",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2E6DC62A51b82a177bF55687FbCE6d0dC2d35321",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:907931F50806C746eeb5483193bEb1A46f373Ce3",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:695d98E217944ABb760959A8E1B99980E79694bd",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:8cB451E72B3e5C357c984C9Db6E7aEa486DbcA3B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:Bef6e3F5495F8D5b8F4E25E9F567369eAF8770C2",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:19eb4E28Ab97C0a536E2Ab4e14f1Ae20566fB254",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:Bef6e3F5495F8D5b8F4E25E9F567369eAF8770C2",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:94ecF38916311Ce3f5Ff4C3A10fE822A58E9Ff1b",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:ca71962c230f3145569238709FDa6388Fd3bb15E",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:77b772fAf7ba5C85483A2B898ac9487831b2a1f3",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:93131D7D86d6CbAeF449107D58f1A6706dC7DF6A",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:32512650424f216496398F920FE653bB99E1236B",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:16dF90199aA3067208160b09b3Cb9404AFcdF6e6",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:78Ff02196092DAF72FD64fFc0d30304371453aed",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:92F7E271D8b830B09A59E1858725509aC4Bf29BF",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:d6d5B788469F1fffDCE1d473C2cfe30F8f60ba16",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7dCE6cAFDC1F657b62B51379268595Ac7D825E29",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7c133376Fc38ee9f23f76F1f6108b1a08d7c7673",
-        "reason": "end of life"
-    },
-    {
-         "did": "did:op:847e445f3893386cBca3eD4869cBE2Bfc38e770d",
-         "reason": "end of life"
-    },
-    {
-         "did": "did:op:70553fa528d8633D85107EF3552a3C6913D03ef3",
-         "reason": "end of life"
-    },
-    {
-        "did": "did:op:E378b24baF1CB36733806eb8DF455687bD0A81FA",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:6bC4E3043DBe89b275880a8F9dd01d0Fa67838bF",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:FF811E4Bd51815fC6F6EeDFf04cd46C5c4F72e24",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:e1590A2bcc1420CB07a02E13747B41d119bA754e",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:9f2bC2005c808Ba135A2764a0D85655e5c8850c1",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:7df9F5327C9Fbc1486AC17C56a813ca2F832dD59",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:49a5f0e3cd6B578645925e94e6F91195a7c996cB",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2EB42a9a795dd6e5788a29C6221e8760febb32dB",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2Bc924d90498Abdaee30D7b38f615F10A4bFaa48",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:A1867dE08CeeDda2f81689c25FAE4B523695C12d",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:2CfF973de49E0932E407Fdc1C7d94cc4A7291966",
-        "reason": "end of life"
-    },
-    {
-        "did": "did:op:64386d1A3Db41004D2195A880050c9A524aCbCB6",
-        "reason": "end of life"
-    }
+	{
+		"did": "did:op:6f31322D8DA62f85030467c57C00F405551E8711",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:530E9e31d9e3450Ee7E6EBdc5b0db0A291F1A23a",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3a1033a6ceF9cBC264d2b7Aa92b16018C06d0837",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:FFC165c8051557aF32d7E49fa9B1fE6bAA13ecbc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:97d26945e902FD3994EE89C0BA5e666f2D1092B5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:55d1E8e57e4f9fFeD402efE8b3618b63E9C402d5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d1A530342CeE548F00D62115F5663bdF19a9D34F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9176b705bEbF0744AC55Eb2c09143ce2577e4fe4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:76c5aCA52EcFBD6D5D687BF750999F55aC43E3Cd",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op::7bAE5b0aD5cFF05CB068BAd4b73A1EdC8eCc8a8e",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:0be7f8f406510b805Bf7676C4Db2381462F6A301",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:aeFa9160b90292654424a8f077fd0daCd4957f4E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:fE9556B1A91CEEcaB2882FF6B9A017602D62237e",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:60Ed0C56FAB54AF2bD7AA78a94cb2cED42e5fbf3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:95FE3F2f559d6cE3239d44aff90210B535b808CC",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c2B21d907d5dCa4fA93f7Dbdd89cbD83674D6958",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:258bd6914a80d65B89f37D384dD16A65E20f30Bf",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:48A5525dB3Dc2528490fC82C3De61c39E2178669",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5e123b5D0aC80D3C60B46e74BdDa7635A8e755EE",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:258bd6914a80d65B89f37D384dD16A65E20f30Bf",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1DF14A2bAeC992cE44906CC55edd6C1fA9aFC31d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:48A5525dB3Dc2528490fC82C3De61c39E2178669",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9176b705bEbF0744AC55Eb2c09143ce2577e4fe4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:76c5aCA52EcFBD6D5D687BF750999F55aC43E3Cd",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7bAE5b0aD5cFF05CB068BAd4b73A1EdC8eCc8a8e",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7a07a2AC0FCAFA08bceb3E94FC6aE439D9bDD117",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:98B6D9686Edfe2014046f334670ca881D569A67b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:26A7650F56094Fe45ED811D61db78c344d252e3a",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7E42e64E90ca98871bC79E91F5d79AbCeDBBceE6",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:fcB61fDF22E1885547A60Fd6dA82B6b133589790",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:25FD56dF0c1D28568755530dfE3FFB92c33ECa95",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:CE555aCd06B41431462ACBAAdc8a2739283216dB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b46BfB4E8d43BD550b025C5cF7fe6c137c5597f3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:A4d1a2166A4b6CEB13DdD765B54c79B0BAc65464",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3901D367d28dD3EE19516fC949f758f3c88E09D3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c8DaCF24FC182dbfBeC98f9F8782Ca5e0267E04b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Ca19c1642C4d31Fe0dA0B74fB126c139006228e7",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c1cb58E0D780aBbDbA053Ab3Dc0A7254640106E2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:919a877360fa603B152a4A57298ab7D7d6F25b2b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1AD0fAb6BaA371FC4dC61C0A4e83658f84674281",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:852083Ff1830CbcD789c8f1a9C990C96cC802E9E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:153Ab17038106E6d58605a4f90Fa118A4A916A3E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:CC3aC20634f141C868c899f4006B903f22A1cbbe",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:02a24163Bf744a38818347ECC7711559Faf2549b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c80d11135d8240f70D4D504FEDd838E9cd1d2288",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3a35894A8a96B8Bf96085a1de756B94e7F2BC921",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7EAD132835260ed8fA6e04963A36a5bF533c1701",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3072145E0fDb31d1Aee26d985CA8873c1eB68088",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:a5b26D016069AB4133A08CF26dfD853D0F1321Ed",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b562a807b0db22bE0AD4FD53b35c460e17128F13",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d0bBC407c5Aa10d7Fd729A4bc00a9DC43535Cfe0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:038812b3D1035EF2362F09fFd645De32A59bba1A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8C7048210c7c60B06DcD159fC03F0405D27D9577",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:f367d35489c80cD3B6865612AfF905432bFa0514",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:49c414a9992a08E8e7F75d3a5Ea927933a3e0626",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3390301Ec486158eE6c904E7FFc5B75DD919C3e7",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9454Ba83159B6c83d87851d8C590D46948aD00d0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:41069Ce31d4D6607d76B42Bd93A2F266Dea39254",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:16dB1AdD342578c0C873CCe349144E36Da020835",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4465FEa99D0A7d24E7BAf1683bCA7862Da6789a2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:ea8d0FB06b3A55e8Fa69CD5ce31117f545BAd77a",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:a7083098C1314FE32758bBA74F2F188E57c93Cce",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8D69cbB4535a5E63C1cA38099c251e91dC7841d4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:a05fCc072622342d8c9B8a240774c58E1Ba5B7C0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:417b071096881FbBe10aD51e168114fD8F674723",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:0bb4c43e64cA72b22500a045b9f69D0eBCaa90A4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7fcAd620648548136574D2a058AAe130333601Ad",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Fc5A1B5855af0d6541230C882E6f326046D69Eb9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:29f811cA44cC6575F118e5C7cb2e7F059e1bc6D1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:68a93eE74C90D0112c8186621dCc6b46DA444d0b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1b727c9B2a9774e55b8DB336efd4a34f9d0b6B47",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b506d63e7662C8B42684CD7214969cc3F974d7Ec",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2D2b6D48C241AafBadE40D0c4346dcc1580cC5cc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:194cb9E92b6B6A767242953e4A5c2492255884dc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:a94fc3e5BC6A94D6f168712A544019cC944EC2F1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b7bE6886Ce59f7e8E35B7a1838951738F97f6169",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:06F3DA10Fd02B21bD8D8e5010760390ec2190734",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:014Df0FfBd209151A6AB96949C38BC160908Ae3F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6b7C11f3f5d305f256cA49bb9950671f13aE5675",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7D5bD3442Ee1A3e957AdfbA3a812a44DFAFcDB53",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7BCBE76aa94Da76B0Fce015650fA04E8CE8B03A5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d89a448E086030cb76114D1f596557d67eee63f7",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:98A1BDF9B7B3E144599aE8B81bB666803E4708Bc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4d7Dc897360307B25E8247716FbE8839df566d79",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1cE98FC019067844Bd726629F36e0F504a058A28",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7C18967d415fD6B0887A005FF4958baf910dca0C",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:58C69bD1f45fB2A22FbDD066E39b862a6fb79320",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4A20a6feCb81406D9515E8D426287C257f5CAA74",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:883C9Fd11A30fCFdb0B7193c92366F7161786532",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3891820d298c73F8f40DF0BCB3b300DfEA18B1b7",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:25d101E6926f7134554f2B9bd08101b31f5b5716",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:079e263377Ef905997c6Dc92e9B51E90502a4846",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Ac43B787B46513Db12124153FF5D618D9C035dfb",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:72adBd427Dc8f557f809C298110cc2dc2bAc50bE",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:33a0aE86a342732c56e28bcd7Ae836bCA13eEF10",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:afAbAcf885F130b8f8Cc2C7B335F31204371C405",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:B0291CA43821Be46Ca58894a06581DC4aF3e3539",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:36149A9366342e8DBB2564F1aB2178D7231aD76B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c3E6F93241EdB5B480280A1Ebe16efa22dd7606A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:C547B6962DD3f14c2224C2b079B34450790B8d8E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5CE4b40633B664435FCB5fACb7A85F10c60dCF83",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:ae1520250DE427cb525f09D08988513ae9Bb08A9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c822E9088AC69628d27a8c1F9dd823F6A15dA458",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:f4f245Bff681cDbF3F995bFe8B65b7742F1CdFba",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3864820742afED9A6fAB8314152a21c0b84e2828",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:74b4213109c8F87a015DA02a15F04452e5c8c0B1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:59b2b35250BF8E25C5cfE8a12Ff8db536A34eA02",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:bB604eD5557c1B680B51a4f0E892Bbc0A0760234",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:20ccbB7a8391172208079e5e26496880Ba28Ac8e",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:36149A9366342e8DBB2564F1aB2178D7231aD76B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:A6Cc3a5d20f24b87Db04A02029543cbb78ad0D70",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3dF7447032d4458C1B104a9c3c9f62a63263aD82",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:c1563f2bacC7cA56eE1d4Efc9D372AAf94f8D00F",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:F23ecf8619B3d1EA133A3d5Fa976F44769D317A2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:0d00C7Ad5ae3e14ddcA833C50B278a0c1DA7043d",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:53FD6298ee664E2E49500c192856E5Cc52FA39Ff",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:Eeffb315E2224d11DBE25c5D2E4eEE1d9Ae4DF26",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7E6476D188c710B80DbefCe64f1C73f4d6a54379",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:a40925DCcE4B516e3f06d3E401A45f8599ef8559",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:cEF1d7eEBCd4F3e2d775bE34c2BFc6aD72535519",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:B4513D1cCB4C820554682E32C4A0bE142a1FbaD0",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:60f8CC6c5835117F2eC1945b5A3059C1225ACFB2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:6004b03a622D7781B3a592DCF43E4556E9e91b21",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:D9dAe51dE519D06a01331f562cAd0bb93Cb03C0D",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:27ECD0FE2cEEb9399f87530328770004e795dED3",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:E494627202F7A9B7C09faC31578E7Bb46af61397",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:aB10Eb71D5E67dCE5eBFB374b9df8b63276F9c59",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7d6889714d44cdaec7A332c815fd787B8cEE069B",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5B572C95800ebFf06bC2EbF3d429a78688e8C153",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:f9C0F5961E4C02a055b81Db83eceC144a225F43a",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:0687A3b5167C5ea9e080F79Fd741a68a3ADb7c53",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:58256085531d54DAbF03a6B7d06e3BEA1DC99d1F",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:47c8D506240616C80De5e64F5F4fdf487e169b50",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7b198D920fB31c0a9866bED95614d041fF9939C4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:148ad098D59Ea23bd9AEE7DF96c05F29c7A56250",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:04fc0db26516679Fccc45179308E4Dcc4Ad457Cc",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:81381F6Bea08d95AebB76C4c032892085c858665",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:dB3A38ec19b27aa256595c7bB6c92c258B1Cf83C",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:019C4323CC0D0C28CafC7D82Fb93c9868045B552",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5a0ade7B884DFE3CC20Cc45F20Eb28CfF6d7FFAa",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:801679fa3C8D00Bc564DdA39d0255454F30b755b",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:80F0508B8461ECB16200D7308cA4Fb94B4436570",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:211Ed042F6C75c387c42f2BF17dD53e0673dc139",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:E5F9b0ff02700604840a6F2bdF22D82FD39D17b7",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:13a16a58114e87B85409c513dC92741425Ad9432",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:ce18f7d3582E516E4D317bD4EA27754Ac59A0f28",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:BF314910F524480CcD1ccaFC34Df467a7384ca05",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:a740f26d146f70e13038dd94189c3bE701A3dD45",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7B95101d78EA363B88B3c953e5Efd81013A1Efa2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3C475f2Ea18183b4e20B561509C15853ebE753C4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8e4B4287e1FC0e9911819833F96478fb37b10617",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:bb7e9372279C0D319de4af78cDdFBc55E248f4c5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:ed82D463CBB8bD065F5A138eFC7b1Fb220bd5ab5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8d2a3e1ccFA6bF1255c04b3d1C57cfCfe3b9fAdD",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:27a6630326Cc4C6217FFb1652c972C5d5c1d8637",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:6D76482a0F5244aaaF4B9a328344E7d5D5381614",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:352859D70A19c7EFa1cb1E46cC449B7158a8Ee4E",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:e8f4AC8Ab8D7E51B1406b80E5ee14f0818B51AE5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:Dc445E158Ec62A571bd00E84D5173282880C0333",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:B99D144543eD9957594C20716b348Eaa22C22afE",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:C008CAA323B4584feb254A6117F608F64C369D06",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:81763b74D5fe9d07597a0D9a9ccd1A5Aa9CdD438",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:DdFcF191367e76CAc78cC77555C1Ae568249533F",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8409A21289D8b90199aAC4D17607980C54F98a8A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:a4B96b461C6Ac0Bf56DAdC5639e29764cA6d57f8",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:b3C853c15b326CD67DC593f20D71ef08dC7dbCc3",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:b3C853c15b326CD67DC593f20D71ef08dC7dbCc3",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:0c1EddF307A93d958209B869C15cdE0E0cdD1Bf7",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:6D662E46091dAC47c3C0C7375D6cbC006CFDc88c",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7D026b5019cAF48dEc7334Ba2889853272bEEC8f",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:6A8a9Df739A1a2673C612A97f273A989D0A781a2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5457803e4632B4AAf7ffCfaD67e16319dE0B7099",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:F3581ecc80F0236b58bc9658e9aB7C60326e5973",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:2663A1b4154048A01CFCcfcb69d4b6d12a4a66fF",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5Bb1D920934a72C2Fbf3eef286d4f60Ebb54C15A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:55D7212b58a04D8D24a2B302D749ADEF83B4a7d3",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:dF461d69Af34B02b1Cfb3EDF4edAcb35Fdb753F5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:71FcAb870C35ef93142D818359b42d77A93E3dEB",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:A80C3ea26281B26432Fe349088126A64559a11Cf",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8e7B640bA42Db5Afc5CB2FA3bAc72d46eDd3c976",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:2Dc6EC1c0b3A0C00Ac70F844D4bb049C0Ac7DAFd",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:b2d57617AadA142abBb1ABbC93d0E1EeeA23D340",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8eD35C7d93F6f7aBFDF61187d76b075c94E85116",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:54eF293A309Ad81419c023b1e94783339EC2885E",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:10e8452CfAc8d826dd4d79F6d89DD9E796804475",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:00C6709bd2D65b7202F6e46c704b9a798E57a4D6",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:358A9B6C546a22057B758ac9f89B9B9B364c2FD2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7B138f52758771027DF9602CADe7966Bb2Bb063f",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:11c49877195B29Cd325cB33B667b0e3Be05Fe528",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:fc08c8c62b2ef8f4ee594558aB7cD50904B8BF78",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8DdA0150b681f39EC993cdE92F14F631Cc877169",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:f380882C04e5605E1a516c32F884c4C5850d96f8",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3Fde7A92C75DbF7e332ce6A92D73E9513EF13Cb7",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:27416750154119b8116B43ba08A3CcFaB2E1aF3A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:86377a8E979407794dC91741D8B8a0195738074C",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5FA51A5d5a64cEF26011024743D5aefd9514bA83",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:C985Bc6b978444e64aa60C496691897Bf9a88B07",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:45Be15f116b4F19719D01d4F114390FC3ed3e956",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:a79a3D762E3b13646FEfFa410b35a7605C5c353f",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:85E0aF3A67426b398198E2DaeA40b474Fa99E94C",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:779a6B855b7fBEBAf9e406F3580F9B59a2dEE17d",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:719D5E03d94C945232609536DcD4f2D63A355A12",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:746c606620e43F6cD9AE25C4A652afE8574E9Bea",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:746c606620e43F6cD9AE25C4A652afE8574E9Bea",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:24ee315eBBdc5Cde76cd84FD5F780AaCD57EA3ce",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:CFD995e75C1208747A00e401c40b344a92A4a5b7",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8b8Cfbd16ba72A3485a2cdB93c0462b6602f5Ca2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5E92484A2DFC08f21E1117195709873c205F2464",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:2d50038A69beaC6CCcD53239C47a34817F3dfDc7",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:F6e0Fb1201ec14cfbd53a8A8b02aFc36D3242b6F",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:67f36C91DFC6Dc413F9479D357b27e8CA2FfB5F3",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3570Fb39c826E48DF5266e6C11d93349C03075c5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:28343F7026B6c9E5EeABE0F2F79f00F9EEFF2A7A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:E940AF4C46EB7FF7469a8dEB31daBAc565Ab837c",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:53A514ECd274ef082F2d7c71812456CE47Cf7Ac5",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:aAF42B345c6501a9Ff930d4928D1bA17df0b4511",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:4668e352F0f53AE0389fd7ec191A3FBCcE884784",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:F7bD9d70aE7646EaF5E295544535538D0b583839",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:401851fC40eE51dF593001F7F5CBA77F164c3DbB",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:Fb8245A8dF9496537CB77D8b2719C27f128800EB",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:EC0C46e218E4f63997aB7E12E78ec89c94602435",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5E4CdD11f7e545D47ADdDA0D713bE3df6cbAd607",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:c57486849D95e2a6e3D57C0a6e77563430C14e26",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:621C5038daF1D083C7F3c2CB2deeED3402672C5f",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:cd3737badC492e2a243037c69733d0Af1Ec5B450",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:ae37bEc8b7560A3A1DbFA34f1222a3Aa326FC761",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:9834546b8Ffb8f0F62130604D52FBB84E5b7a50B",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:4848d5A1c918c0e1313233dd8Dee36a44fABfd44",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:C62A7654DdeBaCD0d92655f8fd9D75dF58a3f2bc",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:63299938d9736C23f0F75B7b723857661cebd872",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:bEFf804Bc386435A39420C98F6570CDc8f6D5adB",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:89FecEb7Df692D18171129Caf292F864F73D840A",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:21d825CEc2240E85bbA5B1DB2fbFB166c0D356F0",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:31ea2cdac4342afA8CD1c0205a38D5c066cd7Ab6",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:fE871307b3e58cDe4e45CC17183aE3b84a25A320",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:493C2473A18d8EA8459DAe8a1C1c46f1d7dD73A4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:F82574997A07E53F309CEb9C43B4Cf4a4B1dF781",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:bc785B2d948E05d33030E922B95c53ED47331d4B",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:E52183Fa390008569C23EaADBc56BB0c802EEE1d",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:783571cdDfd339C3a8dF745c2BfDA65a32c4A2eb",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:Cdf2DaedAcAC8fe6deF8a7388b3dC1C5f3feC604",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:677E77e222d16009DaB3499C63B1BccB1dD653D8",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:579B1a64363956A01e031f44018129114956Bef1",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:bb2636e02d8938CAc8F7A8D3a2838829950220a6",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:10049fcFC7981c8770F3F91313B654BC59816535",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:A026954dB3A542950a9D8790a509D82b8184cB9E",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7f7EFB01515D3B7B74C7476A81cEFF4eF3C8FDFb",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:1a3F479bb6DCf2a20bd147c0F13D998dA21D13f8",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:365d901ef20035B1Ce70286E51DE7352cD208729",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:20778a5C4a3Cb75D284C0fDbb4859cF48C2a5d29",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:550D0AfC68aa5cB71a412108D93d432B7fa64fE6",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3d371b6af47ffcB10b357ddb0537505870af45e8",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7567e891274AACeA01Ce95D99E96A8b71230f4D2",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:3C5cbD1be6C62F283e8C428362ca81246dc5A26b",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:EF851a5BB70636D3ea1E1AB4CD67bB0bEd2D576F",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:e15a5F615609106cDaA1c88aF0185d569d2E096f",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:dCD9EADcb06477DC12057Dce7615ce05D3D765b4",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:312d24dE83610e351A1977EbA8851CeA8D020e1B",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:7c0D0DC5bCACeDf8121047c34bFb0ABeB00d4b19",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:8b4045F37dB438F9761c615e9512c3Bf742e29cf",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:0e36Caa04EbefC1B2A77620F41e6c343a1d9d660",
+		"reason": "Retired by publisher"
+	},
+	{
+		"did": "did:op:5cFB87E1c1B9d4be2d70Fb3da7266e9337b5c0Db",
+		"reason": "polygon test dataset"
+	},
+	{
+		"did": "did:op:2357C32D8C68514D4186D0e193836156a133F0f3",
+		"reason": "polygon test dataset"
+	},
+	{
+		"did": "did:op:a5Fb5Db2ED68996b8B1Dd9BcAc0D95752DA8b9A6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:11F7cDc1392d78Cb4420b57AB7eE1c31DFeD7266",
+		"reason": "polygon deprecated algo"
+	},
+	{
+		"did": "did:op:7467c34cABd19C2d49F1B6402DB19309231e2dDc",
+		"reason": "polygon test dataset"
+	},
+	{
+		"did": "did:op:d1419e62Df99F404D2aD81e23d6185aCe9197C06",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E4C89BdE59BBf13c73271b7b951063e523A960FA",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:0de092c26270198bE1b57A6E73ebd903e086817d",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:07826f49Fd1b3318Ef3b9123114207680a035cb0",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:A2CaFa40085935fC9345bD650C1331ccC1290f30",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:6427B21Dfb619468e8e1CeA8cE047B818602B15a",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:9E0634FC502D80910Ce5A17AEAF4a9248fc7F977",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:1D21e86D78077D39a40116745DdD29D58EC61883",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:C917156da34eCcC93e54813436ad48074C1D40E1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:028e0B27a39FF92Fd30b4b8c310EA745f309cCF3",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8c3ac3796940f41dA507979FA76bB3E878261376",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E1c051397Ef1cfE2e4989712E300D6348c8c7096",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9f5be0264537180E41C72D4F9469E377F0334715",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:4c51fd12ff754B46C948a9E177ecb5A52077Aeb6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:927b74f8bA9C602602aBF17D2de9f3C70f2ed4Ea",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:caBb1BD7918123BCfbacB04495a73d35387908dB",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8F59525E2492Ae98BA0116Cf06a2afdeCaf7A426",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:250Cec4C2A68E9a19Bb97BBa8bd04aE0DC6f2e5d",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:73aE4250a5185Ecc966cfCB46F447023398b0AE8",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:929527e0cD12AE44a2b2CbdB45043D79896EC0f9",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:747504C9Df9F643379860850e0e8B8b3d8515640",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:94d64355E5F5Eb81574D45484E624C375eB9e162",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:aA17f51B63667F467092FaC288ceF6806C76555D",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:2eb492e4b0Ed96d761f94614d245a6EDBc95458B",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:7497A0Bb077fEf066B292e2c6cec80F3a5d631e7",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:4d0C761d57f6C08b683b94084081A8196BDCc8d9",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:B7396dCD88686b0376F43eb1AB38667573A0B8a9",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:7Ef599900E79125e973Ac2E628f3B7F9aD4Ae82D",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8Ea6b9b9211dC6DBb71c49c4836336A03fc10962",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:74d64FC0fe4D8136c4632C3407d4AE3a373749f8",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:f72e083857E4C9110437fe452038B435E4B5437D",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:4C50C4d91CE329985Ce22E669b733B8d686a53ce",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:d6070FF42bA8DDF8B0C6794727D0ED1e17Ad5CB2",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:31a7e59318Ec3D04A7a5bb2a98733F161EC61AC6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:dfdC25cA415dBfc3dF9Ae5465811DF3FAF6F075C",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:5884D4A3CF5D53a10f95887B5d3678E2b9AB2Acb",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:BA4ef99fE170d0adDa2E2487A6cb3E9DE0F60450",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:38E70f23FE53659506116a43F54d8352D3c0c37C",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:402159a43dbe35A81F57a88c2A352522F72b1E9d",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E0A7816eadd023FA5BE3384b046a56039CD2B4Dd",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:EDF6b232F895f25B6197D1d04e475Cef820b189D",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:90cbD8D22b20BAbAae6DCD500253432C2b63Fb33",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:7822e8b639a88BBfdD927F25c266582EA32423fA",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3dCF229E6c8e9d2CC2377C81C6095dF55740aA4A",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:df2f40f5d1002A2aFd7032ad3dc00a54133bFd79",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:78565B0C8555Cb413e1F30A39d4CE8FBD29fa311",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:A9547c1933B3F7116FA86F49c3CA0924AA45476e",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:beB652A6cdc6Cb3F237Ff6D7d63D536889e0000a",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:38664A0bd133F71c57B976d40E4e62C86D77a2a8",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:49F68424218Ec6A581a33e24C7A09f9BA3572894",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:14599800f0e0081d395956AB343Eb9648de246AF",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:953DD3e620f205c3acf77f683a0A17140425e016",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:03b7Aed0c1892D55740c6895c93a291e9d97D73c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:Ab793c5355E1ce9A58597207e9ff992a1b360702",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:7E27011547f3E44E5Aee822c0DB40Be1AAFC4410",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:740Ab356917Ecd7B85c4C866198f414E433C205c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:202b6AFB056E167528f7F54e2bA016a827a3D050",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:ea87a082895e1882855C943058A63dc11D7d2bD5",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:405e1AB56C7aF9AE5E0A0Efe43BF781Ae8F34659",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:624d7F99eFF196917119353aac638492fe1dE263",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9ca9472e0D11b19dfCFFd26127B5Baa7B14349ea",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E6B1d1DfE405891b5aAba4844c8099def0C9bCD1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:0eAd8544BDC7B6119A57d659b1Ae0dB743cc0461",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:b96743d027e68DB0Bd93EeC84354e65085109F88",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:b61a86a84BEa09B5eBc0Ad592f650cA68300CafC",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:B45aC240dBae03E3A61d9B5918D633a1AB3f3C07",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:3145a3a9e22c607Bf10bFbe81E9f5230B7b88c22",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:19b1CE5E97678604A3Aca7aeDe5588Fcba335f20",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:0f5A4C51Dd71C7FB8D5D61e5B56C996681e4302F",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:98AB7953a458e180aF238798D308701382F3919F",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:889ef0AcdF490e52eff8899EDe39b90108C165A3",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:75d839B89964937F17B9D5f50b57319bc97D2F2F",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:B93C88A9c76714B8FF26b33de2B7DFE8074D0252",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:6fC9bC74019bB1ea107B83a67589a16868068C3b",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:6De36AA9AcfAD3BC91c8Ae88C81d02D8774523F3",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:78e825FcA418f8a1d566e1CF2fB11b6369b01CB2",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:3E749F4bF605ED5108E948D0f9c8d7A572f72C95",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:f06a846A96CEBe670bB8C26C845cE72116dc908B",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3f7fD00faBa00604C918127450f464e22d3051b5",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:5098c37684c95576Ec7B65931eEF52DbF97e8Dc5",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:481Ae7f9481Fc5ADB431bBb03090ead73Cf692fd",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:683051456d76F89C4a0EDFE73aF1D6eEFA9eb605",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2eF82Af2E429A686269D6Bd1173Db6133F26AF55",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:F04a7699e7e76360d023439B80be3D592E55D7B5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3940Ab101A7139F108597498A9c412E2A6921DA1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E04d9107818fAF6233F2AC83078417049D5E826B",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9B6514A5a543855651d9E19FE4ddb9E9f508F0e7",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:26e234C40c99722Ef69682b8CA391c85D8E003b4",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:aBf5d190E2f4403b22b4Df406Bb93Cfd1684B40A",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:B8f161Eff2d59C5B95F176400640779249B7A066",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:dA713a7BCBc46d178Cc4e336B0ca4A441dE0EFd4",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:f2dBeee9273Cbe42788985eb24b0360fE4e2Dbb3",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:868B8deD3c35808341A348A47065b022a8523902",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:6164e0EBd71999021Af917F1B6e6Dd83d1a06e4f",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:0c5e88AAD9cDEaFD61e1Ad94B11f5D4823e3305B",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:bc2E4d5e0dD25157C860282BC55B9E4367fBB5f8",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:B421Fa07D2692AEAf0D6d219a97c37DC050e6095",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:c87ad767555eAf4aD933156b6A08Bf4Cb89C1616",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:13b82B94bc8b4fc1EDB4fe4D0B03bdf81A778B01",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:D10f99c2edC43be9006b19399f62F4f1e683fD2E",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:08F87Aa198Db1556a7060b8Fe39610299C8b91Db",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:AB5cDA534bA0b9C946020fbc2967Cd9702C98ea0",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:E520BF153C85a3C5f37de47e65620307E36a53DD",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:deC1d258C918b6f0C4306a03A56Dc0E0A51975c5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:C3Ad55f6A19B68E1bd675689581ACCB0353Bf81C",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:196C10816cde1834aca53A89c9b0bC88Fad79f54",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:9a454E7bE4763EAFc7f6B06766516cb70d1420e1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:30665a01658ffFfe5024e4751c54Ed7BcCda591A",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:72d748cE3eE998667E1f0289a5B1Df25Ad79B12E",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:E5e23d51eF0ea0BcaE1a5f943f48468171b2de98",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:CF1AD9a151E9266e182D6e6023a2b2DBB381d67f",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:6d029e1a2F1A12c07B214E777A5d919070A8d985",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:C684cfeD00460B60A6eE99C7Ce0b21636dda981b",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8A5a66eF4423d9a011B4C821D330eD73a97FAE3e",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:85715D04ac0A595268326fBd3206FC3e60fbF9F6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:Bc757bB8277D6713e4E0A140de472FFf7359A96d",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:fbdE2d74FA618EeDA2724d04cf0E6257a94f461a",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:93183030b18b2f0e2A3869a0dD594324e0EA523A",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:0f5B47E28eA6d53FBf94eB106fD2A3004ce2D911",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:52A04a596365A5BdBA49276aE2681C13D60a5Cc2",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:4E0DC86B10ED93862C28693D3202ce76e0381d1b",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:02Cdc9010adfE59C43e701b8550bE57A437b2477",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2492025aee6e3933D80192F0b92fd9B25659F8e6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:750524e573F1De89822226F1708Bb2496652b58C",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:aD0a30BfD35ccF05dB8558EeB566B3Da171B2608",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:477f47B3399de3920ef6d126FAe6BB1C1A0c3A61",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:0a683Ca714bBDF02242226f14113e0045Fd9fe30",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:23Cf7b17Ca8CDdee123B18f21b336DC53C795036",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8374d66AB0eC06CeB9E5999285a12DF98dA64875",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:7EDf9091453b7cf45C488BF3b89e1DeE9E214816",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2A1bE410439eb7866A8c0557416Aee8C99Eef84D",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:eed81C1A7902ddac9F2daF0EeFC6Fc38104dE69c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:BC3EEc9B178C9416baDf4740aCE603ff154F7b56",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:72b83db03917315474984c087B5D9568D9e2137a",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:92b5eCb7f7687775f74F490aF360aB5A7FC791B4",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:454301695e854135620F19cA0CEfeC4f5F7F38Fb",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E2B32A940DbB97183cDC9E118880d2524934A291",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:a7BdECca519Dc6cbA755CF644f5Cf401513B3500",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:730F4a1F9b542C757911922843A3900c579C8640",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:fDCF8254d8Ed7EF51d774E0d9B157C6bFf692e3A",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:ecd0bCFEb134cE6f3027804f576DE742D39EdB3A",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:2745EB5492Fbd9d4b1BFe18d436b1B32EA55Ec4C",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:034493e63f23FCfe879C70dC76F61f6cD5fF0b29",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:e06043a6721B3481E6b6063EC220b99Aa96df79a",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:CB51489b07Be77042b77C44a036d10d38F42Ab13",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:628f5710dA5587041F57eeC80c2D6200BaDc4342",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:fB0cc105916c52CD12efe4B1597272d56150E5e1",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:38Eaf167B2700f6F8c08641Ed7F36990C0C5f1D5",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:E5Ff289979a09Ae1541F829AcAe4934Bf9e31AA5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:512B43141D302bc8dfaa8634BD68406d01D941DC",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9c815a49F72f26A444AB7E9B5F367D65815560EB",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:4789f98b4eaAcaa0175338916Da102654523D2bC",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:730Ce3d215e4801dcAbD26D3F3a0C51E6d532343",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:21DB8D1B53a784C39653214933088A614225d51E",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:3f3f019949576af9F882827586e9Af266c641FE1",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:508f5b3FeE3F36f777361Fc5787520D43fb99E9D",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:970745b662a799DCE691A386ABb7cd07c26a7528",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:83f790088387051b6045D2e57fE8CDE004DA2694",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2AD860fc75E0f92737cb225311c9B37106736864",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:6F711a35C53Cf3b731f84fcc2CB48ae559266C9D",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:976ac0dC86c2C2c7f8cEF04D5D024490d1D3E67c",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:7025e43d8d667b4577e9990b7059c82690D2eD59",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:3c55E1160D3457f78f7BB777949F3745d7275F1d",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E2F01a1fC775ffeFD369d78e7b581fdB2500Ce2C",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:e19D643EBd3B979495C4014561684ea6DaBAce2C",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:7b3c4707B416c5eb366E9D19f0bb668ADf46fB97",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:6417B696Dcd2257069168aF143EB79Bd2Ce1eD4d",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:ca68c5e7a565aDE806b081Ad2326A54c390B522f",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:3AeD2D5F089b215CE1a8E7F535240AcaaB200271",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:79338bd59eef16eF9dAB31f774aE3271852eEB08",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:19820fc643EB3b3b0DE3Ce402991C59E16b500f1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:581F2d15D128F8FD1Cc1eF230399d26de217DCcD",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:2D87C19D742Be9D1CbbBbdbc7E1f3D565DA4994D",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:d2ed5b3c3AEDe8B92a72F86ECf687f8A25902abe",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:5389Fb3f227c70aa8d292aFf54987f315afBC6bf",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:1F34eF2d979a83EA38539FA8293e248Df0FbbF46",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E6301836d885FC65AfBFB643162fc6050781F95E",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:a76ec417283ae93324b12c9FF9e5597D6642C368",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:003Af2CdcD9B0BFB56Db4166aBEa7c860F0cdFdC",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:142548Df21EeD816924A9e3B998910B0E6938Fc6",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:413693731Db2dB439622d690B04402F9ad0eBeAa",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:c4f0f027C3CAA4FBB7084529321f8247258b4254",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:74AF44Dd12130f778B3eC8fAa2968e1478C99076",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:55079Ff6A0719f7A8DD3fC40356610b751d3270f",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:0cd2d2E62baE0272a1cd7452d2b47BD85c2d22D9",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:3Fc62C835b07a765CDe9a23E377e5615Ea895D92",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:1ffC23BFEDf5dDeE7cfAd4E3Ec88e543bc4a268D",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:Be5F6ad278a1dFe078805A7F55bc76E77a227966",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2f6bC59F81D81d97E44ab2a1CD8B919f542c1af8",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:eF8D5D99A1F73B7d4A73a85808a6faCEE8FF215a",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:37B44Bb728BA306eeF64C5eA2F176743A9078662",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:Ba8Bfd02327C8a826F57294D8B38C5fc7C43755D",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:5709c6bc8162A0Bdb33dCD4A83a3F4539160ED6B",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:28FDA553d07c6a208DB44f73a3c1ad805eBb18c6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:2bF0A33b15e244710C38c5De6D146faa844EA372",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:076FA82AB4b495ECf86107e525f9813853C721F5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:56E0c8E9FfF2AE0C618500abAef1cDB8EdA5DCc7",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:9E290c573456266f5ddA89f6Ee1236FDA7264a05",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:f5dC3A446DcaF776b40DC7Ce7b92c3EA8ff4ACbF",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:308415eD1CA9d30FA0464993A851927f9c1fC601",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:E5cbd6A024DAcd71200eA588d8f3305c6ba20A3b",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:816507e87db641035D9278Fd0B964666fe286d7b",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:25EC5901a41D8fe2a05D3F9CcB94019679921378",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3DB62dc8ec8cCEb6678E20cAB1605E08039391c6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:16dbC53b98b58744FE77251e7fE5DA3EF75605EB",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:D8696385C59BE62F1B4f957E9D3f7158055555b7",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:16eE0beF3D4268F28C1D0871174329d2A2E0038e",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:bcDc7D4efD3491CAb2a8Ac0850657A717c9B1200",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:c7a248457A7cB2ea443229C014ed89F89514ea78",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:e5Ba263026b503f92084ABa279aDc50F99E94D6C",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:4bCc13285ee86f1eB10Ae8A5B60bB429C2106a5C",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:2dD17B1f003802767216cc0B39e4456A7Cd827bF",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:12663a76Cbd1737a76C5618d7F1e40D0BE62426D",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:F621863f882e8C4662eC4ad316FEEcb1808Fc2E9",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:2b8866DEB993e8aCa05698422679a1e6Bae8676C",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:0F26f44BC3Ec2482866AfA2CCEEaD2fB019bec7b",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:1FA87Ac58b4e19Cfa717696952833b54eeDdc178",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:dEe8B3a678494957591AB58A34fbD2dF944060E8",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:7B1BD31e39c2C05A8D7C97B70977161379854AA6",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:7d260d1Cc0e49e8dD4f007A7d0F0519D81846Ec0",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:99Ca449BE6a4a479aa3986Fd6a78447e34D4Db81",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:CC8b0247a1Be6F1C515B06f7fB40775a4A0cB4C9",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:59BDC11F7cdE8FF747e85139F7085a786318Cdd6",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:e85C8708714605D1556def6AfdA4CEdd83a466eF",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:aE89366E7cB54Bf3b165AD656CdB6D997792B56E",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:d37FE33BB0fCF9E508ef8DA26304D051FACDA9f5",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:7B72dc3D2d5ba299cd10B772e9355c8153029c36",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:Bfe357867D82c56F03E400F2177f7482FC044A17",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9fBeC608e1589F29A84130f47126875289a2f1e6",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:Bf8353235f25897aB18dC3ff0cD2Af6AC819c351",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:04875B2549e29b35B27D324B60f5Ad2c85b4BEa5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:5927F57e97561a2B04c882BB3ba64a4f9244229c",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:Fc0A26A1c205fB0608ebDe4Da1AB968Cc80FfE3d",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:b67D5aE92AE7E9ddd1D9654cF622C748f61B2a45",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:AEE232Fbf07cB6A517A8E9D1477A6979Fc358696",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:487D30fB735b80d661BC5F79274FeB7168C1a8B5",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:4b09eDFA42F0DfEe57832314D42fDA768e040a29",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:f18a471c5553D9E5516c9Fb40910c26B7131068A",
+		"reason": "impersonation"
+	},
+	{
+		"did": "did:op:0c924Af5C316aa5B21Ac88ef451EA218caBE33C3",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8c2b2eB05E9069FFE1331DA17BD97371f7b0fE01",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:C1d97aEAb57622B2d139f10351B48CBf94071e5c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:8051aa230923dA0e4a6574f341bdbd2f27c5979C",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:83e4a617A6FC35335F51E230DB09e4A8365EdE39",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:Ad91dC625B730538C77D916Be288377f96b004a9",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:B67113DCc35b2812A3d70a02A146a5c4C655297c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:5Cf06d79cbDe234aEf57b848CF69bE58b0028846",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:5EfAd131a4B856D76C0AE70AFE2225D92E6F3BC9",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:3720591f7CA9Fb4A476c99fd663dFBa4D901aAB8",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3aA75eCb387294D3F6420b19e8B47793b62b67E1",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:18A9099c2E6d74fA1Bc095aD75bec4a57B98cf0b",
+		"reason": "bad actor"
+	},
+	{
+		"did": "did:op:02088F1E1D088a8D1D5D888c34b2fD3073d950C1",
+		"reason": "sensitive data"
+	},
+	{
+		"did": "did:op:9162a9D17d9991b1b08747bAF1bdAdaf0d18E668",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:Cd70A23649833C53B5a8b10F79D4d51AC2Cf78e1",
+		"reason": "ip infringement"
+	},
+	{
+		"did": "did:op:C8bE946dD565315e32025C7E9615b558A8B7C5DA",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:3CeA3612EA153a6b8Ce269E6a93E797EE73214F1",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:546a5E08B8a3d00aC8AFC6A3aaf86500b0410c87",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:49D7611B341A0245e4d8F786Eeb7889d55dfaB89",
+		"reason": "rug pull"
+	},
+	{
+		"did": "did:op:D4DD7F5A182dDAA45D0ae2976FF7b71C69aE0536",
+		"reason": "rug pull"
+	},
+	{
+		"did": "did:op:819120c563d37388d8ef7167847ee878Ac701512",
+		"reason": "rug pull"
+	},
+	{
+		"did": "did:op:6Ee6f092229E32c708569f98Ad0E6A7206371E94",
+		"reason": "rug pull"
+	},
+	{
+		"did": "did:op:550a88A12e591aEd587069D76B356281d76DFF88",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:9bc4Cb2FBbFE520953701Dcc6F6653Ac735a562c",
+		"reason": "violation"
+	},
+	{
+		"did": "did:op:a9099A000a5667B313577922AFC933B46D1F7C7A",
+		"reason": "ip Infringement"
+	},
+	{
+		"did": "did:op:0f5B491ff05f5720F2cF7E5eD8ad73Af779Caf4C",
+		"reason": "rugpull"
+	},
+	{
+		"did": "did:op:0A932F55aE55C26c22c0247Eef5D19c3ff809292",
+		"reason": "rugpull"
+	},
+	{
+		"did": "did:op:78526B805A79cf7206c402594BB1ECC50c3d1196",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:e8caB03fDe92d4D08D3d6D4F118829Dfb0a2F83D",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:aFcBec05b57413D4e823F800eBc563eECbaCb3fB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:579E1EEc9aC633e828C74Eb25EAabD9D30E7ce5B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:dE6fF7f6D8a9F7F29793f266aAF08134A9363b86",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5807704CA90b976159a1cEA1aFd8B13F22e088E9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:B527d8e282d54eF8054f14226aA3837073Fa61FA",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:DF1Ea7dB73636509B457a06C0477Cc8F5d63538B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:959665e60951316082C23804608c99Df693DD672",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Dd64fD4Ff847A2FBEC2596E7A58fbB439654acB5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8f376e4522df96AE86ea39C9a40Ba920fe97CA8D",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:37E095Ef59E1D879c27EB80B4ABa29e97f070FDD",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8E892462C608f0710748aBD2F8044693f0B1314c",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:28De461A10DE545397092E6BE6FB19cE5aEDe972",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8F444B395eC22dc3bE18F150a28822FcF789bfA4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4b045477A198A020065C497B08C5105372cD4f49",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D69823ae9Ba4449527a7D34a1dD25449E7346e36",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:049Cab7607ddB5fd85Ce6e16daE285cA2123E3Dc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2fBBDb3c87eaC971D0569378A2e3B983350DdD0A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:210a0E4A9b2BF86A405ee99280259B2B5483239B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:00B74Dec82779042761EDc82e63e11c88Ab26D88",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:38d0dF05C5Cda79cBeBf687d4D289f8600dcfbE8",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:60112f8c6697d7dAea24a4cA2d9B431CfADCfEcB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4dB9347BF12e5165D448eCD4c277F05a8Ef17483",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D027B10b13CA0bdb00f24b6B2e938F930e71cfE7",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8711516C24a30E74F371c9A98A3822E5C87bfad9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6fee1E7D852254199dc80565A9401B94D8f28A00",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b2944FBB61668ce7a3f2236c58DF7fC9Ce871d92",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:0bE0a42C3Baf9b5760e323B1031a380B45eb0810",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:42d8628F8577251CcA7809516Ec834319D5D9399",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9b73FeBcE638A22F4b8Ac58Aa65b53D1bBED55e8",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:53Da873a5745AA935344b9838b40661CA4B39dF6",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:252aD96d970CB9e38D5c3b7FB316dA183C7283bc",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:ab8dF0e49aC1e5A426E6C9b5D723eeCf67029B8D",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:19551861AFB17585AeF3d6bC2Cf190202F943Ec9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Ed692BCA2D714B06c5869cf90CA5d1c42AFd2406",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:4D0a9838195bCC1016c022C0fB2244ECd7287dBf",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3ACD478A45aabc9cF02ec2E8f18cfa0331551632",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d136CD02A1579A2cf61AFF24a41fF21301cB7c3C",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:39283f754DB5e73707998704f7D8C012ec7AB674",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8bD6Bb6AcaAd0390CBe16A85cb9e1f01C6C80E18",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c0Da0F54767B2abADc4D48e35f7d0Ce4Dc56fb17",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:caA8E943868a508e55899767c9525B4937c4b95B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b59FD379363e731AFA1B07c6d701ED6cb22F329a",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:02d50aBC3C7655A9b00e9378De1d7D66d5061BCC",
+		"reason": "corrput datatoken"
+	},
+	{
+		"did": "did:op:4cf88f8f54C5A415460A1BE51877998F0b184EF9",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:530526bd0e0d9913230C9c3b54f538b3e7cc6c08",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6ceC95980E8949C2C1caceE9d5d329952799022B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:530526bd0e0d9913230C9c3b54f538b3e7cc6c08",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:82743028E819Bb69C6EbbE7b24d356c1034ffAbB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1888bf2A923184860C6554de1C0d9Cce275dBcCC",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:f382A70E01A3be406F33F27275F4cc41571D1B2d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8C6c6b6C824d7f62BA0457371b6B01098c86D02A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:30eF1BC1ee9B97A05a70220a22301324f4f0eA00",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:527912ca6C1c031f8F347c50dFb6fe7FA7bcD287",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:780eBFC1Aee1bF6EBB94142471c3dC1406D5eF35",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7E63582dcDD1ddEbDd1CC6eC26d22C33017f455F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d9e187a6c7b795F155c7ef46DBDcfaCE1164D075",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:47456fe65742C8e3BeF39FCCe9349763B0359db2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1F0fA362A791241EE4FA09998ab9E50fcaDE4105",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:549158F01f8A95e75cf4D3B30FbbE785454cb04d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5462f8294bd74326841aF0C597d3662099a95570",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:E84Ab870A530c4Fe22A6a9Fa6C6aA5637eda7d93",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:A3C0280d108cFaaA194fCD1C4E8881bAb23473D3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2a69A62fc38870C8Ec29a2eA7B717D00a9e6d363",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:52328De360f21DEf26A1BED1028a4C01B7193801",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D5F8A998AF5cA69cB7D68a96021BEB341aE60D2d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:514e85aD393cDAB267107A0Ffc2291d89ecB2D69",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:B4A86e6dccdc5E98BB929391c95Ee5fd97d882f5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:34e420D67EA30Bb7358AF98154481441f25158C1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:08F19eF540b91d20C8b07F48558D89ed65697c60",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:FdF3A4943974E0125a92E5E1aA1DBdBa19356AF4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:43a18aa7E0d7593C09e8C10bB06fe92f49bB0ed5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1BF73d4EC222e8B757207e47157170C3298e62a1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6B12cfa1763565f8C9D2bA5dB939218A1cEBcF71",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:BF50b904a872c7c4403e14cc44CDe81522c4a852",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:833b44aE3554B04d416b7f194917FF39842CDE85",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7d0f3b4ae9944E1D40396FB9495EA652333a329B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7f884646F3247183e84764A6f12Fe455aDa2D2Ca",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:083CcCf3a9a7055F14595a67FD1471a15A6cA82B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5A8e9FD6e4a5C217f3D994A1b9a1B25A11Ff207E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:A0854fA16222810b5C063182642C1B24b332026B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D3cEfB4eCfe9bB60A51A7Bb02b1cEE92d064F4fA",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c185aa9B479dC8a53936d8ca5cfdbE5444094DE5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9e8a37f8c69dbd267262D081A0d4c6D85688A11A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3Cd7022bde756D7906Adcc64D4031947d8254ba4",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:3d530D8cf3315F065C6c4Ee73b0Fab97236Ffa8b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:f8aa4bc71Db90f0236411950Db1D07FcB049F59F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c65AFfF4126721a1bf76361a825fFb3A460CdD0d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:057BbA60d6ACFe8f01B9812b4F2faE0Da62FCEb0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:698cb5ec12015a537ea6272BFb01A3c99c908b3c",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:A77d3A3215E904F5a8cE4e6E76C4394241917223",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:81077fa8f7bE96c0D505d80CE493b50389CD54F3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:11250764A3BDf5f146f9E30fC4BaBF7B9c91675d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:aA726dE2c22dA84B36eC36d4ab4AB26702aD9666",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:49CBFF682D960bf20F5249478f81bCeF77DeF50A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D8492509E4c98a7575a29341937aCAA7d201fd44",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:92dF844b3db782741D4E15c01a35bd8411191EB2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7f51d0980F06955954e309288349c0F187588F75",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2eAa9E73922434a75B7bAC5d9F18c3CDb8CDc59D",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:C58bd3674037EF1504303df822936847c0543565",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b37656558b16038CdC694db940D7d60e2A913c1C",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:F0DfAc9822eF89034116D0330E83c621C636C939",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:5DDdCb43D2D4c79CE496741753446494E1A596a5",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2E6DC62A51b82a177bF55687FbCE6d0dC2d35321",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:907931F50806C746eeb5483193bEb1A46f373Ce3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:695d98E217944ABb760959A8E1B99980E79694bd",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8cB451E72B3e5C357c984C9Db6E7aEa486DbcA3B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Bef6e3F5495F8D5b8F4E25E9F567369eAF8770C2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:19eb4E28Ab97C0a536E2Ab4e14f1Ae20566fB254",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:Bef6e3F5495F8D5b8F4E25E9F567369eAF8770C2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:94ecF38916311Ce3f5Ff4C3A10fE822A58E9Ff1b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:ca71962c230f3145569238709FDa6388Fd3bb15E",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:77b772fAf7ba5C85483A2B898ac9487831b2a1f3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:93131D7D86d6CbAeF449107D58f1A6706dC7DF6A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:32512650424f216496398F920FE653bB99E1236B",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:16dF90199aA3067208160b09b3Cb9404AFcdF6e6",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:78Ff02196092DAF72FD64fFc0d30304371453aed",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:92F7E271D8b830B09A59E1858725509aC4Bf29BF",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d6d5B788469F1fffDCE1d473C2cfe30F8f60ba16",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7dCE6cAFDC1F657b62B51379268595Ac7D825E29",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7c133376Fc38ee9f23f76F1f6108b1a08d7c7673",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:847e445f3893386cBca3eD4869cBE2Bfc38e770d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:70553fa528d8633D85107EF3552a3C6913D03ef3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:E378b24baF1CB36733806eb8DF455687bD0A81FA",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6bC4E3043DBe89b275880a8F9dd01d0Fa67838bF",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:FF811E4Bd51815fC6F6EeDFf04cd46C5c4F72e24",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:e1590A2bcc1420CB07a02E13747B41d119bA754e",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9f2bC2005c808Ba135A2764a0D85655e5c8850c1",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7df9F5327C9Fbc1486AC17C56a813ca2F832dD59",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:49a5f0e3cd6B578645925e94e6F91195a7c996cB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2EB42a9a795dd6e5788a29C6221e8760febb32dB",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2Bc924d90498Abdaee30D7b38f615F10A4bFaa48",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:A1867dE08CeeDda2f81689c25FAE4B523695C12d",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2CfF973de49E0932E407Fdc1C7d94cc4A7291966",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:64386d1A3Db41004D2195A880050c9A524aCbCB6",
+		"reason": "end of life"
+	}
 ]
