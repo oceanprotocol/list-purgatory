@@ -2762,5 +2762,17 @@
 	{
 		"did": "did:op:d31B42B74b9deeCA6b046d3744DAb9882193A794",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:55f770Ce6797649b8edf4fa95964b11B3cfD11aC",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:ee94bf1D245c309118f9C001167Aae105d6dDA86",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9B25196e25D0FFfA7491D330c54c4B808Ef35fEc",
+		"reason": "end of life"
 	}
 ]
