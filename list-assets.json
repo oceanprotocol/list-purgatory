@@ -2782,5 +2782,17 @@
 	{
 		"did": "did:op:9B25196e25D0FFfA7491D330c54c4B808Ef35fEc",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d831ba95FcFB683f3a76185e8b113eBd15dDE4d0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:20e2911A4bAA852e57e1fD4a28b42c6909B6bAfD",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:7B12a61884bc3E73AaDB79cD9eF905c6769FD268",
+		"reason": "end of life"
 	}
 ]
