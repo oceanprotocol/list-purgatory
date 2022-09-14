@@ -1,5 +1,13 @@
 [
 	{
+		"did": "did:op:Bf37b359EB1EBe39812eAa37645AdE12114da127",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:17F99Fb0679C33c1e97F4a8c78ce3084aDB4c224",
+		"reason": "end of life"
+	},
+	{
 		"did": "did:op:BB5DF2F1a60b3870bD645a7E8873ba81A341b009",
 		"reason": "end of life"
 	},
