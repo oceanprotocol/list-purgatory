@@ -2810,5 +2810,13 @@
 	{
 		"did": "did:op:7B12a61884bc3E73AaDB79cD9eF905c6769FD268",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:06A63805bA4EFc0395260ece7E7a14623aC3319A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:21a24256DA769d01ce0Eb059EeF012C4907325aF",
+		"reason": "end of life"
 	}
 ]
