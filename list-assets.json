@@ -2818,5 +2818,13 @@
 	{
 		"did": "did:op:21a24256DA769d01ce0Eb059EeF012C4907325aF",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:f3b575e98c3c0B0E50E6F5B9f48Ec30ED849D97F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:01dCacc28Cc2140b4e262b789034633461Bf6F9f",
+		"reason": "end of life"
 	}
 ]
