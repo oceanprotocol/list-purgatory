@@ -2826,5 +2826,29 @@
 	{
 		"did": "did:op:01dCacc28Cc2140b4e262b789034633461Bf6F9f",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:72170a3Bd7E89bca787FBEf6a5eb48fd127b67C0",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:C5257969C633aC15272DE35649329e8aC2ADbB11",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:75AC1666cd66eD66b767987317299299F4005a45",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:195B038fc8443D12684BeC3a0E7e39bbf824DD72",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:b67891d17920Cf2a349edFE2Dd6321561B9e929A",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:F504c45F9EcD567a6B752972c0B00573AeA4269a",
+		"reason": "end of life"
 	}
 ]
