@@ -1,5 +1,4 @@
 [
-	
 	{
 		"did": "did:op:1ba6527604209c721c74C362DE6587a930C03e0D",
 		"reason": "end of life"
@@ -2885,15 +2884,23 @@
 		"reason": "end of life"
 	},
 	{
-		"did": "did:op:bFeb15EABc15dDf8F74246e4FF0Fb9e08e3D5747",
+		"did": "did:op:1C90D4283420A433a086164e16Ed348842D2e17c",
 		"reason": "end of life"
 	},
 	{
-		"did": "did:op:b512072e2D43dD531d605DcA2baf68E86aDe0Ad0",
+		"did": "did:op:1454370DFD7853EAf4138D3b8536CbA75F234da4",
 		"reason": "end of life"
 	},
 	{
-		"did": "did:op:5b53a8e2F941DE7cf9c2bA2F07a3C49C844Ad212",
+		"did": "did:op:d5EeE04f0275621a86455b84BAD2D8a2382CbE1b",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:56D1396c917627f4517C60C0A8BCa1AdfcabC909",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6660935e319c9bA33606590b37ebDd677D8a52F6",
 		"reason": "end of life"
 	}
 ]
