@@ -1,10 +1,35 @@
 [
+	
 	{
-		"did": "did:op:1ba6527604209c721c74C362DE6587a930C03e0D",
+		"did": "did:op:2c85195269DB0835137F2bd52bBeAbE029408D4C",
 		"reason": "end of life"
 	},
 	{
-		"did": "did:op:2B3a0E5B2739917A90fdDE5e986910A00b453cE7",
+		"did": "did:op:4FD03631d9445DcFCd497C69C0Db65c6056EdE94",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:E241db5946775c2d901cf3993FD0B5fa14d14C75",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:2c85195269DB0835137F2bd52bBeAbE029408D4C",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:6f809422E98dEE741A8CE1402f9C81FfB3b5d7bC",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9A46D917AEa5505920d8c293604D2b6B70c26F63",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:cc7d17930E40f6743B89010679b954974F85533f",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1ba6527604209c721c74C362DE6587a930C03e0D",
 		"reason": "end of life"
 	},
 	{
