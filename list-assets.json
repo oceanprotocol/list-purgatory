@@ -3019,5 +3019,9 @@
 	{
 		"did": "did:op:25e10daAcEb5E16AFa7BeF1c7C05139bb761FD04",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:bf61b89af85f0831f6f94C8c1457938C680ED004",
+		"reason": "end of life"
 	}
 ]
