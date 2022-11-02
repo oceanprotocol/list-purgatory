@@ -1,6 +1,14 @@
 [
-  {
+	{
 		"did": "did:op:5d7D674BF130489eD9dAb5624ca443287d41FA11",
 		"reason": "end of life"
-	}
+	},
+	{
+		"did": "did:op:7341E153CB909462942797Ac987b0f00fd2aD5E3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:8F9423117E68a53c570117e8C646Fd57570A7566",
+		"reason": "end of life"
+	}	
 ]
