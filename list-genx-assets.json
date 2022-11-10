@@ -715,5 +715,21 @@
 	{
 		"did": "did:op:BeAAb375e1de46CD016bA19C02a774A118F71D6f",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:0359b4A63035930e74581054242C436BB32826da",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:fAB019657Ac98fE6BEb4c1bD071AD81B160d9971",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:37Bc75f60802cF9abf6072f78f702A22E122e2F8",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:fd84e109Af8F2f341882F1029d1354B73410b888",
+		"reason": "end of life"
 	}	
 ]
