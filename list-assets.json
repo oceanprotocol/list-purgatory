@@ -3967,5 +3967,34 @@
 	{
 		"did": "did:op:c34Db52439a09aa14C0361570932271bCD3c494E",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:1CDAd03BcD0485198c17d5E1e4f5F3e948099261",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:053Ad16bc996600d2F7bFA3BFeCeb8b496DB1114",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:666A9EbAb452e17077371CC917f381Bd900d1B34",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:9e15F1B31E92Fbb09A6391A19724Cc9d83DD36cf",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:d42F2f84F269B99A4E84D2b1e5d6F4905E5bc430",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:951037d65bbc03ce96Bd80b30D7A3f3Ae1116fcC",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:54ba7F53e8ecD49cf154834dba1b3B4e00Fa1146",
+		"reason": "end of life"
 	}
+	
 ]
