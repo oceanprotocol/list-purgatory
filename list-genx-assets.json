@@ -787,5 +787,9 @@
 	{
 		"did": "did:op:a890aFeA4465F198b22DC11191357548908bEfe1",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:c45b5635E885224E4a61fB6A1b22640FeA37E5BD",
+		"reason": "end of life"
 	}
 ]
