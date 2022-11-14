@@ -791,5 +791,33 @@
 	{
 		"did": "did:op:c45b5635E885224E4a61fB6A1b22640FeA37E5BD",
 		"reason": "end of life"
+	},
+	{
+		"did": "did:op:016e5f2aD2b11560a0942929D975a35031ac867c",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:C4202F94fFF2D62dBF21ED8950e8D9c8522161f6",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:e3020481d9Ec35E5E8f1764500BE0D79B43Fb415",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:59A1298c126a7D6DD20f9061caD638eef42b99C2",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:05e29aa038DB5edacFBcDf5515b565701B85c08F",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:10a4507d6F3c0d87CB2d85862fa10c1525b846A3",
+		"reason": "end of life"
+	},
+	{
+		"did": "did:op:D23265daEA2226C142330329e9737e57673e9288",
+		"reason": "end of life"
 	}
 ]
