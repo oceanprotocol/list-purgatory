@@ -1,4 +1,8 @@
 [
+	{
+		"did": "did:op:Cd552E3E68f5c7Df6949Ef91E62d6De59a658ECd",
+		"reason": "end of life"
+	},
 	{	"did": "did:op:d450c96B67Ff8b7f81BDf6207E5fF622aEDE5ce7",
 	 	"reason": "end of life"
 	},
