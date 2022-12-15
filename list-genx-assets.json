@@ -963,5 +963,13 @@
   {
     "did": "did:op:f70aB488F96fE18373FE7f93B2C4CA7D63f56a29",
     "reason": "end of life"
+  },
+  {
+    "did": "did:op:a74F09f86895FB31C002164873495d8752618ADd",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:eD03a2B85A845f3cD6880Ff0AdcBf1e460589B3E",
+    "reason": "end of life"
   }
 ]
