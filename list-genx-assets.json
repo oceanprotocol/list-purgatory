@@ -747,7 +747,6 @@
     "did": "did:op:eb2299dDCa5c29fbE0CbFb91167C68A905fC181f",
     "reason": "end of life"
   },
-
   {
     "did": "did:op:4fAD3299106F807589fBf55Fd572dE8E465f061C",
     "reason": "end of life"
@@ -1030,6 +1029,226 @@
   },
   {
     "did": "did:op:b0e96cd6c8beef6c16651d39697aaab085f11d8553f72814c8afe3a7dfc5777e",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:de58afd438e133638035a649dbc283c56ee45c021b0db09af1e81cd25fb7afc3",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:76f1d884095d4b035c071178ad05c1367ac96c270ba992ac1be9d18bcd7e4e40",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:e01c4c8d266d8bba23a883fb18c239a713d364125aa8ddacc9579f6f614a869d",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:2f39f8c22f76361b5d4cdc191c89cf0298265662080c3ffc47f802c37d113359",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:95dec8469d9e761f514690bd13ec9b0af815924d0158552efdc912bc2f2b6d1b",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:598a237decb338088496dec3a6094c888c8dc095807a3030aa02080256751bcf",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:799924e4c9fd3a6dfcd2ec5884dddf26c6d38c8199f2097e5dc971afe8eea419",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:721f7cad6df08bbc0e8dd2da560232fe15f963701c62ecf84590028b673331a8",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:6741cfefcf1271aad1275d522eae0ae08c38d4a6bae867e43f5c952755361438",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:3484108250372a1b3482045c34dfcd6f5858f7c1454cfd2bbf56fe872d8f85c1",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:f6e2001bc3802a982f7de186a145c86fd00eeeefc4bee103fa8ede3ae6201c82",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:1add9beefa021942840e1352105803f6e5dbfbbd99dfc1918af7b46a11a1b0c4",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:ab127758c87178381be1530dca54e9ad8b3536cacc481f725cfabaad28cade27",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:01b91bee3a4a1478fc34489d1b6b2cba4e4a107abb7f88484665ed846adf89b4",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:cf38330b26df6104e3a42f70841c3ea80a50a97e2c69775a4ed7a6a65f67b1f9",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:7883a815579b247e466bed1e65f8a0b5b96d836e74ef983c905881217e351cd5",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:50a5d4c1130e24c3df3895bc5a592573220de271025f7cf0194556a0f3cadaa4",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:24bd76e8982b9bddaac65261a236aa1584a244ff61e00c6d8ee9ddb27e2a02a1",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:646fb0635fab532ac928fc0443e6e86116f084842165d8a7e06e8b651520fbca",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:9ce36f1ed1467a32cfa1c6aa75872ec56d3fecd285003e44fb863b4931c9daad",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:1d4a37158866b3f328976d4c70b3bd32ce6868da8aaf40548caad7e8875110fe",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:9c544f33b57541ca70297d597fc15a5a3dabf745c8bf90795d4e3b99875b954b",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:9ffd39a14e5e6683d881561d0d6b32d27f7683541de8e0c7bb418a67058717e0",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:8dbab101c544ec63b2c623cecbd48f724b4b07441161df2c2361775ef16a7835",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:bd2d41775c5041361d899f30734920af6383c3ca5838d06fa4649cba9c94192e",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:746461279d924453fa819c7a4e72f9236a77512c0116fcd047fd2b84dd74c766",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:39039fbdff6f4f6f4a213250830e08b00db250a72886cda44f709bc3f25eaeda",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:0c39f45dc7661bf24d139b8fee7aa2e264b26347056a1e571d99c1db953bb4e6",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:4ae1dec301e100dbd9eb05d7a36dac51a1183dbaea4f8b302b7d57d7b6a51964",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:36999d98f2c894a6aaf2faed46ea2064d288080803f6e3e3a8dfa83d5037cab3",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:1a5de532929feb66f54593cd17a54a501e0c0359e46e89398e821147796a24e5",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:4df1fd235b3b56922e0a311831a0ebfdd0673eab490047a3490055355bee823b",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:f0b68b3ac85adb7c2f59803798ea2b0f1c524a7e790b7952124d305c20f08d97",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:c8f9236faff2c6451b29e26ad0cb2f039489a3de0c6dbc85279a7966d54fcbb8",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:01f37706c734c689f644b17a69cfd0c6dc2a5efc83a6b59f3f8585c12d11b057",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:5b4b4bebf2cee4d9bfd56463d66d09e786f813553b8cb7f09f8cbf659dc5349a",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:658f24a42ed8627d7cfbde173a9a6966637e2a1419d12225ea687413336da2a2",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:57fc1be0ee54216b0efb75a886e2c83f4f49652f4c46985774f8702a61565306",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:c9ff7489a9946ec3d2b2fb064090feb1824cb38d7e53b8185096ff19b0b174bc",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:8a94bcfa6fe258a62b82a17c9fc0cff592c8df489f713257f2e760c182f3c923",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:16eda952d56aa6d03b44390d3dbf8648cb605739efe740e9709d4aeb9d65bbea",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:f52d82c811f0d258dcbf6f6f11ef37afceddfd3471573b2e432800721851089c",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:e019eac48b8e418b0252ff7d37b9801ab49ae92d0d3d0e908ae3d1c82a3ec87a",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:9c8312dbf9b0d831b650987ac09ad3cfbe29f56d4a4dc542edec105cc9629c34",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:9f833391f500c5f8de54d05c0475cc2f7f44e5e49b04c73fcb888ff601e4f841",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:50d73cf092db1ab938afcfaf8081696a0c2cf1f4639d7a797b7855c946e814ee",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:1e59fea1cf4ea8540f134a390f7626a6e86fe67dcf776b38500b331ef2ea2e98",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:3862eb5177a5d476faaa1b0447865762e79d2d8438e590ad55e9d2cda29ba14f",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:ec1b23916f2cfcbafbc7054489f73ec4487212345b36adac538c8c790691445e",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:f8c0eeeefec47d7cf63a6b7a17d191dc93cdfa800987353712256b2924f0dd8a",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:29880a9a2cff12175052e49190b75458a7607b0a87bb1d106bf75825eb270752",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:25154a7ceb83468381a54494a16134dd7ddf8773347db97ad1e39d9b14d2299f",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:62766bac45a75e98ebf50122b38de3988ee35ce009d80d8986b7e80bc261c781",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:7a4cc1310aa5fcce48561fb068382ec4ed3a543117de0e3d18fb72c8a311a224",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:6ab89c59a7b8379e27a2f03e5703226dc50cd8edafc56166c30e63b7be9ebb68",
     "reason": "end of life"
   }
 ]
