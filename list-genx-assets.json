@@ -1346,5 +1346,13 @@
   {
     "did": "did:op:d460a1284218d69db02ead8a3b881ed1793ec137912bde79c24d1f57d6bff403",
     "reason": "end of life"
+  },
+  {
+    "did": "did:op:877eb1c492d4953d38e45077f668d3359980fc308d5a9720f424c570b1ab402f",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:53ae923208588743f37516dc0138ddaa1861ce443fc4fad7bb1509a588e31e76",
+    "reason": "end of life"
   }
 ]
