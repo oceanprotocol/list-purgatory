@@ -1,5 +1,65 @@
 [
   {
+    "did": "did:op:7a5b9fcadb012b979e05f22418203d8559423555b8e0456f7b9002faf01755a4",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:6315fad6633e78b3b78829eeead7003a60792b6a026f07cef4b38285b46f21f5",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:2d566e7d35c3e0f6684db2dd1614aa51301991e06e935061e1e42652b736dbf2",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:11f8988ada353472103f4a90d1bfdf653c3b635cc356560ee27f54df65559925",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:001f447675bad73bb4efd9fbd114ee7b41ecee39d3ada75bcf49c7ecf3a97ecc",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:fab6313d24b703c81b0a1e1140e0bcc427efab6b5233d64b448d83f45912528d",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:58840bb4438fcb429f657e3470436779a9385bf985dc19c33a0759a9c3daf95c",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:ddfd02ad329b7c0ef5fd397ccd003789af6d40f5ebf50b5cb6040651ed6a77a9",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:d4dcda2acabbb5ab1387cb9398da9de77f31281874ed874fa9b4e6ae81eecbb1",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:23d76ee1f29a845f5d713baa3e6fa795f9b1c14d555a484b030c31e58ed5f218",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:cf3dc23a7d25e0e18ab8b17cdd473e8b781506e5c917ec53eeb794d514b7d287",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:261832e689ae2b316cfb49b63d0a74b3780c6b0e94458a2c72148fb7dc70e335",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:0ccd1f7c597322c345e9518ce871f37ef337b94154fdd984f4c507e1ed982c9d",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:106d5aae0cb80f5d260d10712e8e33662bc9e8141b3458ba721fb6f65ef907d4",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:7d64fe69c3188e3d40f8623b30180b40394ba5e1014aec05c86b9e85decbc740",
+    "reason": "end of life"
+  },
+  {
     "did": "did:op:b1802de91ec22b908b04ad8702beb272311857dffadd0eeaa46cd75f8b581055",
     "reason": "end of life"
   },
