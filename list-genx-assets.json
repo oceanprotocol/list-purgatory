@@ -1,5 +1,69 @@
 [
   {
+    "did": "did:op:a8d8cda287d274da422233e7923a284d38b12233b4d6107ba6fda241bba95f5e",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:3bbb020d118c0e5262037c4813a5903d80f1a20e359adfe8f2b9994d17a09f14",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:cff47b8bae33d420e9aaaab871b728e735b12929841d98216dc7e1a9f99c19b8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:3d0105a13d0e131ef63091b5d531061eecb4459eaae20b75af520c1bc2266a3c",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:c44b293e094fbeef60464aa0d6719d159caf7d6115e364612c4ce5db622e4a15",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1a243a70fcee0ab4882839044b9e4bd86c53e247434b420b3ea63e29959a87d6",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fd4311f5918b7a3cbed13d5a250c19e1b398c7fc52e7ef2536b3cc98df15ec9a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:47d358e1a32efa7dc9ce0c0ea06f8f6af62add107fab4a97167aef705ae33946",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:bc4ff6f484068a522f40869850a7551c2258c703e1a01812456d8de888514596",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:20f32318bee38ff257580190f525a94361acc25a4634a52271df2769e41e485d",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:4a422d40ee39bba4d20b86a2fd37f8ce09da7e419bf5c9605689ff8242b766b5",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:68ef13f0bf738e79dcc30b2f87eef0fc22ee9a71dc103f46af8a7b699c37fcc8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:17e28c8dfab975ea84a473a0b1343a4efe05a85a013762f8f21ec1a1faf63a84",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1a1b1b1b8e809cbe17865a4c688ab273227adaf387684c2274e638c3df0597a8",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1310880e26b2dd3e88d2faa466d1c70ef01886c67429fddf197f926716c9abce",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:54e929ab74ae6d67fd78ceaca3f44543129cb6a754e06c908189e2768de40821",
+    "reason": "removed test offering"
+  },
+  {
     "did": "did:op:faf340512d106bc96f7103381b113c2be5b9db2b0f80de574b51a03c6bc4bda3",
     "reason": "end of life"
   },
