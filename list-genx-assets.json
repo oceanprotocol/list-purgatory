@@ -1,5 +1,17 @@
 [
   {
+    "did": "did:op:6059b67e49d748556396180192ba879b543bfd2fc81ad4c131d47abfd186baaa",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:2479d6d0a33a2ef643515e874d933a3e4463bb0cd31a92f37bc9c51efaf19e38",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:90d1acf9fa567bc3248315a6990ad741bc25cc315d79a401e3e83a0fd37be05f",
+    "reason": "removed test offering"
+  },
+  {
     "did": "did:op:fc35577142c895a63c7c8ded4217028f0cc3d1e05938b6eabc39514c6f18dcff",
     "reason": "removed test offering"
   },
