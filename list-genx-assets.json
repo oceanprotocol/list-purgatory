@@ -1858,5 +1858,9 @@
   {
     "did": "did:op:8ac3384f56f2b7cd49c75ca0af2e780a731b10134a882160c50178381a5d1a19",
     "reason": "end of life"
+  },
+  {
+    "did": "did:op:b7dec464ede44dc556eea7a84291819ae9238aa34abee001d57e766bf5c3f940",
+    "reason": "end of life"
   }
 ]
