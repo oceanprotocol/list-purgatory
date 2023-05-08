@@ -1,5 +1,13 @@
 [
   {
+    "did": "did:op:001a647c47143b58582609e6ce4fb1ae383282aacddacfa6d1ab28a4959bf763",
+    "reason": "republish with euroE"
+  },
+  {
+    "did": "did:op:392d1bc4513ac338271c63bf14096d9835f9bf4a4eefb5d0878084ac05115fef",
+    "reason": "republish with euroE"
+  },
+  {
     "did": "did:op:8e678941c40fc66b6ea5d9978cb3e71edbd1529acb738ba89f07b1a0027a51d0",
     "reason": "outdated"
   },
