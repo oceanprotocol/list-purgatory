@@ -1,10 +1,38 @@
 [
   {
+    "did": "did:op:8e678941c40fc66b6ea5d9978cb3e71edbd1529acb738ba89f07b1a0027a51d0",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:1e6ac0f56e0e673371df5d2b1ecfbff48b9b54b9af89626fae377c6e4828139e",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:6ea64b158e7ff80ce0a81a017624a3e393d145b74b8b46f94f8274d011db8a95",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:3b33b94aacafe60f618f0090c7ae7c7f7ee39fde9597fd97e624999a0b62ee73",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:12acdbb9867f4e57521dc20668d5841456fbaad40647dbd3466c644944ddc44e",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:0b8ee9e3bb8ac08d6fc15f58b5b6a3ab7a31b8a2145f709323ef9969eac284d9",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:6a935e54a262d4dc3c8b50066f9474c3995887ac7beddb2de49967bb49d5064c",
+    "reason": "outdated"
+  },
+  {
     "did": "did:op:a4434486f02febb05cb9b04f17e9cc8766ba496bd487809a3705f6ee226d9abd",
     "reason": "outdated"
   },
   {
-    "did": "did:op:81070e07bdbccb6d62dfb0f06b52a1b01a4251fb14fd19b0afb09410202a6520",
+    "did": "did:op:0597f57fa800569f1b0abf4dc7b6790fc63e87281472a0a3ba258a47b27d3be8",
     "reason": "outdated"
   },
   {
