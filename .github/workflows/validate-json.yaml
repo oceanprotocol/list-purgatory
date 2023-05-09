@@ -1,0 +1,27 @@
+name: Validate JSONs
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  verify-json-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate Assets JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./asset-purgatory-schema.json
+          INPUT_JSONS: ./list-assets.json,./list-genx-assets.json
+  verify-json-accounts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate Accounts JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./account-purgatory-schema.json
+          INPUT_JSONS: ./list-accounts.json,./list-genx-accounts.json

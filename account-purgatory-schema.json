@@ -1,0 +1,20 @@
+{
+  "$id": "https://raw.githubusercontent.com/deltaDAO/Self-Description-Lifecycle-Management/main/account-purgatory-schema.json",
+  "title": "Account Purgatory",
+  "description": "A list of accounts in purgatory",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "address": {
+        "description": "The address of the account in purgatoy",
+        "type": "string"
+      },
+      "reason": {
+        "description": "The reason the account was put into purgatoy",
+        "type": "string"
+      }
+    },
+    "required": ["address", "reason"]
+  }
+}

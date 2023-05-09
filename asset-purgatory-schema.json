@@ -1,0 +1,20 @@
+{
+  "$id": "https://raw.githubusercontent.com/deltaDAO/Self-Description-Lifecycle-Management/main/asset-purgatory-schema.json",
+  "title": "Asset Purgatory",
+  "description": "A list of assets in purgatory",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "did": {
+        "description": "The identifier of the asset in purgatoy",
+        "type": "string"
+      },
+      "reason": {
+        "description": "The reason the asset was put into purgatoy",
+        "type": "string"
+      }
+    },
+    "required": ["did", "reason"]
+  }
+}
