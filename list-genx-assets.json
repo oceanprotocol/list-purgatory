@@ -1,5 +1,69 @@
 [
   {
+    "did": "did:op:c5254714a1eace87b2626d6ee79b72b473229493e22c392c88b7899a1b03a7e3",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:b9f148999051eef18b4f47c6d10b22b5c33cc6f453f446111c0900fe6b364e6f",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:0c3cba215803f1379cad81e81b8f8264423bf2445a7534ed32422fce50701c2f",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:5bad73b40bf5718dc67ab8b0470cf55dbba88ae7dd91872e2e06493a1f3420d3",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:06bcd969b39e9a571a98e65a833f022ced803ab8c0adfa607fe7a3071dd3eb78",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:f62ff55f4c056af42b1e8a9e69563b480e8d9d1d20016ebd7c9853e3531c5d94",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:d56caf9b1e5c077cd6ec3fe1e19da9828c89415815a6a381c9a47d69b1e10e33",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:d56caf9b1e5c077cd6ec3fe1e19da9828c89415815a6a381c9a47d69b1e10e33",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:30858d148df4ef6805ea52c38a33a24c4da9cdc8aefa6f723236e95fc58c2a53",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:965b0b793ac9232477fb07ea352b5b9a9c8a218faea987a31bb2a1b3dd396b46",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:6634d9d173e98f7b65e2aa83bacb2ced04a93af4597fa625cced5308cdaf56ef",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:66ec4cb04b2ea3b1b5d84bd7031944e6f5cd5fbd5ae251674269243d1c0ab254",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:a538d439803e3e59957145c1b1954ef5d3d7c1d0b6c4b64d1d909efa5f2808ab",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:1b25b4008c64ae23201a3d5768be9db99517a44e459a1db8bfeff285d54e8545",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:187a706c87a0a548ab3f0d2c735119ecfe19ba1e5c49dd55beebc465ea30962f",
+    "reason": "outdated"
+  },
+  {
+    "did": "did:op:187a706c87a0a548ab3f0d2c735119ecfe19ba1e5c49dd55beebc465ea30962f",
+    "reason": "outdated"
+  },
+  {
     "did": "did:op:001a647c47143b58582609e6ce4fb1ae383282aacddacfa6d1ab28a4959bf763",
     "reason": "republish with euroE"
   },
