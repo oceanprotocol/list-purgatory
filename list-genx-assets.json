@@ -1974,5 +1974,17 @@
   {
     "did": "did:op:b7dec464ede44dc556eea7a84291819ae9238aa34abee001d57e766bf5c3f940",
     "reason": "end of life"
+  },
+  {
+    "did": "did:op:fd4c3e59b10c7d0b8104f4ade534f3a7b2796788e7cac97efa2a9a2e6fe035eb",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:b24d533da30314cebb83d0ff59cc83cb74fbc5d8c2ecc8bd5728f769c6a7bb28",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:2e12cba1a583a8a1fd5af531553692325aebd4bfbf0478276e4b582b7049f39c",
+    "reason": "end of life"
   }
 ]
