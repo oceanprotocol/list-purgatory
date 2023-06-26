@@ -1,5 +1,13 @@
 [
   {
+    "did": "did:op:ef5fb3197574722c70728f02fd9705ce19ed17907b8a27b05ee5764cc6ae49d9",
+    "reason": "Test data"
+  },
+  {
+    "did": "did:op:054841db7acc34f051f89d7dac3f26bb73b86871333803c02d01071d1a8a821a",
+    "reason": "Test data"
+  },
+  {
     "did": "did:op:3b34d9167e8b0bb9aadb7a0e804f0e760157f805513e704c9d7e7d831869bc23",
     "reason": "removed test offering"
   },
