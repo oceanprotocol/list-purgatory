@@ -7,7 +7,7 @@
     "did": "did:op:53d05abf65d85ccfed8b7941c5d3f4be40dcb6f66b56b8f7771c5c0d7075b7e5",
     "reason": "Test data"
   },
-  
+
   {
     "did": "did:op:5495e7b66cd59d26bb1a5f7ecfcfd0b059a92ab1fedecaea4a64f9aa331fb268",
     "reason": "Test data"
@@ -20,7 +20,7 @@
     "did": "did:op:866e2c873a86ac446b14a8c54d6c74b73a035bf02bbd509ded407abd7153d7eb",
     "reason": "Test data"
   },
-  
+
   {
     "did": "did:op:61eda97e851fad7d08f596c8147cc355ecf18d19f85013ad339642d6b561be25",
     "reason": "Test data"
@@ -2059,6 +2059,18 @@
   },
   {
     "did": "did:op:2e12cba1a583a8a1fd5af531553692325aebd4bfbf0478276e4b582b7049f39c",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:696da07c481dee39000b76e85cdb20d928ae1c0f474aabcf042eebb4e6651b01",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:5afbc45993fc4ab6863705bc6cc58869b58fedd9812aacaa5ef95d1da7de51a8",
+    "reason": "end of life"
+  },
+  {
+    "did": "did:op:3519e59edf302496748cc6b7e2e997533aaa560ec0ba75f1ebe679a27b7e67fd",
     "reason": "end of life"
   }
 ]
