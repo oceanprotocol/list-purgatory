@@ -1,17 +1,5 @@
 [
   {
-    "did": "did:op:f271bcdbb5f1a8a1ebd988eba852a98ce39bd2181fc0b2c136301d01e01cf0cd",
-    "reason": "Test data"
-  },
-  {
-    "did": "did:op:6e1fd2c4af91e73ef4b8fa2ce5e598f861a2aafd55c7f3fae559d0c8e1803185",
-    "reason": "Test data"
-  },
-  {
-    "did": "did:op:c887d9e0f45a3f6b9bd3b43df6be9c676387208363d4a2ebce6b1bbccc44dc37",
-    "reason": "Test data"
-  },
-  {
     "did": "did:op:eabc6ac4b22259cab3c6cb7f9725c69891200a6aa423ce1f86c54dd14a9da2da",
     "reason": "Test data"
   },
