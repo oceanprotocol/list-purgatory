@@ -51,7 +51,6 @@
     "did": "did:op:866e2c873a86ac446b14a8c54d6c74b73a035bf02bbd509ded407abd7153d7eb",
     "reason": "Test data"
   },
-
   {
     "did": "did:op:61eda97e851fad7d08f596c8147cc355ecf18d19f85013ad339642d6b561be25",
     "reason": "Test data"
@@ -2240,7 +2239,7 @@
     "did": "did:op:f6a8081b50c5c82f081abebf60b0c83599c65e1c4d2c1c56a3576966db09c3bd",
     "reason": "removed test offering"
   },
-    {
+  {
     "did": "did:op:98b668ced09dbe1ccfdd7bd2cc5fdb5b3bf206b3720998f8143397aa96be804b",
     "reason": "removed test offering"
   },
