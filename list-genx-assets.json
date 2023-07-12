@@ -2239,5 +2239,121 @@
   {
     "did": "did:op:f6a8081b50c5c82f081abebf60b0c83599c65e1c4d2c1c56a3576966db09c3bd",
     "reason": "removed test offering"
+  },
+    {
+    "did": "did:op:98b668ced09dbe1ccfdd7bd2cc5fdb5b3bf206b3720998f8143397aa96be804b",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:2abcc40657e5689ba77557536ec324179adadd87f780d354fb2de6901a432228",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d2e5b58a8ccb147e36f2e61fd54e53984f2bd48a717b0ed977296b94f1f4ca37",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fb9f2ff129a46361cb102077ec3dad6a050110c6fc8f6b6cfa5d073ad09d2848",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:466dc7c07c2bac274a3de2f143ace8813b9e3b5533794a2850140a16b49480e3",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6fac4fefb91439fb3ae8c1441f91175b3242df09dda8a2b81520dbd1935d7054",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:2b83c0a4b84b706d3d37de06903fe9ad4e28529ef57d9717884c43774a85129e",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:696d1546f8507c43fe318ffc4ff394d9ac1625bbe31a556da13448211d3b07e0",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:2fd7d56e107968ef5887155e65d76d3d07198d3b22925dcc972dd0a9e1c03d98",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:658b907a37b07bddf7b9955fc29abffe0e3ff9e260bca36f634fa891582de8ca",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:9829a8d57aa2e98e1952a31b77f0913b4db37f1e40c484a52319857299756974",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:512eb9987163198aac9fc2455376802baaaf26240e06924371b79809b10a9582",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:bf341cf197951bc77a8000d0baec4da161d67646cd889668d3e9ec052f5c775b",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d94a54dbbf269aca6df3171b450052ce9682ccc1805f6015d0e4e3b7255b0d6c",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:253ff81ebb4869c33783f94ca17afa62c59623e887486ee3e89e8e9bc1f0d66b",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:beef20257f5f86c52e63daf1b5969fca26dd62cfcd4620aeaeb29d0bcd6a62b6",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:f6dbf6d161b9c32b3b0bbf268a8d668d8d3df6566ce06520a7d8b8bb5b367c67",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:7bb5a68eebea0658a7d1578d59a2e180047f1130ef4eb17174fe1ed38ff95880",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fb09f306d7d943508a6c6c2374483097366d42189f037fe2fe741e53e5140bd1",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:af099b5ebfae46ce71796819990d07982af8146d65823a79c0185ecc69c800d7",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:40b79fea26e0d8b38f066a89d62abd2c4d22fdcd5434ae335382d65d7ad25b19",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:eaa2d463b88fb840f1a2dcf7cfc06b91ce6d535f232197bcc3ce57fd3ba2c075",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:370924b84b1101fbbc827dc7f7c3135adbc733d8e22313655e60d5074c689347",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:7ebc9a16a9639f1b30dc3685d2e5e1b59a29bed1301c4febbc5921dfef12b7f9",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:db5ca02c963d7dd06f943bc58c3073ef7f6efd9ee774abcfb74d9592acf7533c",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6d3333a093305f7256fbaec117b6545e985a126580f4a468c1f9abfc1fb92cf0",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:c3905dfe5a0064a8c7787ffd11d9558d132bb40a502fd5d3308612f4913d6a5a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:40657d50e792aed984dcefcd6ffbb55c30fb246032b6fce5ca3c274f195d91ab",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:708997b49e222ff7e8baeeaf49d5b68b2680b98c1729d62d2a166cd0dc0cb0d4",
+    "reason": "removed test offering"
   }
 ]
