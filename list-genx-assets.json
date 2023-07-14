@@ -2354,5 +2354,33 @@
   {
     "did": "did:op:708997b49e222ff7e8baeeaf49d5b68b2680b98c1729d62d2a166cd0dc0cb0d4",
     "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:b6aed41542fb784b920da61a4ef837f5a1eceb36e7d6a3990ae5a1a109242e3e",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:870c92f30f3fd1cfea6718b5eda14c2c8fbf34772a57d953c863dbd049485e1a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fc7fe88afd19bf1a1c5dcab70cacb5004b159e69280563a516219821eca10549",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:195362423f8dbf4e532aecadd7bd2335a4d80e3ce38b972a0ca5eb8fa69ccc17",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:ceed4886f270d694291e4aaeb18b1b498abea37f3c6a5dd7353b532fa3f87341",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:c4865359711ae593166e5b5f12dc9a2a5748c738e1429c8577df097f7630a3d1",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:c654433b3d5e57247ab7df957442bf8dc1e5602317fbf548941f49da4b474bd7",
+    "reason": "removed test offering"
   }
 ]
