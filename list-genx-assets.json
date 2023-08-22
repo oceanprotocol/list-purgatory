@@ -2750,5 +2750,9 @@
   {
     "did": "did:op:c654433b3d5e57247ab7df957442bf8dc1e5602317fbf548941f49da4b474bd7",
     "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:361e0085ab389078ee5d76a6672cde184dcbe39701a0d888f6df99a90b6f854d",
+    "reason": "removed test offering"
   }
 ]
