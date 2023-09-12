@@ -1,5 +1,81 @@
 [
   {
+    "did": "did:op:1c23ca197f8b86e7b02cca81a9e93cfc217536f4130fdb7b737ff709a4112913",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:9fe1a53f16d18b9a3256cba6cd960c987cf563bbdc8f5801173efd840ac3e369",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d87b3f16498554aa8792ee65234f746f28f55ef71668590cb3513d289dacece9",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:dca7187b8e92d2a5382bb30f1beda877f146c3f521c2fd7c9fd2e59bbb0f7323",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:d6a7c745129e4cd05ff218f285136ae0739a07b6e03c7041f1c228f5887c4bca",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:9096bc78c50de926d89fb013704fbe667d929c86603d21a4b84725b9082c4b0d",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:f0749dc99de7001007f058953d4983d46c5e6e1a6d8263c64e4e59584d616ba7",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1c2ae27feab21286b4f0d9a6ce7713933bdf34877a2b3a8cdfacdd81866673f6",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:26f814ac33920e173bd9c25a5bb4b95c921a27f6c030740128cb195c8114e5d3",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:c5e3d774a4aae5e2ca80735059469aaa1978ca3093efae70d732a44d6924ce63",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:9b1a053c0d1c917722403825f8cd7a2c22ac4b9f2528e78a291f9097cefc49aa",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1c2ae27feab21286b4f0d9a6ce7713933bdf34877a2b3a8cdfacdd81866673f6",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6e03214735bc90e35642fcbdc087ed7a4f4e6771d5c82b58c6ee6d4e70daa112",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6e3342d0fa060266b70eb758f0a6ed944773a0d666da2ff5e4154606cffdd313",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:dc29a6e81ef74c4a5c37f75ac23ff0c42b606861e70140dfa9bd8cdfbd45f2de",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:289b425d99ef69d3576c0e964f071a39f9208227349401ad80f3067cf763a4a5",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:fcec0beb6f407da75a3d5d623bf7ae05b61c49b68eba3a4825786d3ac02edcaf",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:a69743d9ccaf2c6b3c0fb8335d3b1871e9472f819bf5a04c35a680a6f2afbac2",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:1c15a577907b0c4f490cc7ed25855b2a04acece5a2162808ee56b987502eca2b",
+    "reason": "removed test offering"
+  },
+  {
     "did": "did:op:6e2153eefdfd07a4a1112866f9c962961b6a1b55345399307299efb27412541f",
     "reason": "removed test offering"
   },
