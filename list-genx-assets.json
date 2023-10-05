@@ -3026,5 +3026,33 @@
   {
     "did": "did:op:361e0085ab389078ee5d76a6672cde184dcbe39701a0d888f6df99a90b6f854d",
     "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:51566a61d99b709a7306c13c895fdbeac2b32d1913b38a6c47470094709a16dd",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:6f8f5ecf2beeef9a1407a5eab1d404967cdc7914c1c1724a383355223273dd0c",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:625e395741e820b2c196496ccbb897ea80bf107cf6bdf3ca8d2c6b917d5551fa",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:9edec6354a2a6d3a76d28a50e1ec8cfb3c5a798f88cd53b10106976b6ff9e17c",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:13b0cfce48c0eca58ff44b16f4a739a11d938362c70fb8e5e74a5ac243d88a55",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:a076f235f95fb79c27b4a0bff2898b4828e7b1fef2e85661f83dc9e113e3755a",
+    "reason": "removed test offering"
+  },
+  {
+    "did": "did:op:5151fbfb65dc19113a37678a62d62e370063e929c3c428b6c84232224308e420",
+    "reason": "removed test offering"
   }
 ]
