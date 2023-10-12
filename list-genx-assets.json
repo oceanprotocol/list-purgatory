@@ -1,4 +1,7 @@
 [
+  { "did": "did:op:c03d97682a2f3e3a2abbe4709a2ffebb8a9ebb4dcaa18681d764ab4cb207710e",
+    "reason": "remove test offering"
+  },
   {
     "did": "did:op:14f3cabe23a4298266ac1b69128b4bb0616d2dd09c5fe9fac1afe62daa25aa4c",
     "reason": "removed test offering"
