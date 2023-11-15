@@ -1,5 +1,17 @@
 [
   {
+    "did": "did:op:92d7edf7b88a95f5c09eee7f3fb7704c2f8a298e40e36587328e9ec152c6ce00",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:69afcd38600b59302d1b24c147e719a9f1f06a32d1c38d67c288bc8382dbfc65",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:56199c798178c53a4bb6f50ede4dd414a602d0cd84bb7649c707bb0f7f4d7849",
+    "reason": "Test Asset"
+  },
+  {
     "did": "did:op:846bafc91907fb582415e81d6bec7bc8955308294f1dadd61272d180845697ab",
     "reason": "Test Asset"
   },
