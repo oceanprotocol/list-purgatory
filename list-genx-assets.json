@@ -1,5 +1,37 @@
 [
   {
+    "did": "did:op:685fc292dab0f1391a19e855e3bf77a9b65d5ed56c7d174dcb1671447bc8a7f9",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:6ae218547cc1b144341921c596e3cbad5459f50ee0642a813875acd1a4e37460",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:379e9b0db1bb8d20694c8ab43184287edd6474d5cc3975bd8270049ca2cb76bb",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:5b0e5eeeded64583cd633a824ed2974614e1ee463255502caccff806eb328a53",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:2ce73457b5a00fb2bb9762ddab3da7cd31d7a2d7f9f701b588aca2f2b5ae6d1b",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:99558e39c2315afe5a5fe78b8bf04d35a06f17cfdcab43c1329665876564039c",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:8f2b7e684e02065fa49b96bcdf07207e053f37833297d280522c04020cfeba82",
+    "reason": "Test Asset"
+  },
+  {
+    "did": "did:op:d1ff87a06e8c94a0b5cfadcfccc03aef8e8cc2dd0f350348646e8d7bfeb49fc8",
+    "reason": "Test Asset"
+  },
+  {
     "did": "did:op:92d7edf7b88a95f5c09eee7f3fb7704c2f8a298e40e36587328e9ec152c6ce00",
     "reason": "Test Asset"
   },
